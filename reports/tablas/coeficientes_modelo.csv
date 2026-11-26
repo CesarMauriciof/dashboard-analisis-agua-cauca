@@ -1,0 +1,3 @@
+﻿variable,etiqueta,coeficiente_estandarizado
+irca_lag1,IRCA del año anterior,12.418
+irca_roll3,Media móvil de 3 años,6.7312

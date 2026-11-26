@@ -1,0 +1,39 @@
+﻿municipio,irca_2025,promedio_2023_2025,irca_2026_predicho,categoria_predicha,intervalo_inferior,intervalo_superior,cambio_esperado,modelo_usado,mae_prueba
+Timbiquí,37.0,27.8,28.68,Riesgo medio,23.42,33.94,-8.32,Regresión lineal simple,5.26
+Caldono,36.6,20.07,26.23,Riesgo medio,20.97,31.49,-10.37,Regresión lineal simple,5.26
+Guapi,32.0,26.97,25.79,Riesgo medio,20.53,31.05,-6.21,Regresión lineal simple,5.26
+Villa Rica,19.1,11.33,14.39,Riesgo medio,9.13,19.65,-4.71,Regresión lineal simple,5.26
+Jambaló,12.5,12.5,11.23,Riesgo bajo,5.97,16.49,-1.27,Regresión lineal simple,5.26
+Piamonte,11.4,12.67,10.69,Riesgo bajo,5.43,15.95,-0.71,Regresión lineal simple,5.26
+Padilla,12.6,10.43,10.68,Riesgo bajo,5.42,15.94,-1.92,Regresión lineal simple,5.26
+Mercaderes,12.4,9.87,10.41,Riesgo bajo,5.15,15.67,-1.99,Regresión lineal simple,5.26
+Suárez,11.5,6.47,8.95,Riesgo bajo,3.69,14.21,-2.55,Regresión lineal simple,5.26
+Cajibío,11.1,4.03,8.03,Riesgo bajo,2.77,13.29,-3.07,Regresión lineal simple,5.26
+Guachené,9.5,4.9,7.43,Riesgo bajo,2.17,12.69,-2.07,Regresión lineal simple,5.26
+Inzá,8.4,6.5,7.31,Riesgo bajo,2.05,12.57,-1.09,Regresión lineal simple,5.26
+Puracé,6.0,9.27,6.84,Riesgo bajo,1.58,12.1,0.84,Regresión lineal simple,5.26
+Puerto Tejada,8.6,4.43,6.81,Riesgo bajo,1.55,12.07,-1.79,Regresión lineal simple,5.26
+San Sebastián,6.3,6.3,6.13,Riesgo bajo,0.87,11.39,-0.17,Regresión lineal simple,5.26
+Totoró,7.8,2.93,5.95,Riesgo bajo,0.69,11.21,-1.85,Regresión lineal simple,5.26
+Buenos Aires,7.6,2.53,5.73,Riesgo bajo,0.47,10.99,-1.87,Regresión lineal simple,5.26
+Santander de Quilichao,6.2,2.77,5.06,Riesgo bajo,0.0,10.32,-1.14,Regresión lineal simple,5.26
+Patía,6.3,2.1,4.92,Sin riesgo,0.0,10.18,-1.38,Regresión lineal simple,5.26
+Caloto,6.3,2.1,4.92,Sin riesgo,0.0,10.18,-1.38,Regresión lineal simple,5.26
+La Vega,1.6,8.3,4.22,Sin riesgo,0.0,9.48,2.62,Regresión lineal simple,5.26
+Rosas,3.6,3.97,4.02,Sin riesgo,0.0,9.28,0.42,Regresión lineal simple,5.26
+El Tambo,3.0,3.83,3.67,Sin riesgo,0.0,8.93,0.67,Regresión lineal simple,5.26
+Silvia,2.4,3.93,3.38,Sin riesgo,0.0,8.64,0.98,Regresión lineal simple,5.26
+Timbío,2.6,2.6,3.1,Sin riesgo,0.0,8.36,0.5,Regresión lineal simple,5.26
+Miranda,1.3,2.53,2.39,Sin riesgo,0.0,7.65,1.09,Regresión lineal simple,5.26
+Bolívar,1.6,1.6,2.27,Sin riesgo,0.0,7.53,0.67,Regresión lineal simple,5.26
+Morales,1.5,1.2,2.1,Sin riesgo,0.0,7.36,0.6,Regresión lineal simple,5.26
+Corinto,1.7,0.6,2.04,Sin riesgo,0.0,7.3,0.34,Regresión lineal simple,5.26
+Piendamó - Tunía,1.5,0.73,1.97,Sin riesgo,0.0,7.23,0.47,Regresión lineal simple,5.26
+Sucre,0.0,2.83,1.78,Sin riesgo,0.0,7.04,1.78,Regresión lineal simple,5.26
+Toribío,0.0,2.1,1.57,Sin riesgo,0.0,6.83,1.57,Regresión lineal simple,5.26
+Almaguer,0.9,0.3,1.52,Sin riesgo,0.0,6.78,0.62,Regresión lineal simple,5.26
+Sotará Paispamba,0.0,1.03,1.26,Sin riesgo,0.0,6.52,1.26,Regresión lineal simple,5.26
+La Sierra,0.0,0.53,1.11,Sin riesgo,0.0,6.37,1.11,Regresión lineal simple,5.26
+Santa Rosa,0.0,0.17,1.01,Sin riesgo,0.0,6.27,1.01,Regresión lineal simple,5.26
+Argelia,0.0,0.0,0.96,Sin riesgo,0.0,6.22,0.96,Regresión lineal simple,5.26
+Páez,0.0,0.0,0.96,Sin riesgo,0.0,6.22,0.96,Regresión lineal simple,5.26

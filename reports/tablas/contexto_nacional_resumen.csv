@@ -1,0 +1,10 @@
+﻿indicador,valor,detalle
+Departamentos con dato 2025,33,Agregados departamentales #TODOS
+Municipios con dato 2025,1.019,"Base municipal nacional, sin #TODOS"
+IRCA Cauca 2025,7.3,Agregado departamental oficial
+Puesto del Cauca,19,1 = menor IRCA (mejor)
+Mediana departamental 2025,7.0,Mediana de los 33 departamentos
+IRCA mediano municipal nacional,5.7,1.019 municipios
+IRCA mediano municipal Cauca,6.1,38 municipios
+Percentil del municipio mediano del Cauca,51.6,Porcentaje de municipios nacionales con IRCA menor o igual
+Municipios del Cauca en riesgo medio/alto,4,Corte 2025

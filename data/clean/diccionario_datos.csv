@@ -1,0 +1,17 @@
+﻿variable,tipo,descripcion,unidad,fuente,tratamiento
+codigo_departamento,texto,Código DANE del departamento,código,SIVICAP,Se conserva como texto de 2 dígitos
+departamento,texto,Nombre del departamento,nombre,SIVICAP,Se usa el nombre más frecuente por código
+codigo_municipio,texto,Código DANE del municipio,código,SIVICAP,Texto de 5 dígitos; #TODOS identifica el agregado
+municipio,texto,Nombre del municipio,nombre,SIVICAP,Se usa el catálogo DANE para el Cauca
+anio,entero,Año de reporte,año,SIVICAP,Se convierte a entero
+irca,decimal,Índice de Riesgo de la Calidad del Agua total,índice 0-100,SIVICAP,ND se convierte en nulo
+nivel_riesgo,texto,Categoría de riesgo total,categoría,SIVICAP,Se unifican variantes de escritura
+irca_urbano,decimal,IRCA de la zona urbana,índice 0-100,SIVICAP,ND se convierte en nulo
+nivel_riesgo_urbano,texto,Categoría de riesgo urbana,categoría,SIVICAP,Se unifican variantes
+irca_rural,decimal,IRCA de la zona rural,índice 0-100,SIVICAP,"ND se convierte en nulo; 66,4% sin dato en el Cauca (2007-2025)"
+nivel_riesgo_rural,texto,Categoría de riesgo rural,categoría,SIVICAP,Se unifican variantes; ND se conserva como nulo
+categoria_calculada,texto,Categoría calculada con los umbrales oficiales,categoría,Cálculo propio,Sirve para validar la etiqueta reportada
+coincide_categoria,booleano,Indica si la etiqueta reportada coincide con la calculada,verdadero/falso,Cálculo propio,Control de calidad
+tiene_dato_rural,booleano,Indica si hay IRCA rural,verdadero/falso,Cálculo propio,Bandera de completitud
+brecha_rural_urbano,decimal,IRCA rural menos IRCA urbano,puntos de índice,Cálculo propio,Positivo indica peor situación rural
+es_agregado,booleano,Indica si la fila es el agregado departamental #TODOS,verdadero/falso,Cálculo propio,Evita doble conteo

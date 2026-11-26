@@ -1,0 +1,636 @@
+﻿modelo,municipio,anio,irca_real,irca_predicho
+Naive (último valor),Almaguer,2022,2.9,7.4
+Naive (último valor),Almaguer,2023,0.0,2.9
+Naive (último valor),Almaguer,2024,0.0,0.0
+Naive (último valor),Almaguer,2025,0.9,0.0
+Naive (último valor),Balboa,2022,3.4,2.0
+Naive (último valor),Buenos Aires,2022,13.9,9.7
+Naive (último valor),Buenos Aires,2023,0.0,13.9
+Naive (último valor),Buenos Aires,2024,0.0,0.0
+Naive (último valor),Buenos Aires,2025,7.6,0.0
+Naive (último valor),Caldono,2022,5.7,4.3
+Naive (último valor),Caldono,2023,0.0,5.7
+Naive (último valor),Caldono,2024,23.6,0.0
+Naive (último valor),Caldono,2025,36.6,23.6
+Naive (último valor),Caloto,2022,5.3,10.2
+Naive (último valor),Caloto,2023,0.0,5.3
+Naive (último valor),Caloto,2024,0.0,0.0
+Naive (último valor),Caloto,2025,6.3,0.0
+Naive (último valor),Corinto,2022,2.1,1.6
+Naive (último valor),Corinto,2023,0.1,2.1
+Naive (último valor),Corinto,2024,0.0,0.1
+Naive (último valor),Corinto,2025,1.7,0.0
+Naive (último valor),El Tambo,2022,9.9,15.0
+Naive (último valor),El Tambo,2023,8.5,9.9
+Naive (último valor),El Tambo,2024,0.0,8.5
+Naive (último valor),El Tambo,2025,3.0,0.0
+Naive (último valor),Florencia,2022,5.4,7.3
+Naive (último valor),Florencia,2023,0.0,5.4
+Naive (último valor),Guachené,2022,5.8,3.7
+Naive (último valor),Guachené,2023,5.2,5.8
+Naive (último valor),Guachené,2024,0.0,5.2
+Naive (último valor),Guachené,2025,9.5,0.0
+Naive (último valor),Guapi,2022,5.0,72.0
+Naive (último valor),Guapi,2023,39.6,5.0
+Naive (último valor),Guapi,2024,9.3,39.6
+Naive (último valor),Guapi,2025,32.0,9.3
+Naive (último valor),Inzá,2022,7.1,4.7
+Naive (último valor),Inzá,2023,5.6,7.1
+Naive (último valor),Inzá,2024,5.5,5.6
+Naive (último valor),Inzá,2025,8.4,5.5
+Naive (último valor),La Sierra,2022,3.6,4.1
+Naive (último valor),La Sierra,2023,0.0,3.6
+Naive (último valor),La Sierra,2024,1.6,0.0
+Naive (último valor),La Sierra,2025,0.0,1.6
+Naive (último valor),La Vega,2022,50.6,50.5
+Naive (último valor),La Vega,2023,23.3,50.6
+Naive (último valor),La Vega,2024,0.0,23.3
+Naive (último valor),La Vega,2025,1.6,0.0
+Naive (último valor),Mercaderes,2022,28.9,35.3
+Naive (último valor),Mercaderes,2023,17.2,28.9
+Naive (último valor),Mercaderes,2024,0.0,17.2
+Naive (último valor),Mercaderes,2025,12.4,0.0
+Naive (último valor),Miranda,2022,2.4,4.6
+Naive (último valor),Miranda,2023,0.0,2.4
+Naive (último valor),Miranda,2024,6.3,0.0
+Naive (último valor),Miranda,2025,1.3,6.3
+Naive (último valor),Morales,2022,3.4,9.9
+Naive (último valor),Morales,2023,0.0,3.4
+Naive (último valor),Morales,2024,2.1,0.0
+Naive (último valor),Morales,2025,1.5,2.1
+Naive (último valor),Padilla,2022,9.5,6.4
+Naive (último valor),Padilla,2023,4.5,9.5
+Naive (último valor),Padilla,2024,14.2,4.5
+Naive (último valor),Padilla,2025,12.6,14.2
+Naive (último valor),Patía,2022,5.8,6.7
+Naive (último valor),Patía,2023,0.0,5.8
+Naive (último valor),Patía,2024,0.0,0.0
+Naive (último valor),Patía,2025,6.3,0.0
+Naive (último valor),Piamonte,2022,19.3,42.6
+Naive (último valor),Piamonte,2023,14.2,19.3
+Naive (último valor),Piamonte,2024,12.4,14.2
+Naive (último valor),Piamonte,2025,11.4,12.4
+Naive (último valor),Piendamó - Tunía,2022,0.9,8.1
+Naive (último valor),Piendamó - Tunía,2023,0.7,0.9
+Naive (último valor),Piendamó - Tunía,2024,0.0,0.7
+Naive (último valor),Piendamó - Tunía,2025,1.5,0.0
+Naive (último valor),Puerto Tejada,2022,9.6,11.5
+Naive (último valor),Puerto Tejada,2023,3.3,9.6
+Naive (último valor),Puerto Tejada,2024,1.4,3.3
+Naive (último valor),Puerto Tejada,2025,8.6,1.4
+Naive (último valor),Puracé,2022,6.0,1.6
+Naive (último valor),Puracé,2023,16.5,6.0
+Naive (último valor),Puracé,2024,5.3,16.5
+Naive (último valor),Puracé,2025,6.0,5.3
+Naive (último valor),Rosas,2022,0.3,7.7
+Naive (último valor),Rosas,2023,0.0,0.3
+Naive (último valor),Rosas,2024,8.3,0.0
+Naive (último valor),Rosas,2025,3.6,8.3
+Naive (último valor),Santa Rosa,2022,3.7,4.8
+Naive (último valor),Santa Rosa,2023,0.2,3.7
+Naive (último valor),Santa Rosa,2024,0.3,0.2
+Naive (último valor),Santa Rosa,2025,0.0,0.3
+Naive (último valor),Santander de Quilichao,2022,4.2,6.8
+Naive (último valor),Santander de Quilichao,2023,0.8,4.2
+Naive (último valor),Santander de Quilichao,2024,1.3,0.8
+Naive (último valor),Santander de Quilichao,2025,6.2,1.3
+Naive (último valor),Silvia,2022,4.3,4.0
+Naive (último valor),Silvia,2023,4.7,4.3
+Naive (último valor),Silvia,2024,4.7,4.7
+Naive (último valor),Silvia,2025,2.4,4.7
+Naive (último valor),Sotará Paispamba,2022,1.2,3.5
+Naive (último valor),Sotará Paispamba,2023,0.0,1.2
+Naive (último valor),Sotará Paispamba,2024,3.1,0.0
+Naive (último valor),Sotará Paispamba,2025,0.0,3.1
+Naive (último valor),Sucre,2022,2.9,6.6
+Naive (último valor),Sucre,2023,8.5,2.9
+Naive (último valor),Sucre,2024,0.0,8.5
+Naive (último valor),Sucre,2025,0.0,0.0
+Naive (último valor),Suárez,2022,10.8,14.8
+Naive (último valor),Suárez,2023,5.6,10.8
+Naive (último valor),Suárez,2024,2.3,5.6
+Naive (último valor),Suárez,2025,11.5,2.3
+Naive (último valor),Timbío,2022,2.9,1.7
+Naive (último valor),Timbío,2023,0.9,2.9
+Naive (último valor),Timbío,2024,4.3,0.9
+Naive (último valor),Timbío,2025,2.6,4.3
+Naive (último valor),Toribío,2022,5.6,5.8
+Naive (último valor),Toribío,2023,6.3,5.6
+Naive (último valor),Toribío,2024,0.0,6.3
+Naive (último valor),Toribío,2025,0.0,0.0
+Naive (último valor),Totoró,2022,3.6,3.5
+Naive (último valor),Totoró,2023,0.5,3.6
+Naive (último valor),Totoró,2024,0.5,0.5
+Naive (último valor),Totoró,2025,7.8,0.5
+Naive (último valor),Villa Rica,2022,10.6,16.1
+Naive (último valor),Villa Rica,2023,14.6,10.6
+Naive (último valor),Villa Rica,2024,0.3,14.6
+Naive (último valor),Villa Rica,2025,19.1,0.3
+Media histórica municipal,Almaguer,2022,2.9,33.08
+Media histórica municipal,Almaguer,2023,0.0,31.19
+Media histórica municipal,Almaguer,2024,0.0,29.36
+Media histórica municipal,Almaguer,2025,0.9,27.73
+Media histórica municipal,Balboa,2022,3.4,6.25
+Media histórica municipal,Buenos Aires,2022,13.9,10.36
+Media histórica municipal,Buenos Aires,2023,0.0,10.58
+Media histórica municipal,Buenos Aires,2024,0.0,9.96
+Media histórica municipal,Buenos Aires,2025,7.6,9.41
+Media histórica municipal,Caldono,2022,5.7,14.54
+Media histórica municipal,Caldono,2023,0.0,13.95
+Media histórica municipal,Caldono,2024,23.6,13.07
+Media histórica municipal,Caldono,2025,36.6,13.69
+Media histórica municipal,Caloto,2022,5.3,13.8
+Media histórica municipal,Caloto,2023,0.0,13.27
+Media histórica municipal,Caloto,2024,0.0,12.49
+Media histórica municipal,Caloto,2025,6.3,11.79
+Media histórica municipal,Corinto,2022,2.1,2.57
+Media histórica municipal,Corinto,2023,0.1,2.54
+Media histórica municipal,Corinto,2024,0.0,2.39
+Media histórica municipal,Corinto,2025,1.7,2.26
+Media histórica municipal,El Tambo,2022,9.9,8.11
+Media histórica municipal,El Tambo,2023,8.5,8.22
+Media histórica municipal,El Tambo,2024,0.0,8.24
+Media histórica municipal,El Tambo,2025,3.0,7.78
+Media histórica municipal,Florencia,2022,5.4,36.99
+Media histórica municipal,Florencia,2023,0.0,35.02
+Media histórica municipal,Guachené,2022,5.8,25.09
+Media histórica municipal,Guachené,2023,5.2,23.81
+Media histórica municipal,Guachené,2024,0.0,22.64
+Media histórica municipal,Guachené,2025,9.5,21.31
+Media histórica municipal,Guapi,2022,5.0,35.77
+Media histórica municipal,Guapi,2023,39.6,33.41
+Media histórica municipal,Guapi,2024,9.3,33.85
+Media histórica municipal,Guapi,2025,32.0,32.21
+Media histórica municipal,Inzá,2022,7.1,9.72
+Media histórica municipal,Inzá,2023,5.6,9.56
+Media histórica municipal,Inzá,2024,5.5,9.32
+Media histórica municipal,Inzá,2025,8.4,9.11
+Media histórica municipal,La Sierra,2022,3.6,40.18
+Media histórica municipal,La Sierra,2023,0.0,37.89
+Media histórica municipal,La Sierra,2024,1.6,35.66
+Media histórica municipal,La Sierra,2025,0.0,33.77
+Media histórica municipal,La Vega,2022,50.6,67.22
+Media histórica municipal,La Vega,2023,23.3,66.18
+Media histórica municipal,La Vega,2024,0.0,63.66
+Media histórica municipal,La Vega,2025,1.6,60.12
+Media histórica municipal,Mercaderes,2022,28.9,19.74
+Media histórica municipal,Mercaderes,2023,17.2,20.31
+Media histórica municipal,Mercaderes,2024,0.0,20.13
+Media histórica municipal,Mercaderes,2025,12.4,19.01
+Media histórica municipal,Miranda,2022,2.4,7.55
+Media histórica municipal,Miranda,2023,0.0,7.22
+Media histórica municipal,Miranda,2024,6.3,6.8
+Media histórica municipal,Miranda,2025,1.3,6.77
+Media histórica municipal,Morales,2022,3.4,6.87
+Media histórica municipal,Morales,2023,0.0,6.66
+Media histórica municipal,Morales,2024,2.1,6.26
+Media histórica municipal,Morales,2025,1.5,6.03
+Media histórica municipal,Padilla,2022,9.5,15.09
+Media histórica municipal,Padilla,2023,4.5,14.74
+Media histórica municipal,Padilla,2024,14.2,14.14
+Media histórica municipal,Padilla,2025,12.6,14.14
+Media histórica municipal,Patía,2022,5.8,8.85
+Media histórica municipal,Patía,2023,0.0,8.66
+Media histórica municipal,Patía,2024,0.0,8.15
+Media histórica municipal,Patía,2025,6.3,7.7
+Media histórica municipal,Piamonte,2022,19.3,78.61
+Media histórica municipal,Piamonte,2023,14.2,74.65
+Media histórica municipal,Piamonte,2024,12.4,70.88
+Media histórica municipal,Piamonte,2025,11.4,67.44
+Media histórica municipal,Piendamó - Tunía,2022,0.9,6.07
+Media histórica municipal,Piendamó - Tunía,2023,0.7,5.74
+Media histórica municipal,Piendamó - Tunía,2024,0.0,5.45
+Media histórica municipal,Piendamó - Tunía,2025,1.5,5.14
+Media histórica municipal,Puerto Tejada,2022,9.6,24.05
+Media histórica municipal,Puerto Tejada,2023,3.3,23.14
+Media histórica municipal,Puerto Tejada,2024,1.4,21.98
+Media histórica municipal,Puerto Tejada,2025,8.6,20.83
+Media histórica municipal,Puracé,2022,6.0,24.63
+Media histórica municipal,Puracé,2023,16.5,23.46
+Media histórica municipal,Puracé,2024,5.3,23.05
+Media histórica municipal,Puracé,2025,6.0,22.07
+Media histórica municipal,Rosas,2022,0.3,10.96
+Media histórica municipal,Rosas,2023,0.0,10.25
+Media histórica municipal,Rosas,2024,8.3,9.61
+Media histórica municipal,Rosas,2025,3.6,9.53
+Media histórica municipal,Santa Rosa,2022,3.7,17.71
+Media histórica municipal,Santa Rosa,2023,0.2,16.83
+Media histórica municipal,Santa Rosa,2024,0.3,15.85
+Media histórica municipal,Santa Rosa,2025,0.0,14.99
+Media histórica municipal,Santander de Quilichao,2022,4.2,5.26
+Media histórica municipal,Santander de Quilichao,2023,0.8,5.19
+Media histórica municipal,Santander de Quilichao,2024,1.3,4.94
+Media histórica municipal,Santander de Quilichao,2025,6.2,4.73
+Media histórica municipal,Silvia,2022,4.3,7.33
+Media histórica municipal,Silvia,2023,4.7,7.14
+Media histórica municipal,Silvia,2024,4.7,6.99
+Media histórica municipal,Silvia,2025,2.4,6.87
+Media histórica municipal,Sotará Paispamba,2022,1.2,27.91
+Media histórica municipal,Sotará Paispamba,2023,0.0,26.13
+Media histórica municipal,Sotará Paispamba,2024,3.1,24.5
+Media histórica municipal,Sotará Paispamba,2025,0.0,23.24
+Media histórica municipal,Sucre,2022,2.9,35.21
+Media histórica municipal,Sucre,2023,8.5,33.19
+Media histórica municipal,Sucre,2024,0.0,31.74
+Media histórica municipal,Sucre,2025,0.0,29.97
+Media histórica municipal,Suárez,2022,10.8,18.43
+Media histórica municipal,Suárez,2023,5.6,17.95
+Media histórica municipal,Suárez,2024,2.3,17.22
+Media histórica municipal,Suárez,2025,11.5,16.39
+Media histórica municipal,Timbío,2022,2.9,7.11
+Media histórica municipal,Timbío,2023,0.9,6.85
+Media histórica municipal,Timbío,2024,4.3,6.5
+Media histórica municipal,Timbío,2025,2.6,6.38
+Media histórica municipal,Toribío,2022,5.6,8.95
+Media histórica municipal,Toribío,2023,6.3,8.74
+Media histórica municipal,Toribío,2024,0.0,8.59
+Media histórica municipal,Toribío,2025,0.0,8.12
+Media histórica municipal,Totoró,2022,3.6,12.57
+Media histórica municipal,Totoró,2023,0.5,12.01
+Media histórica municipal,Totoró,2024,0.5,11.33
+Media histórica municipal,Totoró,2025,7.8,10.73
+Media histórica municipal,Villa Rica,2022,10.6,32.21
+Media histórica municipal,Villa Rica,2023,14.6,30.86
+Media histórica municipal,Villa Rica,2024,0.3,29.9
+Media histórica municipal,Villa Rica,2025,19.1,28.26
+Regresión lineal simple,Almaguer,2022,2.9,7.3
+Regresión lineal simple,Almaguer,2023,0.0,4.29
+Regresión lineal simple,Almaguer,2024,0.0,2.07
+Regresión lineal simple,Almaguer,2025,0.9,1.38
+Regresión lineal simple,Balboa,2022,3.4,3.05
+Regresión lineal simple,Buenos Aires,2022,13.9,9.09
+Regresión lineal simple,Buenos Aires,2023,0.0,11.9
+Regresión lineal simple,Buenos Aires,2024,0.0,3.3
+Regresión lineal simple,Buenos Aires,2025,7.6,2.4
+Regresión lineal simple,Caldono,2022,5.7,7.35
+Regresión lineal simple,Caldono,2023,0.0,6.2
+Regresión lineal simple,Caldono,2024,23.6,2.04
+Regresión lineal simple,Caldono,2025,36.6,16.95
+Regresión lineal simple,Caloto,2022,5.3,8.78
+Regresión lineal simple,Caloto,2023,0.0,5.95
+Regresión lineal simple,Caloto,2024,0.0,2.55
+Regresión lineal simple,Caloto,2025,6.3,1.6
+Regresión lineal simple,Corinto,2022,2.1,2.43
+Regresión lineal simple,Corinto,2023,0.1,2.62
+Regresión lineal simple,Corinto,2024,0.0,1.52
+Regresión lineal simple,Corinto,2025,1.7,1.32
+Regresión lineal simple,El Tambo,2022,9.9,12.59
+Regresión lineal simple,El Tambo,2023,8.5,9.58
+Regresión lineal simple,El Tambo,2024,0.0,8.93
+Regresión lineal simple,El Tambo,2025,3.0,2.82
+Regresión lineal simple,Florencia,2022,5.4,6.26
+Regresión lineal simple,Florencia,2023,0.0,5.4
+Regresión lineal simple,Guachené,2022,5.8,5.37
+Regresión lineal simple,Guachené,2023,5.2,6.04
+Regresión lineal simple,Guachené,2024,0.0,5.36
+Regresión lineal simple,Guachené,2025,9.5,2.13
+Regresión lineal simple,Guapi,2022,5.0,48.53
+Regresión lineal simple,Guapi,2023,39.6,11.02
+Regresión lineal simple,Guapi,2024,9.3,33.93
+Regresión lineal simple,Guapi,2025,32.0,11.28
+Regresión lineal simple,Inzá,2022,7.1,4.73
+Regresión lineal simple,Inzá,2023,5.6,6.31
+Regresión lineal simple,Inzá,2024,5.5,5.84
+Regresión lineal simple,Inzá,2025,8.4,5.86
+Regresión lineal simple,La Sierra,2022,3.6,4.58
+Regresión lineal simple,La Sierra,2023,0.0,4.08
+Regresión lineal simple,La Sierra,2024,1.6,1.83
+Regresión lineal simple,La Sierra,2025,0.0,2.48
+Regresión lineal simple,La Vega,2022,50.6,41.91
+Regresión lineal simple,La Vega,2023,23.3,44.94
+Regresión lineal simple,La Vega,2024,0.0,25.59
+Regresión lineal simple,La Vega,2025,1.6,7.96
+Regresión lineal simple,Mercaderes,2022,28.9,26.35
+Regresión lineal simple,Mercaderes,2023,17.2,24.53
+Regresión lineal simple,Mercaderes,2024,0.0,18.21
+Regresión lineal simple,Mercaderes,2025,12.4,5.38
+Regresión lineal simple,Miranda,2022,2.4,5.17
+Regresión lineal simple,Miranda,2023,0.0,3.09
+Regresión lineal simple,Miranda,2024,6.3,1.76
+Regresión lineal simple,Miranda,2025,1.3,5.42
+Regresión lineal simple,Morales,2022,3.4,8.49
+Regresión lineal simple,Morales,2023,0.0,4.73
+Regresión lineal simple,Morales,2024,2.1,2.34
+Regresión lineal simple,Morales,2025,1.5,2.79
+Regresión lineal simple,Padilla,2022,9.5,5.43
+Regresión lineal simple,Padilla,2023,4.5,7.96
+Regresión lineal simple,Padilla,2024,14.2,5.5
+Regresión lineal simple,Padilla,2025,12.6,11.62
+Regresión lineal simple,Patía,2022,5.8,6.05
+Regresión lineal simple,Patía,2023,0.0,5.64
+Regresión lineal simple,Patía,2024,0.0,2.27
+Regresión lineal simple,Patía,2025,6.3,1.65
+Regresión lineal simple,Piamonte,2022,19.3,46.54
+Regresión lineal simple,Piamonte,2023,14.2,26.84
+Regresión lineal simple,Piamonte,2024,12.4,16.06
+Regresión lineal simple,Piamonte,2025,11.4,12.26
+Regresión lineal simple,Piendamó - Tunía,2022,0.9,7.03
+Regresión lineal simple,Piendamó - Tunía,2023,0.7,2.75
+Regresión lineal simple,Piendamó - Tunía,2024,0.0,2.4
+Regresión lineal simple,Piendamó - Tunía,2025,1.5,1.26
+Regresión lineal simple,Puerto Tejada,2022,9.6,9.62
+Regresión lineal simple,Puerto Tejada,2023,3.3,8.89
+Regresión lineal simple,Puerto Tejada,2024,1.4,5.21
+Regresión lineal simple,Puerto Tejada,2025,8.6,3.22
+Regresión lineal simple,Puracé,2022,6.0,2.42
+Regresión lineal simple,Puracé,2023,16.5,5.15
+Regresión lineal simple,Puracé,2024,5.3,12.52
+Regresión lineal simple,Puracé,2025,6.0,6.63
+Regresión lineal simple,Rosas,2022,0.3,7.0
+Regresión lineal simple,Rosas,2023,0.0,2.02
+Regresión lineal simple,Rosas,2024,8.3,1.85
+Regresión lineal simple,Rosas,2025,3.6,6.52
+Regresión lineal simple,Santa Rosa,2022,3.7,5.48
+Regresión lineal simple,Santa Rosa,2023,0.2,5.09
+Regresión lineal simple,Santa Rosa,2024,0.3,2.03
+Regresión lineal simple,Santa Rosa,2025,0.0,1.67
+Regresión lineal simple,Santander de Quilichao,2022,4.2,5.87
+Regresión lineal simple,Santander de Quilichao,2023,0.8,4.73
+Regresión lineal simple,Santander de Quilichao,2024,1.3,2.65
+Regresión lineal simple,Santander de Quilichao,2025,6.2,2.42
+Regresión lineal simple,Silvia,2022,4.3,4.31
+Regresión lineal simple,Silvia,2023,4.7,4.61
+Regresión lineal simple,Silvia,2024,4.7,4.93
+Regresión lineal simple,Silvia,2025,2.4,4.99
+Regresión lineal simple,Sotará Paispamba,2022,1.2,3.84
+Regresión lineal simple,Sotará Paispamba,2023,0.0,2.52
+Regresión lineal simple,Sotará Paispamba,2024,3.1,1.55
+Regresión lineal simple,Sotará Paispamba,2025,0.0,3.23
+Regresión lineal simple,Sucre,2022,2.9,5.6
+Regresión lineal simple,Sucre,2023,8.5,3.6
+Regresión lineal simple,Sucre,2024,0.0,7.5
+Regresión lineal simple,Sucre,2025,0.0,2.17
+Regresión lineal simple,Suárez,2022,10.8,13.0
+Regresión lineal simple,Suárez,2023,5.6,10.52
+Regresión lineal simple,Suárez,2024,2.3,7.12
+Regresión lineal simple,Suárez,2025,11.5,4.12
+Regresión lineal simple,Timbío,2022,2.9,2.32
+Regresión lineal simple,Timbío,2023,0.9,3.15
+Regresión lineal simple,Timbío,2024,4.3,2.12
+Regresión lineal simple,Timbío,2025,2.6,4.25
+Regresión lineal simple,Toribío,2022,5.6,5.72
+Regresión lineal simple,Toribío,2023,6.3,5.74
+Regresión lineal simple,Toribío,2024,0.0,6.25
+Regresión lineal simple,Toribío,2025,0.0,2.21
+Regresión lineal simple,Totoró,2022,3.6,3.66
+Regresión lineal simple,Totoró,2023,0.5,3.97
+Regresión lineal simple,Totoró,2024,0.5,2.09
+Regresión lineal simple,Totoró,2025,7.8,1.82
+Regresión lineal simple,Villa Rica,2022,10.6,13.76
+Regresión lineal simple,Villa Rica,2023,14.6,10.65
+Regresión lineal simple,Villa Rica,2024,0.3,13.05
+Regresión lineal simple,Villa Rica,2025,19.1,3.64
+Regresión lineal completa,Almaguer,2022,2.9,7.7
+Regresión lineal completa,Almaguer,2023,0.0,3.86
+Regresión lineal completa,Almaguer,2024,0.0,2.27
+Regresión lineal completa,Almaguer,2025,0.9,1.05
+Regresión lineal completa,Balboa,2022,3.4,4.75
+Regresión lineal completa,Buenos Aires,2022,13.9,9.38
+Regresión lineal completa,Buenos Aires,2023,0.0,12.13
+Regresión lineal completa,Buenos Aires,2024,0.0,2.82
+Regresión lineal completa,Buenos Aires,2025,7.6,3.1
+Regresión lineal completa,Caldono,2022,5.7,4.34
+Regresión lineal completa,Caldono,2023,0.0,3.7
+Regresión lineal completa,Caldono,2024,23.6,0.0
+Regresión lineal completa,Caldono,2025,36.6,10.68
+Regresión lineal completa,Caloto,2022,5.3,7.88
+Regresión lineal completa,Caloto,2023,0.0,4.78
+Regresión lineal completa,Caloto,2024,0.0,1.5
+Regresión lineal completa,Caloto,2025,6.3,0.86
+Regresión lineal completa,Corinto,2022,2.1,3.13
+Regresión lineal completa,Corinto,2023,0.1,3.29
+Regresión lineal completa,Corinto,2024,0.0,2.14
+Regresión lineal completa,Corinto,2025,1.7,2.58
+Regresión lineal completa,El Tambo,2022,9.9,12.56
+Regresión lineal completa,El Tambo,2023,8.5,9.29
+Regresión lineal completa,El Tambo,2024,0.0,8.98
+Regresión lineal completa,El Tambo,2025,3.0,2.33
+Regresión lineal completa,Florencia,2022,5.4,6.97
+Regresión lineal completa,Florencia,2023,0.0,5.56
+Regresión lineal completa,Guachené,2022,5.8,2.47
+Regresión lineal completa,Guachené,2023,5.2,3.8
+Regresión lineal completa,Guachené,2024,0.0,0.63
+Regresión lineal completa,Guachené,2025,9.5,0.0
+Regresión lineal completa,Guapi,2022,5.0,41.65
+Regresión lineal completa,Guapi,2023,39.6,6.7
+Regresión lineal completa,Guapi,2024,9.3,30.71
+Regresión lineal completa,Guapi,2025,32.0,9.54
+Regresión lineal completa,Inzá,2022,7.1,4.47
+Regresión lineal completa,Inzá,2023,5.6,4.99
+Regresión lineal completa,Inzá,2024,5.5,3.63
+Regresión lineal completa,Inzá,2025,8.4,3.68
+Regresión lineal completa,La Sierra,2022,3.6,4.81
+Regresión lineal completa,La Sierra,2023,0.0,4.24
+Regresión lineal completa,La Sierra,2024,1.6,2.29
+Regresión lineal completa,La Sierra,2025,0.0,2.88
+Regresión lineal completa,La Vega,2022,50.6,37.16
+Regresión lineal completa,La Vega,2023,23.3,39.81
+Regresión lineal completa,La Vega,2024,0.0,18.88
+Regresión lineal completa,La Vega,2025,1.6,3.82
+Regresión lineal completa,Mercaderes,2022,28.9,23.32
+Regresión lineal completa,Mercaderes,2023,17.2,19.77
+Regresión lineal completa,Mercaderes,2024,0.0,12.84
+Regresión lineal completa,Mercaderes,2025,12.4,0.88
+Regresión lineal completa,Miranda,2022,2.4,5.6
+Regresión lineal completa,Miranda,2023,0.0,3.51
+Regresión lineal completa,Miranda,2024,6.3,2.17
+Regresión lineal completa,Miranda,2025,1.3,5.92
+Regresión lineal completa,Morales,2022,3.4,8.94
+Regresión lineal completa,Morales,2023,0.0,4.74
+Regresión lineal completa,Morales,2024,2.1,3.16
+Regresión lineal completa,Morales,2025,1.5,3.88
+Regresión lineal completa,Padilla,2022,9.5,5.85
+Regresión lineal completa,Padilla,2023,4.5,8.3
+Regresión lineal completa,Padilla,2024,14.2,4.56
+Regresión lineal completa,Padilla,2025,12.6,6.55
+Regresión lineal completa,Patía,2022,5.8,6.7
+Regresión lineal completa,Patía,2023,0.0,6.06
+Regresión lineal completa,Patía,2024,0.0,2.63
+Regresión lineal completa,Patía,2025,6.3,2.29
+Regresión lineal completa,Piamonte,2022,19.3,41.2
+Regresión lineal completa,Piamonte,2023,14.2,23.07
+Regresión lineal completa,Piamonte,2024,12.4,14.29
+Regresión lineal completa,Piamonte,2025,11.4,10.84
+Regresión lineal completa,Piendamó - Tunía,2022,0.9,7.31
+Regresión lineal completa,Piendamó - Tunía,2023,0.7,2.87
+Regresión lineal completa,Piendamó - Tunía,2024,0.0,2.53
+Regresión lineal completa,Piendamó - Tunía,2025,1.5,1.7
+Regresión lineal completa,Puerto Tejada,2022,9.6,7.9
+Regresión lineal completa,Puerto Tejada,2023,3.3,7.08
+Regresión lineal completa,Puerto Tejada,2024,1.4,4.35
+Regresión lineal completa,Puerto Tejada,2025,8.6,1.24
+Regresión lineal completa,Puracé,2022,6.0,0.0
+Regresión lineal completa,Puracé,2023,16.5,3.37
+Regresión lineal completa,Puracé,2024,5.3,8.83
+Regresión lineal completa,Puracé,2025,6.0,1.14
+Regresión lineal completa,Rosas,2022,0.3,7.25
+Regresión lineal completa,Rosas,2023,0.0,2.06
+Regresión lineal completa,Rosas,2024,8.3,2.05
+Regresión lineal completa,Rosas,2025,3.6,6.78
+Regresión lineal completa,Santa Rosa,2022,3.7,4.9
+Regresión lineal completa,Santa Rosa,2023,0.2,4.58
+Regresión lineal completa,Santa Rosa,2024,0.3,1.66
+Regresión lineal completa,Santa Rosa,2025,0.0,1.4
+Regresión lineal completa,Santander de Quilichao,2022,4.2,6.65
+Regresión lineal completa,Santander de Quilichao,2023,0.8,5.42
+Regresión lineal completa,Santander de Quilichao,2024,1.3,3.43
+Regresión lineal completa,Santander de Quilichao,2025,6.2,3.61
+Regresión lineal completa,Silvia,2022,4.3,4.71
+Regresión lineal completa,Silvia,2023,4.7,4.93
+Regresión lineal completa,Silvia,2024,4.7,5.21
+Regresión lineal completa,Silvia,2025,2.4,5.23
+Regresión lineal completa,Sotará Paispamba,2022,1.2,3.24
+Regresión lineal completa,Sotará Paispamba,2023,0.0,1.66
+Regresión lineal completa,Sotará Paispamba,2024,3.1,0.59
+Regresión lineal completa,Sotará Paispamba,2025,0.0,2.18
+Regresión lineal completa,Sucre,2022,2.9,7.47
+Regresión lineal completa,Sucre,2023,8.5,4.92
+Regresión lineal completa,Sucre,2024,0.0,8.6
+Regresión lineal completa,Sucre,2025,0.0,2.9
+Regresión lineal completa,Suárez,2022,10.8,10.21
+Regresión lineal completa,Suárez,2023,5.6,7.56
+Regresión lineal completa,Suárez,2024,2.3,4.27
+Regresión lineal completa,Suárez,2025,11.5,1.59
+Regresión lineal completa,Timbío,2022,2.9,2.3
+Regresión lineal completa,Timbío,2023,0.9,2.69
+Regresión lineal completa,Timbío,2024,4.3,1.06
+Regresión lineal completa,Timbío,2025,2.6,3.77
+Regresión lineal completa,Toribío,2022,5.6,4.9
+Regresión lineal completa,Toribío,2023,6.3,4.84
+Regresión lineal completa,Toribío,2024,0.0,5.31
+Regresión lineal completa,Toribío,2025,0.0,1.25
+Regresión lineal completa,Totoró,2022,3.6,2.3
+Regresión lineal completa,Totoró,2023,0.5,2.42
+Regresión lineal completa,Totoró,2024,0.5,0.46
+Regresión lineal completa,Totoró,2025,7.8,0.27
+Regresión lineal completa,Villa Rica,2022,10.6,9.81
+Regresión lineal completa,Villa Rica,2023,14.6,5.06
+Regresión lineal completa,Villa Rica,2024,0.3,9.38
+Regresión lineal completa,Villa Rica,2025,19.1,0.0
+Random Forest,Almaguer,2022,2.9,7.28
+Random Forest,Almaguer,2023,0.0,6.58
+Random Forest,Almaguer,2024,0.0,5.8
+Random Forest,Almaguer,2025,0.9,5.57
+Random Forest,Balboa,2022,3.4,4.87
+Random Forest,Buenos Aires,2022,13.9,9.01
+Random Forest,Buenos Aires,2023,0.0,11.55
+Random Forest,Buenos Aires,2024,0.0,10.65
+Random Forest,Buenos Aires,2025,7.6,6.89
+Random Forest,Caldono,2022,5.7,9.87
+Random Forest,Caldono,2023,0.0,6.58
+Random Forest,Caldono,2024,23.6,5.51
+Random Forest,Caldono,2025,36.6,11.86
+Random Forest,Caloto,2022,5.3,7.37
+Random Forest,Caloto,2023,0.0,7.9
+Random Forest,Caloto,2024,0.0,7.14
+Random Forest,Caloto,2025,6.3,5.31
+Random Forest,Corinto,2022,2.1,4.8
+Random Forest,Corinto,2023,0.1,4.8
+Random Forest,Corinto,2024,0.0,4.93
+Random Forest,Corinto,2025,1.7,5.22
+Random Forest,El Tambo,2022,9.9,12.23
+Random Forest,El Tambo,2023,8.5,9.37
+Random Forest,El Tambo,2024,0.0,9.38
+Random Forest,El Tambo,2025,3.0,10.47
+Random Forest,Florencia,2022,5.4,6.23
+Random Forest,Florencia,2023,0.0,6.98
+Random Forest,Guachené,2022,5.8,8.36
+Random Forest,Guachené,2023,5.2,7.66
+Random Forest,Guachené,2024,0.0,6.68
+Random Forest,Guachené,2025,9.5,6.16
+Random Forest,Guapi,2022,5.0,36.27
+Random Forest,Guapi,2023,39.6,10.07
+Random Forest,Guapi,2024,9.3,23.85
+Random Forest,Guapi,2025,32.0,12.76
+Random Forest,Inzá,2022,7.1,5.38
+Random Forest,Inzá,2023,5.6,6.13
+Random Forest,Inzá,2024,5.5,6.26
+Random Forest,Inzá,2025,8.4,6.3
+Random Forest,La Sierra,2022,3.6,6.62
+Random Forest,La Sierra,2023,0.0,5.74
+Random Forest,La Sierra,2024,1.6,6.07
+Random Forest,La Sierra,2025,0.0,5.43
+Random Forest,La Vega,2022,50.6,35.21
+Random Forest,La Vega,2023,23.3,39.8
+Random Forest,La Vega,2024,0.0,22.19
+Random Forest,La Vega,2025,1.6,13.97
+Random Forest,Mercaderes,2022,28.9,18.43
+Random Forest,Mercaderes,2023,17.2,22.79
+Random Forest,Mercaderes,2024,0.0,13.1
+Random Forest,Mercaderes,2025,12.4,13.07
+Random Forest,Miranda,2022,2.4,6.17
+Random Forest,Miranda,2023,0.0,4.89
+Random Forest,Miranda,2024,6.3,5.22
+Random Forest,Miranda,2025,1.3,5.53
+Random Forest,Morales,2022,3.4,7.47
+Random Forest,Morales,2023,0.0,7.58
+Random Forest,Morales,2024,2.1,6.89
+Random Forest,Morales,2025,1.5,4.81
+Random Forest,Padilla,2022,9.5,5.91
+Random Forest,Padilla,2023,4.5,7.59
+Random Forest,Padilla,2024,14.2,7.68
+Random Forest,Padilla,2025,12.6,10.78
+Random Forest,Patía,2022,5.8,6.41
+Random Forest,Patía,2023,0.0,6.51
+Random Forest,Patía,2024,0.0,7.47
+Random Forest,Patía,2025,6.3,5.21
+Random Forest,Piamonte,2022,19.3,39.25
+Random Forest,Piamonte,2023,14.2,25.59
+Random Forest,Piamonte,2024,12.4,18.78
+Random Forest,Piamonte,2025,11.4,15.89
+Random Forest,Piendamó - Tunía,2022,0.9,6.92
+Random Forest,Piendamó - Tunía,2023,0.7,8.78
+Random Forest,Piendamó - Tunía,2024,0.0,5.0
+Random Forest,Piendamó - Tunía,2025,1.5,5.22
+Random Forest,Puerto Tejada,2022,9.6,7.56
+Random Forest,Puerto Tejada,2023,3.3,8.63
+Random Forest,Puerto Tejada,2024,1.4,8.29
+Random Forest,Puerto Tejada,2025,8.6,6.3
+Random Forest,Puracé,2022,6.0,5.2
+Random Forest,Puracé,2023,16.5,5.79
+Random Forest,Puracé,2024,5.3,11.54
+Random Forest,Puracé,2025,6.0,8.86
+Random Forest,Rosas,2022,0.3,6.7
+Random Forest,Rosas,2023,0.0,7.64
+Random Forest,Rosas,2024,8.3,5.22
+Random Forest,Rosas,2025,3.6,5.71
+Random Forest,Santa Rosa,2022,3.7,7.81
+Random Forest,Santa Rosa,2023,0.2,6.53
+Random Forest,Santa Rosa,2024,0.3,5.08
+Random Forest,Santa Rosa,2025,0.0,4.93
+Random Forest,Santander de Quilichao,2022,4.2,5.83
+Random Forest,Santander de Quilichao,2023,0.8,6.17
+Random Forest,Santander de Quilichao,2024,1.3,5.11
+Random Forest,Santander de Quilichao,2025,6.2,4.84
+Random Forest,Silvia,2022,4.3,5.22
+Random Forest,Silvia,2023,4.7,5.31
+Random Forest,Silvia,2024,4.7,6.11
+Random Forest,Silvia,2025,2.4,6.11
+Random Forest,Sotará Paispamba,2022,1.2,5.24
+Random Forest,Sotará Paispamba,2023,0.0,5.16
+Random Forest,Sotará Paispamba,2024,3.1,5.64
+Random Forest,Sotará Paispamba,2025,0.0,5.19
+Random Forest,Sucre,2022,2.9,5.9
+Random Forest,Sucre,2023,8.5,5.44
+Random Forest,Sucre,2024,0.0,6.93
+Random Forest,Sucre,2025,0.0,10.03
+Random Forest,Suárez,2022,10.8,12.07
+Random Forest,Suárez,2023,5.6,9.37
+Random Forest,Suárez,2024,2.3,8.78
+Random Forest,Suárez,2025,11.5,6.53
+Random Forest,Timbío,2022,2.9,4.77
+Random Forest,Timbío,2023,0.9,4.98
+Random Forest,Timbío,2024,4.3,4.83
+Random Forest,Timbío,2025,2.6,5.35
+Random Forest,Toribío,2022,5.6,6.65
+Random Forest,Toribío,2023,6.3,6.63
+Random Forest,Toribío,2024,0.0,6.73
+Random Forest,Toribío,2025,0.0,5.78
+Random Forest,Totoró,2022,3.6,4.95
+Random Forest,Totoró,2023,0.5,5.09
+Random Forest,Totoró,2024,0.5,4.94
+Random Forest,Totoró,2025,7.8,4.87
+Random Forest,Villa Rica,2022,10.6,14.71
+Random Forest,Villa Rica,2023,14.6,10.25
+Random Forest,Villa Rica,2024,0.3,15.02
+Random Forest,Villa Rica,2025,19.1,9.5

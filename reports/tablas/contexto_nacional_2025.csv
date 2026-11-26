@@ -1,0 +1,34 @@
+﻿codigo_departamento,departamento,codigo_municipio,municipio,anio,irca,nivel_riesgo,irca_urbano,nivel_riesgo_urbano,irca_rural,nivel_riesgo_rural,categoria_calculada,coincide_categoria,tiene_dato_rural,brecha_rural_urbano,es_agregado,puesto,es_cauca,es_vecino,grupo,diferencia_vs_mediana
+63,Quindío,#TODOS,#TODOS,2025,0.6,Sin riesgo,0.5,Sin riesgo,2.0,Sin riesgo,Sin riesgo,True,True,1.5,True,1,False,False,Otro,-6.4
+8,Atlántico,#TODOS,#TODOS,2025,1.7,Sin riesgo,0.4,Sin riesgo,9.2,Riesgo bajo,Sin riesgo,True,True,8.799999999999999,True,2,False,False,Otro,-5.3
+85,Casanare,#TODOS,#TODOS,2025,2.3,Sin riesgo,2.3,Sin riesgo,2.1,Sin riesgo,Sin riesgo,True,True,-0.19999999999999973,True,3,False,False,Otro,-4.7
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",#TODOS,#TODOS,2025,2.3,Sin riesgo,0.5,Sin riesgo,5.3,Riesgo bajo,Sin riesgo,True,True,4.8,True,3,False,False,Otro,-4.7
+17,Caldas,#TODOS,#TODOS,2025,3.1,Sin riesgo,1.4,Sin riesgo,21.5,Riesgo medio,Sin riesgo,True,True,20.1,True,5,False,False,Otro,-3.9
+11,"Bogotá, D.C.",#TODOS,#TODOS,2025,3.9,Sin riesgo,0.8,Sin riesgo,18.5,Riesgo medio,Sin riesgo,True,True,17.7,True,6,False,False,Otro,-3.1
+41,Huila,#TODOS,#TODOS,2025,4.1,Sin riesgo,4.1,Sin riesgo,3.6,Sin riesgo,Sin riesgo,True,True,-0.49999999999999956,True,7,False,True,Vecino,-2.9
+54,Norte de Santander,#TODOS,#TODOS,2025,4.1,Sin riesgo,3.6,Sin riesgo,24.5,Riesgo medio,Sin riesgo,True,True,20.9,True,7,False,False,Otro,-2.9
+76,Valle del Cauca,#TODOS,#TODOS,2025,4.4,Sin riesgo,0.9,Sin riesgo,12.5,Riesgo bajo,Sin riesgo,True,True,11.6,True,9,False,True,Vecino,-2.6
+95,Guaviare,#TODOS,#TODOS,2025,4.5,Sin riesgo,3.4,Sin riesgo,14.8,Riesgo medio,Sin riesgo,True,True,11.4,True,10,False,False,Otro,-2.5
+25,Cundinamarca,#TODOS,#TODOS,2025,4.6,Sin riesgo,3.8,Sin riesgo,6.8,Riesgo bajo,Sin riesgo,True,True,3.0,True,11,False,False,Otro,-2.4
+44,La Guajira,#TODOS,#TODOS,2025,5.2,Riesgo bajo,4.1,Sin riesgo,28.2,Riesgo medio,Riesgo bajo,True,True,24.1,True,12,False,False,Otro,-1.8
+5,Antioquia,#TODOS,#TODOS,2025,5.2,Riesgo bajo,2.0,Sin riesgo,15.3,Riesgo medio,Riesgo bajo,True,True,13.3,True,12,False,False,Otro,-1.8
+81,Arauca,#TODOS,#TODOS,2025,6.5,Riesgo bajo,1.2,Sin riesgo,35.7,Riesgo alto,Riesgo bajo,True,True,34.5,True,14,False,False,Otro,-0.5
+18,Caquetá,#TODOS,#TODOS,2025,6.7,Riesgo bajo,6.7,Riesgo bajo,,,Riesgo bajo,True,False,,True,15,False,True,Vecino,-0.3
+68,Santander,#TODOS,#TODOS,2025,6.9,Riesgo bajo,6.2,Riesgo bajo,13.6,Riesgo bajo,Riesgo bajo,True,True,7.3999999999999995,True,16,False,False,Otro,-0.1
+66,Risaralda,#TODOS,#TODOS,2025,7.0,Riesgo bajo,3.2,Sin riesgo,28.9,Riesgo medio,Riesgo bajo,True,True,25.7,True,17,False,False,Otro,0.0
+15,Boyacá,#TODOS,#TODOS,2025,7.2,Riesgo bajo,4.3,Sin riesgo,21.4,Riesgo medio,Riesgo bajo,True,True,17.099999999999998,True,18,False,False,Otro,0.2
+19,Cauca,#TODOS,#TODOS,2025,7.3,Riesgo bajo,6.6,Riesgo bajo,9.9,Riesgo bajo,Riesgo bajo,True,True,3.3000000000000007,True,19,True,False,Cauca,0.3
+13,Bolívar,#TODOS,#TODOS,2025,10.3,Riesgo bajo,10.6,Riesgo bajo,9.3,Riesgo bajo,Riesgo bajo,True,True,-1.299999999999999,True,20,False,False,Otro,3.3
+50,Meta,#TODOS,#TODOS,2025,11.2,Riesgo bajo,11.5,Riesgo bajo,6.7,Riesgo bajo,Riesgo bajo,True,True,-4.8,True,21,False,False,Otro,4.2
+23,Córdoba,#TODOS,#TODOS,2025,11.3,Riesgo bajo,11.3,Riesgo bajo,12.0,Riesgo bajo,Riesgo bajo,True,True,0.6999999999999993,True,22,False,False,Otro,4.3
+20,Cesar,#TODOS,#TODOS,2025,11.3,Riesgo bajo,11.4,Riesgo bajo,7.3,Riesgo bajo,Riesgo bajo,True,True,-4.1000000000000005,True,22,False,False,Otro,4.3
+47,Magdalena,#TODOS,#TODOS,2025,12.0,Riesgo bajo,12.2,Riesgo bajo,10.9,Riesgo bajo,Riesgo bajo,True,True,-1.299999999999999,True,24,False,False,Otro,5.0
+99,Vichada,#TODOS,#TODOS,2025,12.0,Riesgo bajo,12.0,Riesgo bajo,,,Riesgo bajo,True,False,,True,24,False,False,Otro,5.0
+73,Tolima,#TODOS,#TODOS,2025,12.8,Riesgo bajo,12.4,Riesgo bajo,32.0,Riesgo medio,Riesgo bajo,True,True,19.6,True,26,False,False,Otro,5.8
+97,Vaupés,#TODOS,#TODOS,2025,13.4,Riesgo bajo,13.4,Riesgo bajo,,,Riesgo bajo,True,False,,True,27,False,False,Otro,6.4
+91,Amazonas,#TODOS,#TODOS,2025,14.1,Riesgo medio,13.3,Riesgo bajo,29.1,Riesgo medio,Riesgo medio,True,True,15.8,True,28,False,False,Otro,7.1
+70,Sucre,#TODOS,#TODOS,2025,14.9,Riesgo medio,14.9,Riesgo medio,17.6,Riesgo medio,Riesgo medio,True,True,2.700000000000001,True,29,False,False,Otro,7.9
+86,Putumayo,#TODOS,#TODOS,2025,17.0,Riesgo medio,17.0,Riesgo medio,,,Riesgo medio,True,False,,True,30,False,True,Vecino,10.0
+52,Nariño,#TODOS,#TODOS,2025,22.5,Riesgo medio,12.6,Riesgo bajo,46.0,Riesgo alto,Riesgo medio,True,True,33.4,True,31,False,True,Vecino,15.5
+94,Guainía,#TODOS,#TODOS,2025,26.9,Riesgo medio,26.9,Riesgo medio,,,Riesgo medio,True,False,,True,32,False,False,Otro,19.9
+27,Chocó,#TODOS,#TODOS,2025,42.0,Riesgo alto,42.0,Riesgo alto,,,Riesgo alto,True,False,,True,33,False,False,Otro,35.0

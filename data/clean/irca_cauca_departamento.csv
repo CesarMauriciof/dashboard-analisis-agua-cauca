@@ -1,0 +1,20 @@
+﻿codigo_departamento,departamento,codigo_municipio,municipio,anio,irca,nivel_riesgo,irca_urbano,nivel_riesgo_urbano,irca_rural,nivel_riesgo_rural,categoria_calculada,coincide_categoria,tiene_dato_rural,brecha_rural_urbano,es_agregado
+19,Cauca,#TODOS,#TODOS,2007,30.7,Riesgo medio,31.0,Riesgo medio,24.3,Riesgo medio,Riesgo medio,True,True,-6.699999999999999,True
+19,Cauca,#TODOS,#TODOS,2008,28.5,Riesgo medio,28.1,Riesgo medio,32.7,Riesgo medio,Riesgo medio,True,True,4.600000000000001,True
+19,Cauca,#TODOS,#TODOS,2009,27.1,Riesgo medio,27.7,Riesgo medio,28.6,Riesgo medio,Riesgo medio,True,True,0.9000000000000021,True
+19,Cauca,#TODOS,#TODOS,2010,23.1,Riesgo medio,22.4,Riesgo medio,44.3,Riesgo alto,Riesgo medio,True,True,21.9,True
+19,Cauca,#TODOS,#TODOS,2011,25.0,Riesgo medio,25.7,Riesgo medio,29.1,Riesgo medio,Riesgo medio,True,True,3.400000000000002,True
+19,Cauca,#TODOS,#TODOS,2012,17.9,Riesgo medio,17.0,Riesgo medio,32.9,Riesgo medio,Riesgo medio,True,True,15.899999999999999,True
+19,Cauca,#TODOS,#TODOS,2013,16.5,Riesgo medio,16.9,Riesgo medio,17.6,Riesgo medio,Riesgo medio,True,True,0.7000000000000028,True
+19,Cauca,#TODOS,#TODOS,2014,18.4,Riesgo medio,16.8,Riesgo medio,41.6,Riesgo alto,Riesgo medio,True,True,24.8,True
+19,Cauca,#TODOS,#TODOS,2015,14.7,Riesgo medio,14.2,Riesgo medio,40.6,Riesgo alto,Riesgo medio,True,True,26.400000000000002,True
+19,Cauca,#TODOS,#TODOS,2016,11.5,Riesgo bajo,12.6,Riesgo bajo,12.3,Riesgo bajo,Riesgo bajo,True,True,-0.29999999999999893,True
+19,Cauca,#TODOS,#TODOS,2017,11.9,Riesgo bajo,13.0,Riesgo bajo,13.3,Riesgo bajo,Riesgo bajo,True,True,0.3000000000000007,True
+19,Cauca,#TODOS,#TODOS,2018,11.0,Riesgo bajo,11.0,Riesgo bajo,11.3,Riesgo bajo,Riesgo bajo,True,True,0.3000000000000007,True
+19,Cauca,#TODOS,#TODOS,2019,8.8,Riesgo bajo,9.6,Riesgo bajo,6.6,Riesgo bajo,Riesgo bajo,True,True,-3.0,True
+19,Cauca,#TODOS,#TODOS,2020,7.6,Riesgo bajo,7.3,Riesgo bajo,9.6,Riesgo bajo,Riesgo bajo,True,True,2.3,True
+19,Cauca,#TODOS,#TODOS,2021,9.9,Riesgo bajo,9.9,Riesgo bajo,10.1,Riesgo bajo,Riesgo bajo,True,True,0.1999999999999993,True
+19,Cauca,#TODOS,#TODOS,2022,7.2,Riesgo bajo,7.2,Riesgo bajo,7.5,Riesgo bajo,Riesgo bajo,True,True,0.2999999999999998,True
+19,Cauca,#TODOS,#TODOS,2023,3.9,Sin riesgo,4.0,Sin riesgo,3.6,Sin riesgo,Sin riesgo,True,True,-0.3999999999999999,True
+19,Cauca,#TODOS,#TODOS,2024,3.3,Sin riesgo,2.1,Sin riesgo,6.6,Riesgo bajo,Sin riesgo,True,True,4.5,True
+19,Cauca,#TODOS,#TODOS,2025,7.3,Riesgo bajo,6.6,Riesgo bajo,9.9,Riesgo bajo,Riesgo bajo,True,True,3.3000000000000007,True

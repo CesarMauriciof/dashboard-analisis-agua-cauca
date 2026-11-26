@@ -1,0 +1,43 @@
+﻿municipio,anios_con_dato,anios_riesgo_medio_alto,pct_anios_riesgo,racha_maxima_riesgo,primer_anio,ultimo_anio,irca_ultimo,categoria_ultimo
+La Vega,19,17,89.5,17,2007,2025,1.6,Sin riesgo
+Piamonte,18,16,88.9,16,2008,2025,11.4,Riesgo bajo
+Timbiquí,16,14,87.5,12,2008,2025,37.0,Riesgo alto
+Villa Rica,19,14,73.7,6,2007,2025,19.1,Riesgo medio
+San Sebastián,14,13,92.9,13,2007,2025,6.3,Riesgo bajo
+Guapi,16,11,68.8,8,2008,2025,32.0,Riesgo medio
+Guachené,18,10,55.6,8,2008,2025,9.5,Riesgo bajo
+Mercaderes,19,10,52.6,6,2007,2025,12.4,Riesgo bajo
+Puracé,19,10,52.6,9,2007,2025,6.0,Riesgo bajo
+Florencia,17,8,47.1,7,2007,2023,0.0,Sin riesgo
+Caldono,18,8,44.4,4,2008,2025,36.6,Riesgo alto
+Sotará Paispamba,18,8,44.4,6,2008,2025,0.0,Sin riesgo
+La Sierra,19,8,42.1,7,2007,2025,0.0,Sin riesgo
+Suárez,19,8,42.1,3,2007,2025,11.5,Riesgo bajo
+Almaguer,19,7,36.8,7,2007,2025,0.9,Sin riesgo
+Puerto Tejada,19,7,36.8,5,2007,2025,8.6,Riesgo bajo
+Páez,14,6,42.9,5,2007,2025,0.0,Sin riesgo
+Sucre,19,6,31.6,6,2007,2025,0.0,Sin riesgo
+Totoró,19,6,31.6,2,2007,2025,7.8,Riesgo bajo
+López de Micay,5,5,100.0,5,2008,2019,79.2,Riesgo alto
+Caloto,19,5,26.3,3,2007,2025,6.3,Riesgo bajo
+Padilla,19,5,26.3,3,2007,2025,12.6,Riesgo bajo
+Santa Rosa,19,5,26.3,5,2007,2025,0.0,Sin riesgo
+Cajibío,19,4,21.1,2,2007,2025,11.1,Riesgo bajo
+Toribío,19,4,21.1,2,2007,2025,0.0,Sin riesgo
+Bolívar,14,3,21.4,1,2007,2025,1.6,Sin riesgo
+Jambaló,14,3,21.4,2,2007,2025,12.5,Riesgo bajo
+Argelia,15,3,20.0,3,2008,2025,0.0,Sin riesgo
+Rosas,18,3,16.7,2,2008,2025,3.6,Sin riesgo
+Inzá,19,3,15.8,2,2007,2025,8.4,Riesgo bajo
+Timbío,19,3,15.8,2,2007,2025,2.6,Sin riesgo
+Buenos Aires,19,2,10.5,2,2007,2025,7.6,Riesgo bajo
+El Tambo,19,2,10.5,1,2007,2025,3.0,Sin riesgo
+Miranda,19,2,10.5,2,2007,2025,1.3,Sin riesgo
+Patía,19,2,10.5,1,2007,2025,6.3,Riesgo bajo
+Silvia,19,2,10.5,2,2007,2025,2.4,Sin riesgo
+Popayán,11,1,9.1,1,2008,2019,1.4,Sin riesgo
+Morales,19,1,5.3,1,2007,2025,1.5,Sin riesgo
+Piendamó - Tunía,19,1,5.3,1,2007,2025,1.5,Sin riesgo
+Balboa,16,0,0.0,0,2007,2022,3.4,Sin riesgo
+Corinto,19,0,0.0,0,2007,2025,1.7,Sin riesgo
+Santander de Quilichao,19,0,0.0,0,2007,2025,6.2,Riesgo bajo

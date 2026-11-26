@@ -1,0 +1,18 @@
+﻿chequeo,resultado,detalle,tratamiento
+Registros totales,20212,Base nacional descargada de datos.gov.co,Se conserva la base completa como referencia
+Registros del Cauca,736,"Municipios del Cauca, sin la fila agregada #TODOS",Base de análisis municipal
+Filas agregadas del Cauca (#TODOS),19,Una fila por año con el agregado departamental,Se separan para no duplicar el conteo municipal
+Municipios del Cauca,42,Municipios distintos en la base municipal,Se validan contra el catálogo DANE de 42 municipios
+Periodo,2007-2025,Años cubiertos por la base,Se usa 2007-2025 para la serie y 2025 para el corte transversal
+Duplicados exactos (toda la base),0,Filas idénticas en todas las columnas,No se eliminan si no hay evidencia de error; se documentan
+Duplicados municipio-año en el Cauca,0,La llave municipio-año debería ser única,Se verificó que no hay duplicados
+IRCA total nulo en el Cauca,0,Valores ND o vacíos después de convertir a número,Se excluyen del cálculo del indicador
+IRCA urbano nulo en el Cauca,5,Valores ND o vacíos,Se mantiene como nulo; no se imputa
+IRCA rural nulo en el Cauca,489,66.4% de los registros municipales,No se imputa; el análisis rural se limita a casos completos
+Etiquetas 'Bajo riesgo' / 'Alto riesgo',336,Variantes de escritura de las categorías oficiales en la base original,Se unifican a 'Riesgo bajo' y 'Riesgo alto'
+Categorías que no coinciden con el IRCA,0,Comparación entre la etiqueta reportada y la calculada con los umbrales,Se revisan; no se corrige la etiqueta original sin evidencia
+IRCA = 0 en el Cauca,52,Puede ser un valor real o un problema de reporte,Se marca para revisión; no se elimina
+IRCA = 100 en el Cauca,4,Categoría 'Inviable sanitariamente',Se conserva: es un valor válido del índice
+Municipios del Cauca con dato en 2025,38,Cobertura del último año,El ranking 2025 cubre solo los municipios reportados
+Años con dato de Popayán,11,La capital no aparece en los últimos cortes,Se advierte como limitación central
+Filas agregadas departamentales (#TODOS),602,Una fila por departamento y año; no existe un agregado nacional único,El contexto nacional se construye con los agregados departamentales

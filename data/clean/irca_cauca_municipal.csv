@@ -1,0 +1,737 @@
+﻿codigo_departamento,departamento,codigo_municipio,municipio,anio,irca,nivel_riesgo,irca_urbano,nivel_riesgo_urbano,irca_rural,nivel_riesgo_rural,categoria_calculada,coincide_categoria,tiene_dato_rural,brecha_rural_urbano,es_agregado
+19,Cauca,19022,Almaguer,2007,62.9,Riesgo alto,62.9,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19022,Almaguer,2008,71.1,Riesgo alto,71.5,Riesgo alto,69.2,Riesgo alto,Riesgo alto,True,True,-2.299999999999997,False
+19,Cauca,19022,Almaguer,2009,71.7,Riesgo alto,71.7,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19022,Almaguer,2010,51.6,Riesgo alto,48.5,Riesgo alto,84.6,Inviable sanitariamente,Riesgo alto,True,True,36.099999999999994,False
+19,Cauca,19022,Almaguer,2011,40.9,Riesgo alto,40.9,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19022,Almaguer,2012,78.1,Riesgo alto,78.1,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19022,Almaguer,2013,52.4,Riesgo alto,52.4,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19022,Almaguer,2014,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19022,Almaguer,2015,7.6,Riesgo bajo,7.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19022,Almaguer,2016,13.2,Riesgo bajo,12.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19022,Almaguer,2017,10.9,Riesgo bajo,10.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19022,Almaguer,2018,12.8,Riesgo bajo,12.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19022,Almaguer,2019,8.4,Riesgo bajo,8.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19022,Almaguer,2020,6.6,Riesgo bajo,6.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19022,Almaguer,2021,7.4,Riesgo bajo,7.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19022,Almaguer,2022,2.9,Sin riesgo,2.7,Sin riesgo,4.0,Sin riesgo,Sin riesgo,True,True,1.2999999999999998,False
+19,Cauca,19022,Almaguer,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19022,Almaguer,2024,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19022,Almaguer,2025,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19050,Argelia,2008,69.6,Riesgo alto,69.6,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19050,Argelia,2009,70.0,Riesgo alto,70.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19050,Argelia,2010,30.7,Riesgo medio,30.7,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19050,Argelia,2011,12.8,Riesgo bajo,12.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19050,Argelia,2012,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19050,Argelia,2013,7.4,Riesgo bajo,7.3,Riesgo bajo,9.2,Riesgo bajo,Riesgo bajo,True,True,1.8999999999999995,False
+19,Cauca,19050,Argelia,2014,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19050,Argelia,2015,2.0,Sin riesgo,2.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.0,False
+19,Cauca,19050,Argelia,2016,5.6,Riesgo bajo,5.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19050,Argelia,2017,6.4,Riesgo bajo,6.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19050,Argelia,2018,5.7,Riesgo bajo,6.2,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-6.2,False
+19,Cauca,19050,Argelia,2019,4.7,Sin riesgo,4.5,Sin riesgo,10.1,Riesgo bajo,Sin riesgo,True,True,5.6,False
+19,Cauca,19050,Argelia,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19050,Argelia,2021,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19050,Argelia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19075,Balboa,2007,5.8,Riesgo bajo,5.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2008,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2009,13.9,Riesgo bajo,13.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2010,12.3,Riesgo bajo,12.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2011,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19075,Balboa,2012,5.3,Riesgo bajo,5.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2013,3.3,Sin riesgo,3.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19075,Balboa,2014,8.6,Riesgo bajo,8.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2015,7.4,Riesgo bajo,7.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2016,3.2,Sin riesgo,3.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19075,Balboa,2017,11.9,Riesgo bajo,11.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2018,3.0,Sin riesgo,3.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19075,Balboa,2019,6.9,Riesgo bajo,6.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19075,Balboa,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19075,Balboa,2021,2.0,Sin riesgo,2.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19075,Balboa,2022,3.4,Sin riesgo,3.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19100,Bolívar,2007,31.5,Riesgo medio,31.5,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19100,Bolívar,2008,9.1,Riesgo bajo,9.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19100,Bolívar,2009,44.1,Riesgo alto,44.1,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19100,Bolívar,2010,7.9,Riesgo bajo,7.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19100,Bolívar,2011,30.7,Riesgo medio,29.8,Riesgo medio,70.4,Riesgo alto,Riesgo medio,True,True,40.60000000000001,False
+19,Cauca,19100,Bolívar,2012,13.7,Riesgo bajo,13.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19100,Bolívar,2013,10.1,Riesgo bajo,10.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19100,Bolívar,2014,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19100,Bolívar,2015,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19100,Bolívar,2016,3.0,Sin riesgo,3.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19100,Bolívar,2017,7.2,Riesgo bajo,7.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19100,Bolívar,2018,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19100,Bolívar,2019,1.2,Sin riesgo,1.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19100,Bolívar,2025,1.6,Sin riesgo,0.0,Sin riesgo,19.0,Riesgo medio,Sin riesgo,True,True,19.0,False
+19,Cauca,19110,Buenos Aires,2007,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19110,Buenos Aires,2008,4.9,Sin riesgo,4.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19110,Buenos Aires,2009,4.5,Sin riesgo,4.4,Sin riesgo,4.7,Sin riesgo,Sin riesgo,True,True,0.2999999999999998,False
+19,Cauca,19110,Buenos Aires,2010,18.6,Riesgo medio,19.0,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-19.0,False
+19,Cauca,19110,Buenos Aires,2011,28.5,Riesgo medio,33.4,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-33.4,False
+19,Cauca,19110,Buenos Aires,2012,7.5,Riesgo bajo,7.7,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-7.7,False
+19,Cauca,19110,Buenos Aires,2013,12.4,Riesgo bajo,11.6,Riesgo bajo,51.4,Riesgo alto,Riesgo bajo,True,True,39.8,False
+19,Cauca,19110,Buenos Aires,2014,13.1,Riesgo bajo,13.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2015,5.3,Riesgo bajo,5.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2016,10.1,Riesgo bajo,10.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2017,7.3,Riesgo bajo,7.5,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-7.5,False
+19,Cauca,19110,Buenos Aires,2018,10.5,Riesgo bajo,10.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2019,8.8,Riesgo bajo,8.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2020,9.4,Riesgo bajo,9.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2021,9.7,Riesgo bajo,9.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2022,13.9,Riesgo bajo,13.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19110,Buenos Aires,2023,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19110,Buenos Aires,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19110,Buenos Aires,2025,7.6,Riesgo bajo,7.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19130,Cajibío,2007,15.3,Riesgo medio,15.3,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19130,Cajibío,2008,10.5,Riesgo bajo,7.3,Riesgo bajo,45.3,Riesgo alto,Riesgo bajo,True,True,38.0,False
+19,Cauca,19130,Cajibío,2009,1.5,Sin riesgo,1.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.9,False
+19,Cauca,19130,Cajibío,2010,31.1,Riesgo medio,16.5,Riesgo medio,59.1,Riesgo alto,Riesgo medio,True,True,42.6,False
+19,Cauca,19130,Cajibío,2011,18.8,Riesgo medio,18.7,Riesgo medio,19.0,Riesgo medio,Riesgo medio,True,True,0.3000000000000007,False
+19,Cauca,19130,Cajibío,2012,8.5,Riesgo bajo,3.8,Sin riesgo,29.4,Riesgo medio,Riesgo bajo,True,True,25.599999999999998,False
+19,Cauca,19130,Cajibío,2013,4.6,Sin riesgo,4.2,Sin riesgo,9.1,Riesgo bajo,Sin riesgo,True,True,4.8999999999999995,False
+19,Cauca,19130,Cajibío,2014,11.3,Riesgo bajo,10.9,Riesgo bajo,13.4,Riesgo bajo,Riesgo bajo,True,True,2.5,False
+19,Cauca,19130,Cajibío,2015,2.7,Sin riesgo,3.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.2,False
+19,Cauca,19130,Cajibío,2016,0.6,Sin riesgo,0.0,Sin riesgo,2.5,Sin riesgo,Sin riesgo,True,True,2.5,False
+19,Cauca,19130,Cajibío,2017,16.7,Riesgo medio,16.0,Riesgo medio,19.9,Riesgo medio,Riesgo medio,True,True,3.8999999999999986,False
+19,Cauca,19130,Cajibío,2018,13.7,Riesgo bajo,7.5,Riesgo bajo,15.2,Riesgo medio,Riesgo bajo,True,True,7.699999999999999,False
+19,Cauca,19130,Cajibío,2019,5.2,Riesgo bajo,4.4,Sin riesgo,5.4,Riesgo bajo,Riesgo bajo,True,True,1.0,False
+19,Cauca,19130,Cajibío,2020,7.8,Riesgo bajo,,,7.8,Riesgo bajo,Riesgo bajo,True,True,,False
+19,Cauca,19130,Cajibío,2021,3.5,Sin riesgo,,,3.5,Sin riesgo,Sin riesgo,True,True,,False
+19,Cauca,19130,Cajibío,2022,8.8,Riesgo bajo,,,8.8,Riesgo bajo,Riesgo bajo,True,True,,False
+19,Cauca,19130,Cajibío,2023,1.0,Sin riesgo,,,1.0,Sin riesgo,Sin riesgo,True,True,,False
+19,Cauca,19130,Cajibío,2024,0.0,Sin riesgo,,,0.0,Sin riesgo,Sin riesgo,True,True,,False
+19,Cauca,19130,Cajibío,2025,11.1,Riesgo bajo,18.8,Riesgo medio,5.1,Riesgo bajo,Riesgo bajo,True,True,-13.700000000000001,False
+19,Cauca,19137,Caldono,2008,44.3,Riesgo alto,44.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19137,Caldono,2009,18.1,Riesgo medio,21.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19137,Caldono,2010,25.0,Riesgo medio,27.3,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19137,Caldono,2011,23.8,Riesgo medio,28.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19137,Caldono,2012,4.1,Sin riesgo,3.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19137,Caldono,2013,4.4,Sin riesgo,3.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19137,Caldono,2014,10.3,Riesgo bajo,11.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19137,Caldono,2015,15.2,Riesgo medio,15.3,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19137,Caldono,2016,2.9,Sin riesgo,3.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19137,Caldono,2017,8.7,Riesgo bajo,9.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19137,Caldono,2018,5.2,Riesgo bajo,5.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19137,Caldono,2019,26.5,Riesgo medio,26.5,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19137,Caldono,2020,10.7,Riesgo bajo,12.1,Riesgo bajo,7.5,Riesgo bajo,Riesgo bajo,True,True,-4.6,False
+19,Cauca,19137,Caldono,2021,4.3,Sin riesgo,3.1,Sin riesgo,8.4,Riesgo bajo,Sin riesgo,True,True,5.300000000000001,False
+19,Cauca,19137,Caldono,2022,5.7,Riesgo bajo,4.1,Sin riesgo,10.2,Riesgo bajo,Riesgo bajo,True,True,6.1,False
+19,Cauca,19137,Caldono,2023,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19137,Caldono,2024,23.6,Riesgo medio,9.3,Riesgo bajo,33.1,Riesgo medio,Riesgo medio,True,True,23.8,False
+19,Cauca,19137,Caldono,2025,36.6,Riesgo alto,18.8,Riesgo medio,67.8,Riesgo alto,Riesgo alto,True,True,49.0,False
+19,Cauca,19142,Caloto,2007,13.8,Riesgo bajo,13.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19142,Caloto,2008,11.0,Riesgo bajo,11.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19142,Caloto,2009,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19142,Caloto,2010,16.8,Riesgo medio,10.2,Riesgo bajo,75.2,Riesgo alto,Riesgo medio,True,True,65.0,False
+19,Cauca,19142,Caloto,2011,18.4,Riesgo medio,17.0,Riesgo medio,50.0,Riesgo alto,Riesgo medio,True,True,33.0,False
+19,Cauca,19142,Caloto,2012,17.1,Riesgo medio,11.5,Riesgo bajo,36.5,Riesgo alto,Riesgo medio,True,True,25.0,False
+19,Cauca,19142,Caloto,2013,13.5,Riesgo bajo,12.0,Riesgo bajo,64.0,Riesgo alto,Riesgo bajo,True,True,52.0,False
+19,Cauca,19142,Caloto,2014,32.5,Riesgo medio,9.8,Riesgo bajo,79.9,Riesgo alto,Riesgo medio,True,True,70.10000000000001,False
+19,Cauca,19142,Caloto,2015,43.2,Riesgo alto,15.7,Riesgo medio,79.2,Riesgo alto,Riesgo alto,True,True,63.5,False
+19,Cauca,19142,Caloto,2016,4.5,Sin riesgo,4.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19142,Caloto,2017,3.9,Sin riesgo,4.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19142,Caloto,2018,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19142,Caloto,2019,6.5,Riesgo bajo,6.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19142,Caloto,2020,4.9,Sin riesgo,4.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19142,Caloto,2021,10.2,Riesgo bajo,10.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19142,Caloto,2022,5.3,Riesgo bajo,5.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19142,Caloto,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19142,Caloto,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19142,Caloto,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19212,Corinto,2007,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19212,Corinto,2008,4.0,Sin riesgo,4.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19212,Corinto,2009,1.2,Sin riesgo,1.5,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.5,False
+19,Cauca,19212,Corinto,2010,2.1,Sin riesgo,2.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.6,False
+19,Cauca,19212,Corinto,2011,0.7,Sin riesgo,0.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.9,False
+19,Cauca,19212,Corinto,2012,0.5,Sin riesgo,0.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.6,False
+19,Cauca,19212,Corinto,2013,3.4,Sin riesgo,4.2,Sin riesgo,0.4,Sin riesgo,Sin riesgo,True,True,-3.8000000000000003,False
+19,Cauca,19212,Corinto,2014,4.2,Sin riesgo,4.5,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.5,False
+19,Cauca,19212,Corinto,2015,3.5,Sin riesgo,3.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.9,False
+19,Cauca,19212,Corinto,2016,7.2,Riesgo bajo,6.7,Riesgo bajo,12.5,Riesgo bajo,Riesgo bajo,True,True,5.8,False
+19,Cauca,19212,Corinto,2017,2.1,Sin riesgo,2.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.1,False
+19,Cauca,19212,Corinto,2018,2.3,Sin riesgo,1.8,Sin riesgo,7.5,Riesgo bajo,Sin riesgo,True,True,5.7,False
+19,Cauca,19212,Corinto,2019,3.0,Sin riesgo,3.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.1,False
+19,Cauca,19212,Corinto,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19212,Corinto,2021,1.6,Sin riesgo,1.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.6,False
+19,Cauca,19212,Corinto,2022,2.1,Sin riesgo,2.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.1,False
+19,Cauca,19212,Corinto,2023,0.1,Sin riesgo,0.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.1,False
+19,Cauca,19212,Corinto,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19212,Corinto,2025,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19256,El Tambo,2007,10.6,Riesgo bajo,8.7,Riesgo bajo,18.9,Riesgo medio,Riesgo bajo,True,True,10.2,False
+19,Cauca,19256,El Tambo,2008,11.3,Riesgo bajo,11.0,Riesgo bajo,12.7,Riesgo bajo,Riesgo bajo,True,True,1.6999999999999993,False
+19,Cauca,19256,El Tambo,2009,2.6,Sin riesgo,2.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19256,El Tambo,2010,17.3,Riesgo medio,18.3,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-18.3,False
+19,Cauca,19256,El Tambo,2011,12.1,Riesgo bajo,12.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19256,El Tambo,2012,0.1,Sin riesgo,0.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.1,False
+19,Cauca,19256,El Tambo,2013,3.4,Sin riesgo,3.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19256,El Tambo,2014,2.7,Sin riesgo,2.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.8,False
+19,Cauca,19256,El Tambo,2015,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19256,El Tambo,2016,7.5,Riesgo bajo,7.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19256,El Tambo,2017,11.9,Riesgo bajo,11.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19256,El Tambo,2018,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19256,El Tambo,2019,11.8,Riesgo bajo,11.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19256,El Tambo,2020,7.1,Riesgo bajo,7.8,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-7.8,False
+19,Cauca,19256,El Tambo,2021,15.0,Riesgo medio,15.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19256,El Tambo,2022,9.9,Riesgo bajo,9.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19256,El Tambo,2023,8.5,Riesgo bajo,11.6,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-11.6,False
+19,Cauca,19256,El Tambo,2024,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19256,El Tambo,2025,3.0,Sin riesgo,3.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.8,False
+19,Cauca,19290,Florencia,2007,92.8,Inviable sanitariamente,92.8,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19290,Florencia,2008,83.6,Inviable sanitariamente,83.6,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19290,Florencia,2009,88.8,Inviable sanitariamente,88.8,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19290,Florencia,2010,80.4,Inviable sanitariamente,80.4,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19290,Florencia,2011,84.1,Inviable sanitariamente,84.1,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19290,Florencia,2012,29.4,Riesgo medio,29.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19290,Florencia,2013,37.5,Riesgo alto,37.5,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19290,Florencia,2014,10.6,Riesgo bajo,10.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19290,Florencia,2015,5.3,Riesgo bajo,5.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19290,Florencia,2016,8.0,Riesgo bajo,7.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19290,Florencia,2017,15.1,Riesgo medio,13.8,Riesgo bajo,,,Riesgo medio,True,False,,False
+19,Cauca,19290,Florencia,2018,7.5,Riesgo bajo,7.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19290,Florencia,2019,3.3,Sin riesgo,3.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19290,Florencia,2020,1.2,Sin riesgo,1.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19290,Florencia,2021,7.3,Riesgo bajo,7.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19290,Florencia,2022,5.4,Riesgo bajo,5.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19290,Florencia,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19300,Guachené,2008,97.6,Inviable sanitariamente,97.6,Inviable sanitariamente,97.6,Inviable sanitariamente,Inviable sanitariamente,True,True,0.0,False
+19,Cauca,19300,Guachené,2009,46.5,Riesgo alto,54.0,Riesgo alto,31.6,Riesgo medio,Riesgo alto,True,True,-22.4,False
+19,Cauca,19300,Guachené,2010,13.3,Riesgo bajo,16.1,Riesgo medio,12.0,Riesgo bajo,Riesgo bajo,True,True,-4.100000000000001,False
+19,Cauca,19300,Guachené,2011,29.7,Riesgo medio,19.1,Riesgo medio,38.4,Riesgo alto,Riesgo medio,True,True,19.299999999999997,False
+19,Cauca,19300,Guachené,2012,14.2,Riesgo medio,21.7,Riesgo medio,9.0,Riesgo bajo,Riesgo medio,True,True,-12.7,False
+19,Cauca,19300,Guachené,2013,14.6,Riesgo medio,25.6,Riesgo medio,9.8,Riesgo bajo,Riesgo medio,True,True,-15.8,False
+19,Cauca,19300,Guachené,2014,25.2,Riesgo medio,31.5,Riesgo medio,19.3,Riesgo medio,Riesgo medio,True,True,-12.2,False
+19,Cauca,19300,Guachené,2015,17.5,Riesgo medio,16.7,Riesgo medio,17.9,Riesgo medio,Riesgo medio,True,True,1.1999999999999993,False
+19,Cauca,19300,Guachené,2016,30.1,Riesgo medio,38.5,Riesgo alto,26.0,Riesgo medio,Riesgo medio,True,True,-12.5,False
+19,Cauca,19300,Guachené,2017,23.0,Riesgo medio,31.5,Riesgo medio,17.1,Riesgo medio,Riesgo medio,True,True,-14.399999999999999,False
+19,Cauca,19300,Guachené,2018,15.8,Riesgo medio,22.7,Riesgo medio,12.7,Riesgo bajo,Riesgo medio,True,True,-10.0,False
+19,Cauca,19300,Guachené,2019,11.2,Riesgo bajo,17.1,Riesgo medio,8.9,Riesgo bajo,Riesgo bajo,True,True,-8.200000000000001,False
+19,Cauca,19300,Guachené,2020,8.9,Riesgo bajo,11.9,Riesgo bajo,7.9,Riesgo bajo,Riesgo bajo,True,True,-4.0,False
+19,Cauca,19300,Guachené,2021,3.7,Sin riesgo,5.7,Riesgo bajo,3.0,Sin riesgo,Sin riesgo,True,True,-2.7,False
+19,Cauca,19300,Guachené,2022,5.8,Riesgo bajo,9.9,Riesgo bajo,4.7,Sin riesgo,Riesgo bajo,True,True,-5.2,False
+19,Cauca,19300,Guachené,2023,5.2,Riesgo bajo,0.0,Sin riesgo,5.6,Riesgo bajo,Riesgo bajo,True,True,5.6,False
+19,Cauca,19300,Guachené,2024,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19300,Guachené,2025,9.5,Riesgo bajo,9.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19318,Guapi,2008,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19318,Guapi,2009,33.2,Riesgo medio,34.7,Riesgo medio,19.4,Riesgo medio,Riesgo medio,True,True,-15.300000000000004,False
+19,Cauca,19318,Guapi,2010,16.0,Riesgo medio,16.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19318,Guapi,2011,40.0,Riesgo alto,40.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19318,Guapi,2012,41.3,Riesgo alto,40.4,Riesgo alto,62.1,Riesgo alto,Riesgo alto,True,True,21.700000000000003,False
+19,Cauca,19318,Guapi,2013,40.6,Riesgo alto,40.6,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19318,Guapi,2014,45.9,Riesgo alto,45.9,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19318,Guapi,2017,28.1,Riesgo medio,28.1,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19318,Guapi,2018,4.4,Sin riesgo,4.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19318,Guapi,2019,7.8,Riesgo bajo,7.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19318,Guapi,2020,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19318,Guapi,2021,72.0,Riesgo alto,50.9,Riesgo alto,93.2,Inviable sanitariamente,Riesgo alto,True,True,42.300000000000004,False
+19,Cauca,19318,Guapi,2022,5.0,Sin riesgo,5.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19318,Guapi,2023,39.6,Riesgo alto,39.6,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19318,Guapi,2024,9.3,Riesgo bajo,18.6,Riesgo medio,0.0,Sin riesgo,Riesgo bajo,True,True,-18.6,False
+19,Cauca,19318,Guapi,2025,32.0,Riesgo medio,32.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19355,Inzá,2007,37.7,Riesgo alto,37.7,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19355,Inzá,2008,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19355,Inzá,2009,12.6,Riesgo bajo,12.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19355,Inzá,2010,27.1,Riesgo medio,23.3,Riesgo medio,84.6,Inviable sanitariamente,Riesgo medio,True,True,61.3,False
+19,Cauca,19355,Inzá,2011,18.1,Riesgo medio,18.1,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19355,Inzá,2012,11.5,Riesgo bajo,10.5,Riesgo bajo,33.2,Riesgo medio,Riesgo bajo,True,True,22.700000000000003,False
+19,Cauca,19355,Inzá,2013,10.5,Riesgo bajo,8.3,Riesgo bajo,86.9,Inviable sanitariamente,Riesgo bajo,True,True,78.60000000000001,False
+19,Cauca,19355,Inzá,2014,3.0,Sin riesgo,2.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19355,Inzá,2015,12.6,Riesgo bajo,0.3,Sin riesgo,95.6,Inviable sanitariamente,Riesgo bajo,True,True,95.3,False
+19,Cauca,19355,Inzá,2016,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19355,Inzá,2017,1.6,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19355,Inzá,2018,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19355,Inzá,2019,4.4,Sin riesgo,4.7,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.7,False
+19,Cauca,19355,Inzá,2020,1.7,Sin riesgo,0.0,Sin riesgo,8.9,Riesgo bajo,Sin riesgo,True,True,8.9,False
+19,Cauca,19355,Inzá,2021,4.7,Sin riesgo,5.4,Riesgo bajo,2.2,Sin riesgo,Sin riesgo,True,True,-3.2,False
+19,Cauca,19355,Inzá,2022,7.1,Riesgo bajo,4.2,Sin riesgo,13.9,Riesgo bajo,Riesgo bajo,True,True,9.7,False
+19,Cauca,19355,Inzá,2023,5.6,Riesgo bajo,0.0,Sin riesgo,10.1,Riesgo bajo,Riesgo bajo,True,True,10.1,False
+19,Cauca,19355,Inzá,2024,5.5,Riesgo bajo,0.0,Sin riesgo,24.8,Riesgo medio,Riesgo bajo,True,True,24.8,False
+19,Cauca,19355,Inzá,2025,8.4,Riesgo bajo,8.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19364,Jambaló,2007,5.4,Riesgo bajo,5.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19364,Jambaló,2008,14.2,Riesgo medio,14.2,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19364,Jambaló,2009,8.7,Riesgo bajo,8.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19364,Jambaló,2010,28.1,Riesgo medio,26.9,Riesgo medio,76.7,Riesgo alto,Riesgo medio,True,True,49.800000000000004,False
+19,Cauca,19364,Jambaló,2011,20.0,Riesgo medio,20.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19364,Jambaló,2012,10.3,Riesgo bajo,10.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19364,Jambaló,2013,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19364,Jambaló,2014,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19364,Jambaló,2015,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19364,Jambaló,2016,3.3,Sin riesgo,3.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19364,Jambaló,2017,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19364,Jambaló,2018,5.1,Riesgo bajo,5.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19364,Jambaló,2019,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19364,Jambaló,2025,12.5,Riesgo bajo,12.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19392,La Sierra,2007,86.3,Inviable sanitariamente,86.3,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19392,La Sierra,2008,74.6,Riesgo alto,74.6,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19392,La Sierra,2009,76.0,Riesgo alto,76.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19392,La Sierra,2010,77.3,Riesgo alto,77.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19392,La Sierra,2011,81.3,Inviable sanitariamente,81.3,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19392,La Sierra,2012,74.7,Riesgo alto,74.7,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19392,La Sierra,2013,63.7,Riesgo alto,63.7,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19392,La Sierra,2014,11.8,Riesgo bajo,12.3,Riesgo bajo,6.1,Riesgo bajo,Riesgo bajo,True,True,-6.200000000000001,False
+19,Cauca,19392,La Sierra,2015,11.8,Riesgo bajo,11.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19392,La Sierra,2016,20.4,Riesgo medio,22.1,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19392,La Sierra,2017,10.8,Riesgo bajo,11.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19392,La Sierra,2018,1.2,Sin riesgo,1.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19392,La Sierra,2019,6.0,Riesgo bajo,3.5,Sin riesgo,20.0,Riesgo medio,Riesgo bajo,True,True,16.5,False
+19,Cauca,19392,La Sierra,2020,2.7,Sin riesgo,3.4,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.4,False
+19,Cauca,19392,La Sierra,2021,4.1,Sin riesgo,3.1,Sin riesgo,8.5,Riesgo bajo,Sin riesgo,True,True,5.4,False
+19,Cauca,19392,La Sierra,2022,3.6,Sin riesgo,3.6,Sin riesgo,3.6,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19392,La Sierra,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19392,La Sierra,2024,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19392,La Sierra,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19397,La Vega,2007,85.2,Inviable sanitariamente,85.2,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19397,La Vega,2008,76.4,Riesgo alto,76.4,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19397,La Vega,2009,75.4,Riesgo alto,75.4,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19397,La Vega,2010,83.8,Inviable sanitariamente,84.0,Inviable sanitariamente,81.5,Inviable sanitariamente,Inviable sanitariamente,True,True,-2.5,False
+19,Cauca,19397,La Vega,2011,79.5,Riesgo alto,79.1,Riesgo alto,84.6,Inviable sanitariamente,Riesgo alto,True,True,5.5,False
+19,Cauca,19397,La Vega,2012,76.4,Riesgo alto,76.4,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19397,La Vega,2013,84.2,Inviable sanitariamente,84.2,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19397,La Vega,2014,79.0,Riesgo alto,79.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19397,La Vega,2015,79.9,Riesgo alto,79.9,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19397,La Vega,2016,80.2,Inviable sanitariamente,80.2,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19397,La Vega,2017,44.3,Riesgo alto,44.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19397,La Vega,2018,26.6,Riesgo medio,26.6,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19397,La Vega,2019,18.5,Riesgo medio,18.5,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19397,La Vega,2020,68.4,Riesgo alto,67.8,Riesgo alto,71.7,Riesgo alto,Riesgo alto,True,True,3.9000000000000057,False
+19,Cauca,19397,La Vega,2021,50.5,Riesgo alto,51.1,Riesgo alto,47.7,Riesgo alto,Riesgo alto,True,True,-3.3999999999999986,False
+19,Cauca,19397,La Vega,2022,50.6,Riesgo alto,53.3,Riesgo alto,37.2,Riesgo alto,Riesgo alto,True,True,-16.099999999999994,False
+19,Cauca,19397,La Vega,2023,23.3,Riesgo medio,20.7,Riesgo medio,57.3,Riesgo alto,Riesgo medio,True,True,36.599999999999994,False
+19,Cauca,19397,La Vega,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19397,La Vega,2025,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19418,López de Micay,2008,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19418,López de Micay,2009,97.7,Inviable sanitariamente,97.7,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19418,López de Micay,2010,67.9,Riesgo alto,67.9,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19418,López de Micay,2018,66.2,Riesgo alto,66.2,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19418,López de Micay,2019,79.2,Riesgo alto,79.2,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19450,Mercaderes,2007,18.9,Riesgo medio,18.9,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19450,Mercaderes,2008,34.7,Riesgo medio,34.7,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19450,Mercaderes,2009,38.8,Riesgo alto,38.8,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19450,Mercaderes,2010,29.9,Riesgo medio,29.9,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19450,Mercaderes,2011,38.1,Riesgo alto,38.1,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19450,Mercaderes,2012,14.1,Riesgo medio,10.0,Riesgo bajo,77.4,Riesgo alto,Riesgo medio,True,True,67.4,False
+19,Cauca,19450,Mercaderes,2013,6.5,Riesgo bajo,6.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19450,Mercaderes,2014,12.3,Riesgo bajo,9.2,Riesgo bajo,43.2,Riesgo alto,Riesgo bajo,True,True,34.0,False
+19,Cauca,19450,Mercaderes,2015,5.6,Riesgo bajo,5.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19450,Mercaderes,2016,11.2,Riesgo bajo,11.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19450,Mercaderes,2017,13.4,Riesgo bajo,13.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19450,Mercaderes,2018,12.0,Riesgo bajo,12.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19450,Mercaderes,2019,10.1,Riesgo bajo,10.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19450,Mercaderes,2020,15.2,Riesgo medio,15.2,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19450,Mercaderes,2021,35.3,Riesgo alto,35.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19450,Mercaderes,2022,28.9,Riesgo medio,28.9,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19450,Mercaderes,2023,17.2,Riesgo medio,17.2,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19450,Mercaderes,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19450,Mercaderes,2025,12.4,Riesgo bajo,12.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2007,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2008,12.8,Riesgo bajo,12.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2009,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2010,22.9,Riesgo medio,23.0,Riesgo medio,18.9,Riesgo medio,Riesgo medio,True,True,-4.100000000000001,False
+19,Cauca,19455,Miranda,2011,16.3,Riesgo medio,16.3,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19455,Miranda,2012,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2013,6.0,Riesgo bajo,6.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2014,7.8,Riesgo bajo,7.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2015,4.8,Sin riesgo,4.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.9,False
+19,Cauca,19455,Miranda,2016,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2017,1.0,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2018,9.9,Riesgo bajo,9.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2019,11.6,Riesgo bajo,11.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2021,4.6,Sin riesgo,4.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2022,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19455,Miranda,2024,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2025,1.3,Sin riesgo,1.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19473,Morales,2007,6.7,Riesgo bajo,4.1,Sin riesgo,11.3,Riesgo bajo,Riesgo bajo,True,True,7.200000000000001,False
+19,Cauca,19473,Morales,2008,13.0,Riesgo bajo,8.3,Riesgo bajo,25.5,Riesgo medio,Riesgo bajo,True,True,17.2,False
+19,Cauca,19473,Morales,2009,5.3,Riesgo bajo,0.0,Sin riesgo,8.3,Riesgo bajo,Riesgo bajo,True,True,8.3,False
+19,Cauca,19473,Morales,2010,0.9,Sin riesgo,1.0,Sin riesgo,0.9,Sin riesgo,Sin riesgo,True,True,-0.09999999999999998,False
+19,Cauca,19473,Morales,2011,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19473,Morales,2012,8.8,Riesgo bajo,1.2,Sin riesgo,31.0,Riesgo medio,Riesgo bajo,True,True,29.8,False
+19,Cauca,19473,Morales,2013,4.0,Sin riesgo,2.8,Sin riesgo,16.2,Riesgo medio,Sin riesgo,True,True,13.399999999999999,False
+19,Cauca,19473,Morales,2014,14.9,Riesgo medio,6.3,Riesgo bajo,61.1,Riesgo alto,Riesgo medio,True,True,54.800000000000004,False
+19,Cauca,19473,Morales,2015,8.0,Riesgo bajo,8.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19473,Morales,2016,7.9,Riesgo bajo,8.5,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-8.5,False
+19,Cauca,19473,Morales,2017,7.1,Riesgo bajo,8.5,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-8.5,False
+19,Cauca,19473,Morales,2018,6.3,Riesgo bajo,5.5,Riesgo bajo,17.7,Riesgo medio,Riesgo bajo,True,True,12.2,False
+19,Cauca,19473,Morales,2019,5.0,Sin riesgo,5.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19473,Morales,2020,5.3,Riesgo bajo,5.5,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-5.5,False
+19,Cauca,19473,Morales,2021,9.9,Riesgo bajo,10.9,Riesgo bajo,4.0,Sin riesgo,Riesgo bajo,True,True,-6.9,False
+19,Cauca,19473,Morales,2022,3.4,Sin riesgo,3.5,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.5,False
+19,Cauca,19473,Morales,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19473,Morales,2024,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19473,Morales,2025,1.5,Sin riesgo,1.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19513,Padilla,2007,37.5,Riesgo alto,36.7,Riesgo alto,38.7,Riesgo alto,Riesgo alto,True,True,2.0,False
+19,Cauca,19513,Padilla,2008,32.4,Riesgo medio,32.7,Riesgo medio,31.9,Riesgo medio,Riesgo medio,True,True,-0.8000000000000043,False
+19,Cauca,19513,Padilla,2009,40.9,Riesgo alto,48.5,Riesgo alto,31.8,Riesgo medio,Riesgo alto,True,True,-16.7,False
+19,Cauca,19513,Padilla,2010,9.8,Riesgo bajo,11.1,Riesgo bajo,7.5,Riesgo bajo,Riesgo bajo,True,True,-3.5999999999999996,False
+19,Cauca,19513,Padilla,2011,12.9,Riesgo bajo,12.5,Riesgo bajo,14.3,Riesgo medio,Riesgo bajo,True,True,1.8000000000000007,False
+19,Cauca,19513,Padilla,2012,30.5,Riesgo medio,31.2,Riesgo medio,27.9,Riesgo medio,Riesgo medio,True,True,-3.3000000000000007,False
+19,Cauca,19513,Padilla,2013,11.2,Riesgo bajo,9.0,Riesgo bajo,15.1,Riesgo medio,Riesgo bajo,True,True,6.1,False
+19,Cauca,19513,Padilla,2014,13.8,Riesgo bajo,12.6,Riesgo bajo,18.1,Riesgo medio,Riesgo bajo,True,True,5.500000000000002,False
+19,Cauca,19513,Padilla,2015,4.1,Sin riesgo,3.4,Sin riesgo,6.8,Riesgo bajo,Sin riesgo,True,True,3.4,False
+19,Cauca,19513,Padilla,2016,6.4,Riesgo bajo,4.8,Sin riesgo,14.2,Riesgo medio,Riesgo bajo,True,True,9.399999999999999,False
+19,Cauca,19513,Padilla,2017,6.8,Riesgo bajo,4.4,Sin riesgo,15.8,Riesgo medio,Riesgo bajo,True,True,11.4,False
+19,Cauca,19513,Padilla,2018,11.9,Riesgo bajo,14.2,Riesgo medio,5.0,Sin riesgo,Riesgo bajo,True,True,-9.2,False
+19,Cauca,19513,Padilla,2019,0.8,Sin riesgo,1.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.2,False
+19,Cauca,19513,Padilla,2020,1.0,Sin riesgo,0.0,Sin riesgo,2.5,Sin riesgo,Sin riesgo,True,True,2.5,False
+19,Cauca,19513,Padilla,2021,6.4,Riesgo bajo,9.0,Riesgo bajo,2.0,Sin riesgo,Riesgo bajo,True,True,-7.0,False
+19,Cauca,19513,Padilla,2022,9.5,Riesgo bajo,13.4,Riesgo bajo,5.7,Riesgo bajo,Riesgo bajo,True,True,-7.7,False
+19,Cauca,19513,Padilla,2023,4.5,Sin riesgo,4.5,Sin riesgo,4.5,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19513,Padilla,2024,14.2,Riesgo medio,0.0,Sin riesgo,24.8,Riesgo medio,Riesgo medio,True,True,24.8,False
+19,Cauca,19513,Padilla,2025,12.6,Riesgo bajo,12.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19532,Patía,2007,11.7,Riesgo bajo,11.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19532,Patía,2008,3.8,Sin riesgo,3.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19532,Patía,2009,3.1,Sin riesgo,3.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.6,False
+19,Cauca,19532,Patía,2010,12.5,Riesgo bajo,11.8,Riesgo bajo,16.7,Riesgo medio,Riesgo bajo,True,True,4.899999999999999,False
+19,Cauca,19532,Patía,2011,45.6,Riesgo alto,45.6,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19532,Patía,2012,4.8,Sin riesgo,3.3,Sin riesgo,21.2,Riesgo medio,Sin riesgo,True,True,17.9,False
+19,Cauca,19532,Patía,2013,2.4,Sin riesgo,2.5,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.5,False
+19,Cauca,19532,Patía,2014,22.8,Riesgo medio,18.9,Riesgo medio,75.7,Riesgo alto,Riesgo medio,True,True,56.800000000000004,False
+19,Cauca,19532,Patía,2015,3.8,Sin riesgo,4.2,Sin riesgo,0.9,Sin riesgo,Sin riesgo,True,True,-3.3000000000000003,False
+19,Cauca,19532,Patía,2016,2.8,Sin riesgo,3.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.6,False
+19,Cauca,19532,Patía,2017,2.4,Sin riesgo,2.0,Sin riesgo,4.0,Sin riesgo,Sin riesgo,True,True,2.0,False
+19,Cauca,19532,Patía,2018,4.0,Sin riesgo,5.1,Riesgo bajo,0.0,Sin riesgo,Sin riesgo,True,True,-5.1,False
+19,Cauca,19532,Patía,2019,4.8,Sin riesgo,4.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.9,False
+19,Cauca,19532,Patía,2020,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19532,Patía,2021,6.7,Riesgo bajo,6.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19532,Patía,2022,5.8,Riesgo bajo,5.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19532,Patía,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19532,Patía,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19532,Patía,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19533,Piamonte,2008,70.0,Riesgo alto,70.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19533,Piamonte,2009,60.2,Riesgo alto,60.2,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19533,Piamonte,2010,73.0,Riesgo alto,73.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19533,Piamonte,2011,75.5,Riesgo alto,75.5,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19533,Piamonte,2012,79.1,Riesgo alto,79.1,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19533,Piamonte,2013,78.0,Riesgo alto,78.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19533,Piamonte,2014,81.6,Inviable sanitariamente,81.6,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19533,Piamonte,2015,89.6,Inviable sanitariamente,89.6,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19533,Piamonte,2016,79.9,Riesgo alto,79.9,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19533,Piamonte,2017,89.8,Inviable sanitariamente,89.8,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19533,Piamonte,2018,89.0,Inviable sanitariamente,89.0,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19533,Piamonte,2019,92.2,Inviable sanitariamente,92.2,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19533,Piamonte,2020,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19533,Piamonte,2021,42.6,Riesgo alto,45.0,Riesgo alto,33.2,Riesgo medio,Riesgo alto,True,True,-11.799999999999997,False
+19,Cauca,19533,Piamonte,2022,19.3,Riesgo medio,19.4,Riesgo medio,18.8,Riesgo medio,Riesgo medio,True,True,-0.5999999999999979,False
+19,Cauca,19533,Piamonte,2023,14.2,Riesgo medio,14.2,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19533,Piamonte,2024,12.4,Riesgo bajo,12.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19533,Piamonte,2025,11.4,Riesgo bajo,11.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2007,3.5,Sin riesgo,3.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2008,2.6,Sin riesgo,2.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2009,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2010,3.8,Sin riesgo,3.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2011,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2012,7.1,Riesgo bajo,7.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2013,5.3,Riesgo bajo,3.4,Sin riesgo,81.9,Inviable sanitariamente,Riesgo bajo,True,True,78.5,False
+19,Cauca,19548,Piendamó - Tunía,2014,6.5,Riesgo bajo,6.2,Riesgo bajo,16.0,Riesgo medio,Riesgo bajo,True,True,9.8,False
+19,Cauca,19548,Piendamó - Tunía,2015,18.5,Riesgo medio,16.5,Riesgo medio,84.5,Inviable sanitariamente,Riesgo medio,True,True,68.0,False
+19,Cauca,19548,Piendamó - Tunía,2016,7.8,Riesgo bajo,7.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2017,11.7,Riesgo bajo,11.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2018,7.3,Riesgo bajo,7.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2019,3.9,Sin riesgo,3.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2020,3.3,Sin riesgo,3.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.9,False
+19,Cauca,19548,Piendamó - Tunía,2021,8.1,Riesgo bajo,8.2,Riesgo bajo,7.7,Riesgo bajo,Riesgo bajo,True,True,-0.4999999999999991,False
+19,Cauca,19548,Piendamó - Tunía,2022,0.9,Sin riesgo,1.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.2,False
+19,Cauca,19548,Piendamó - Tunía,2023,0.7,Sin riesgo,0.0,Sin riesgo,3.1,Sin riesgo,Sin riesgo,True,True,3.1,False
+19,Cauca,19548,Piendamó - Tunía,2024,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19548,Piendamó - Tunía,2025,1.5,Sin riesgo,1.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19001,Popayán,2008,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19001,Popayán,2009,7.4,Riesgo bajo,7.6,Riesgo bajo,69.2,Riesgo alto,Riesgo bajo,True,True,61.6,False
+19,Cauca,19001,Popayán,2010,7.9,Riesgo bajo,8.6,Riesgo bajo,86.0,Inviable sanitariamente,Riesgo bajo,True,True,77.4,False
+19,Cauca,19001,Popayán,2011,6.6,Riesgo bajo,7.0,Riesgo bajo,69.2,Riesgo alto,Riesgo bajo,True,True,62.2,False
+19,Cauca,19001,Popayán,2012,15.7,Riesgo medio,15.3,Riesgo medio,88.9,Inviable sanitariamente,Riesgo medio,True,True,73.60000000000001,False
+19,Cauca,19001,Popayán,2013,8.3,Riesgo bajo,7.5,Riesgo bajo,88.9,Inviable sanitariamente,Riesgo bajo,True,True,81.4,False
+19,Cauca,19001,Popayán,2015,1.1,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19001,Popayán,2016,2.9,Sin riesgo,3.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19001,Popayán,2017,3.5,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19001,Popayán,2018,3.2,Sin riesgo,3.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19001,Popayán,2019,1.4,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19573,Puerto Tejada,2007,82.0,Inviable sanitariamente,84.8,Inviable sanitariamente,69.6,Riesgo alto,Inviable sanitariamente,True,True,-15.200000000000003,False
+19,Cauca,19573,Puerto Tejada,2008,44.7,Riesgo alto,43.2,Riesgo alto,60.5,Riesgo alto,Riesgo alto,True,True,17.299999999999997,False
+19,Cauca,19573,Puerto Tejada,2009,33.4,Riesgo medio,21.0,Riesgo medio,75.5,Riesgo alto,Riesgo medio,True,True,54.5,False
+19,Cauca,19573,Puerto Tejada,2010,57.7,Riesgo alto,51.7,Riesgo alto,71.5,Riesgo alto,Riesgo alto,True,True,19.799999999999997,False
+19,Cauca,19573,Puerto Tejada,2011,19.9,Riesgo medio,21.6,Riesgo medio,6.3,Riesgo bajo,Riesgo medio,True,True,-15.3,False
+19,Cauca,19573,Puerto Tejada,2012,10.4,Riesgo bajo,10.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19573,Puerto Tejada,2013,11.3,Riesgo bajo,12.8,Riesgo bajo,0.6,Sin riesgo,Riesgo bajo,True,True,-12.200000000000001,False
+19,Cauca,19573,Puerto Tejada,2014,20.9,Riesgo medio,19.8,Riesgo medio,34.5,Riesgo medio,Riesgo medio,True,True,14.7,False
+19,Cauca,19573,Puerto Tejada,2015,26.5,Riesgo medio,26.5,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19573,Puerto Tejada,2016,10.1,Riesgo bajo,8.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19573,Puerto Tejada,2017,10.2,Riesgo bajo,10.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19573,Puerto Tejada,2018,10.8,Riesgo bajo,10.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19573,Puerto Tejada,2019,6.1,Riesgo bajo,6.0,Riesgo bajo,6.3,Riesgo bajo,Riesgo bajo,True,True,0.2999999999999998,False
+19,Cauca,19573,Puerto Tejada,2020,5.2,Riesgo bajo,4.6,Sin riesgo,6.5,Riesgo bajo,Riesgo bajo,True,True,1.9000000000000004,False
+19,Cauca,19573,Puerto Tejada,2021,11.5,Riesgo bajo,10.1,Riesgo bajo,17.4,Riesgo medio,Riesgo bajo,True,True,7.299999999999999,False
+19,Cauca,19573,Puerto Tejada,2022,9.6,Riesgo bajo,9.6,Riesgo bajo,9.6,Riesgo bajo,Riesgo bajo,True,True,0.0,False
+19,Cauca,19573,Puerto Tejada,2023,3.3,Sin riesgo,7.5,Riesgo bajo,0.3,Sin riesgo,Sin riesgo,True,True,-7.2,False
+19,Cauca,19573,Puerto Tejada,2024,1.4,Sin riesgo,0.1,Sin riesgo,4.0,Sin riesgo,Sin riesgo,True,True,3.9,False
+19,Cauca,19573,Puerto Tejada,2025,8.6,Riesgo bajo,10.5,Riesgo bajo,5.4,Riesgo bajo,Riesgo bajo,True,True,-5.1,False
+19,Cauca,19585,Puracé,2007,37.6,Riesgo alto,37.6,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19585,Puracé,2008,31.6,Riesgo medio,31.6,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19585,Puracé,2009,55.3,Riesgo alto,55.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19585,Puracé,2010,48.9,Riesgo alto,44.2,Riesgo alto,78.5,Riesgo alto,Riesgo alto,True,True,34.3,False
+19,Cauca,19585,Puracé,2011,53.0,Riesgo alto,53.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19585,Puracé,2012,44.8,Riesgo alto,39.2,Riesgo alto,74.2,Riesgo alto,Riesgo alto,True,True,35.0,False
+19,Cauca,19585,Puracé,2013,37.1,Riesgo alto,37.1,Riesgo alto,36.0,Riesgo alto,Riesgo alto,True,True,-1.1000000000000014,False
+19,Cauca,19585,Puracé,2014,32.7,Riesgo medio,32.7,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19585,Puracé,2015,15.4,Riesgo medio,15.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19585,Puracé,2016,1.9,Sin riesgo,1.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19585,Puracé,2017,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19585,Puracé,2018,6.6,Riesgo bajo,6.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19585,Puracé,2019,2.9,Sin riesgo,2.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19585,Puracé,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19585,Puracé,2021,1.6,Sin riesgo,0.0,Sin riesgo,22.1,Riesgo medio,Sin riesgo,True,True,22.1,False
+19,Cauca,19585,Puracé,2022,6.0,Riesgo bajo,6.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19585,Puracé,2023,16.5,Riesgo medio,15.7,Riesgo medio,18.5,Riesgo medio,Riesgo medio,True,True,2.8000000000000007,False
+19,Cauca,19585,Puracé,2024,5.3,Riesgo bajo,0.0,Sin riesgo,12.3,Riesgo bajo,Riesgo bajo,True,True,12.3,False
+19,Cauca,19585,Puracé,2025,6.0,Riesgo bajo,0.0,Sin riesgo,13.2,Riesgo bajo,Riesgo bajo,True,True,13.2,False
+19,Cauca,19517,Páez,2007,9.4,Riesgo bajo,9.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19517,Páez,2008,29.7,Riesgo medio,29.7,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19517,Páez,2009,27.6,Riesgo medio,17.3,Riesgo medio,81.5,Inviable sanitariamente,Riesgo medio,True,True,64.2,False
+19,Cauca,19517,Páez,2010,31.1,Riesgo medio,22.5,Riesgo medio,91.4,Inviable sanitariamente,Riesgo medio,True,True,68.9,False
+19,Cauca,19517,Páez,2011,31.4,Riesgo medio,29.8,Riesgo medio,66.7,Riesgo alto,Riesgo medio,True,True,36.900000000000006,False
+19,Cauca,19517,Páez,2012,17.1,Riesgo medio,8.8,Riesgo bajo,46.4,Riesgo alto,Riesgo medio,True,True,37.599999999999994,False
+19,Cauca,19517,Páez,2013,5.0,Sin riesgo,4.6,Sin riesgo,19.6,Riesgo medio,Sin riesgo,True,True,15.000000000000002,False
+19,Cauca,19517,Páez,2014,5.7,Riesgo bajo,5.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19517,Páez,2015,1.3,Sin riesgo,1.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19517,Páez,2016,2.3,Sin riesgo,2.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19517,Páez,2017,22.3,Riesgo medio,22.3,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19517,Páez,2018,12.0,Riesgo bajo,12.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19517,Páez,2019,7.4,Riesgo bajo,7.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19517,Páez,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2008,31.0,Riesgo medio,28.5,Riesgo medio,31.6,Riesgo medio,Riesgo medio,True,True,3.1000000000000014,False
+19,Cauca,19622,Rosas,2009,1.4,Sin riesgo,1.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2010,30.2,Riesgo medio,16.9,Riesgo medio,54.0,Riesgo alto,Riesgo medio,True,True,37.1,False
+19,Cauca,19622,Rosas,2011,21.1,Riesgo medio,10.0,Riesgo bajo,84.6,Inviable sanitariamente,Riesgo medio,True,True,74.6,False
+19,Cauca,19622,Rosas,2012,8.9,Riesgo bajo,8.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2013,13.2,Riesgo bajo,13.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2014,8.8,Riesgo bajo,8.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2015,8.8,Riesgo bajo,8.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2016,2.2,Sin riesgo,2.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2017,4.0,Sin riesgo,4.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2018,6.5,Riesgo bajo,6.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2019,9.6,Riesgo bajo,9.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2021,7.7,Riesgo bajo,7.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2022,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2024,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19622,Rosas,2025,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19693,San Sebastián,2007,98.1,Inviable sanitariamente,98.1,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19693,San Sebastián,2008,63.5,Riesgo alto,63.5,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2009,85.4,Inviable sanitariamente,85.4,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19693,San Sebastián,2010,77.0,Riesgo alto,77.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2011,82.4,Inviable sanitariamente,82.4,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19693,San Sebastián,2012,66.4,Riesgo alto,66.4,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2013,77.9,Riesgo alto,77.9,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2014,75.5,Riesgo alto,75.5,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2015,85.4,Inviable sanitariamente,85.4,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19693,San Sebastián,2016,68.1,Riesgo alto,68.1,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2017,38.0,Riesgo alto,38.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2018,74.4,Riesgo alto,74.4,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19693,San Sebastián,2019,82.5,Inviable sanitariamente,82.5,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19693,San Sebastián,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19701,Santa Rosa,2007,19.4,Riesgo medio,19.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19701,Santa Rosa,2008,46.2,Riesgo alto,46.2,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19701,Santa Rosa,2009,48.5,Riesgo alto,48.5,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19701,Santa Rosa,2010,54.3,Riesgo alto,40.3,Riesgo alto,91.3,Inviable sanitariamente,Riesgo alto,True,True,51.0,False
+19,Cauca,19701,Santa Rosa,2011,29.8,Riesgo medio,25.5,Riesgo medio,100.0,Inviable sanitariamente,Riesgo medio,True,True,74.5,False
+19,Cauca,19701,Santa Rosa,2012,11.3,Riesgo bajo,6.4,Riesgo bajo,72.7,Riesgo alto,Riesgo bajo,True,True,66.3,False
+19,Cauca,19701,Santa Rosa,2013,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19701,Santa Rosa,2014,8.1,Riesgo bajo,8.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19701,Santa Rosa,2015,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19701,Santa Rosa,2016,7.8,Riesgo bajo,7.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19701,Santa Rosa,2017,7.4,Riesgo bajo,7.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19701,Santa Rosa,2018,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19701,Santa Rosa,2019,1.3,Sin riesgo,1.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19701,Santa Rosa,2020,12.2,Riesgo bajo,12.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19701,Santa Rosa,2021,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19701,Santa Rosa,2022,3.7,Sin riesgo,3.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19701,Santa Rosa,2023,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19701,Santa Rosa,2024,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19701,Santa Rosa,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19698,Santander de Quilichao,2007,7.3,Riesgo bajo,6.7,Riesgo bajo,9.6,Riesgo bajo,Riesgo bajo,True,True,2.8999999999999995,False
+19,Cauca,19698,Santander de Quilichao,2008,6.0,Riesgo bajo,6.4,Riesgo bajo,4.3,Sin riesgo,Riesgo bajo,True,True,-2.1000000000000005,False
+19,Cauca,19698,Santander de Quilichao,2009,5.5,Riesgo bajo,4.9,Sin riesgo,14.6,Riesgo medio,Riesgo bajo,True,True,9.7,False
+19,Cauca,19698,Santander de Quilichao,2010,7.2,Riesgo bajo,5.7,Riesgo bajo,15.7,Riesgo medio,Riesgo bajo,True,True,10.0,False
+19,Cauca,19698,Santander de Quilichao,2011,1.7,Sin riesgo,1.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.8,False
+19,Cauca,19698,Santander de Quilichao,2012,3.6,Sin riesgo,1.7,Sin riesgo,23.9,Riesgo medio,Sin riesgo,True,True,22.2,False
+19,Cauca,19698,Santander de Quilichao,2013,3.8,Sin riesgo,3.8,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19698,Santander de Quilichao,2014,10.8,Riesgo bajo,1.5,Sin riesgo,44.9,Riesgo alto,Riesgo bajo,True,True,43.4,False
+19,Cauca,19698,Santander de Quilichao,2015,11.7,Riesgo bajo,3.8,Sin riesgo,38.5,Riesgo alto,Riesgo bajo,True,True,34.7,False
+19,Cauca,19698,Santander de Quilichao,2016,1.1,Sin riesgo,1.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19698,Santander de Quilichao,2017,4.7,Sin riesgo,4.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19698,Santander de Quilichao,2018,4.9,Sin riesgo,4.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19698,Santander de Quilichao,2019,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19698,Santander de Quilichao,2020,2.9,Sin riesgo,0.9,Sin riesgo,9.9,Riesgo bajo,Sin riesgo,True,True,9.0,False
+19,Cauca,19698,Santander de Quilichao,2021,6.8,Riesgo bajo,6.3,Riesgo bajo,9.1,Riesgo bajo,Riesgo bajo,True,True,2.8,False
+19,Cauca,19698,Santander de Quilichao,2022,4.2,Sin riesgo,4.3,Sin riesgo,4.0,Sin riesgo,Sin riesgo,True,True,-0.2999999999999998,False
+19,Cauca,19698,Santander de Quilichao,2023,0.8,Sin riesgo,1.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.0,False
+19,Cauca,19698,Santander de Quilichao,2024,1.3,Sin riesgo,2.3,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.3,False
+19,Cauca,19698,Santander de Quilichao,2025,6.2,Riesgo bajo,2.1,Sin riesgo,8.4,Riesgo bajo,Riesgo bajo,True,True,6.300000000000001,False
+19,Cauca,19743,Silvia,2007,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19743,Silvia,2008,4.4,Sin riesgo,4.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2009,5.7,Riesgo bajo,5.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19743,Silvia,2010,41.6,Riesgo alto,30.0,Riesgo medio,91.2,Inviable sanitariamente,Riesgo alto,True,True,61.2,False
+19,Cauca,19743,Silvia,2011,19.5,Riesgo medio,19.5,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19743,Silvia,2012,1.8,Sin riesgo,1.6,Sin riesgo,2.9,Sin riesgo,Sin riesgo,True,True,1.2999999999999998,False
+19,Cauca,19743,Silvia,2013,4.5,Sin riesgo,5.5,Riesgo bajo,0.0,Sin riesgo,Sin riesgo,True,True,-5.5,False
+19,Cauca,19743,Silvia,2014,4.9,Sin riesgo,3.1,Sin riesgo,12.3,Riesgo bajo,Sin riesgo,True,True,9.200000000000001,False
+19,Cauca,19743,Silvia,2015,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+19,Cauca,19743,Silvia,2016,3.2,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2017,2.4,Sin riesgo,3.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2018,3.1,Sin riesgo,3.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2019,2.9,Sin riesgo,2.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2020,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2021,4.0,Sin riesgo,4.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2022,4.3,Sin riesgo,4.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2023,4.7,Sin riesgo,4.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2024,4.7,Sin riesgo,4.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19743,Silvia,2025,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2008,61.7,Riesgo alto,61.7,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2009,72.3,Riesgo alto,72.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2010,80.1,Inviable sanitariamente,80.1,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2011,58.6,Riesgo alto,58.6,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2012,25.3,Riesgo medio,27.6,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2013,15.0,Riesgo medio,15.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2014,12.1,Riesgo bajo,4.5,Sin riesgo,36.1,Riesgo alto,Riesgo bajo,True,True,31.6,False
+19,Cauca,19760,Sotará Paispamba,2015,17.4,Riesgo medio,19.1,Riesgo medio,10.7,Riesgo bajo,Riesgo medio,True,True,-8.400000000000002,False
+19,Cauca,19760,Sotará Paispamba,2016,13.5,Riesgo bajo,12.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2017,17.4,Riesgo medio,15.8,Riesgo medio,33.3,Riesgo medio,Riesgo medio,True,True,17.499999999999996,False
+19,Cauca,19760,Sotará Paispamba,2018,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2019,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2020,3.3,Sin riesgo,3.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2021,3.5,Sin riesgo,3.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2022,1.2,Sin riesgo,1.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2023,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2024,3.1,Sin riesgo,3.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2007,87.9,Inviable sanitariamente,87.9,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19785,Sucre,2008,82.9,Inviable sanitariamente,82.9,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19785,Sucre,2009,83.6,Inviable sanitariamente,83.6,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19785,Sucre,2010,90.8,Inviable sanitariamente,90.8,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19785,Sucre,2011,62.6,Riesgo alto,62.3,Riesgo alto,69.2,Riesgo alto,Riesgo alto,True,True,6.900000000000006,False
+19,Cauca,19785,Sucre,2012,81.3,Inviable sanitariamente,81.3,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19785,Sucre,2013,9.2,Riesgo bajo,4.5,Sin riesgo,100.0,Inviable sanitariamente,Riesgo bajo,True,True,95.5,False
+19,Cauca,19785,Sucre,2014,1.1,Sin riesgo,1.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2015,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2016,3.7,Sin riesgo,3.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2017,10.1,Riesgo bajo,10.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19785,Sucre,2018,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19785,Sucre,2019,2.2,Sin riesgo,2.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2021,6.6,Riesgo bajo,6.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19785,Sucre,2022,2.9,Sin riesgo,2.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2023,8.5,Riesgo bajo,8.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19785,Sucre,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19780,Suárez,2007,78.3,Riesgo alto,78.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19780,Suárez,2008,26.9,Riesgo medio,26.9,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19780,Suárez,2009,18.0,Riesgo medio,18.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19780,Suárez,2010,6.5,Riesgo bajo,6.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2011,26.3,Riesgo medio,26.3,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19780,Suárez,2012,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2013,9.3,Riesgo bajo,9.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2014,9.2,Riesgo bajo,9.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2015,7.4,Riesgo bajo,7.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2016,14.4,Riesgo medio,14.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19780,Suárez,2017,18.3,Riesgo medio,18.3,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19780,Suárez,2018,16.4,Riesgo medio,16.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19780,Suárez,2019,13.6,Riesgo bajo,13.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2020,11.1,Riesgo bajo,11.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2021,14.8,Riesgo medio,14.8,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19780,Suárez,2022,10.8,Riesgo bajo,10.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2023,5.6,Riesgo bajo,5.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19780,Suárez,2024,2.3,Sin riesgo,2.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19780,Suárez,2025,11.5,Riesgo bajo,11.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19809,Timbiquí,2008,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2009,94.7,Inviable sanitariamente,94.7,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2010,67.3,Riesgo alto,67.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19809,Timbiquí,2011,69.2,Riesgo alto,69.2,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19809,Timbiquí,2012,93.5,Inviable sanitariamente,93.5,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2013,92.3,Inviable sanitariamente,92.3,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2014,93.0,Inviable sanitariamente,93.0,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2015,96.1,Inviable sanitariamente,96.1,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2016,96.6,Inviable sanitariamente,96.5,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2017,94.5,Inviable sanitariamente,94.5,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2018,94.6,Inviable sanitariamente,94.6,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19809,Timbiquí,2019,21.5,Riesgo medio,21.5,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19809,Timbiquí,2020,10.8,Riesgo bajo,10.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19809,Timbiquí,2021,12.9,Riesgo bajo,12.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19809,Timbiquí,2024,18.6,Riesgo medio,18.6,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19809,Timbiquí,2025,37.0,Riesgo alto,37.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19807,Timbío,2007,22.7,Riesgo medio,22.7,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19807,Timbío,2008,7.9,Riesgo bajo,7.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19807,Timbío,2009,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2010,28.9,Riesgo medio,28.9,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19807,Timbío,2011,26.4,Riesgo medio,26.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19807,Timbío,2012,7.0,Riesgo bajo,3.3,Sin riesgo,66.7,Riesgo alto,Riesgo bajo,True,True,63.400000000000006,False
+19,Cauca,19807,Timbío,2013,5.2,Riesgo bajo,5.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19807,Timbío,2014,1.3,Sin riesgo,1.3,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.3,False
+19,Cauca,19807,Timbío,2015,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2016,0.7,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2017,1.7,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2018,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2019,1.1,Sin riesgo,1.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2020,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2021,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19807,Timbío,2022,2.9,Sin riesgo,3.9,Sin riesgo,1.7,Sin riesgo,Sin riesgo,True,True,-2.2,False
+19,Cauca,19807,Timbío,2023,0.9,Sin riesgo,0.0,Sin riesgo,1.1,Sin riesgo,Sin riesgo,True,True,1.1,False
+19,Cauca,19807,Timbío,2024,4.3,Sin riesgo,5.6,Riesgo bajo,3.2,Sin riesgo,Sin riesgo,True,True,-2.3999999999999995,False
+19,Cauca,19807,Timbío,2025,2.6,Sin riesgo,1.0,Sin riesgo,3.2,Sin riesgo,Sin riesgo,True,True,2.2,False
+19,Cauca,19821,Toribío,2007,18.6,Riesgo medio,18.6,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19821,Toribío,2008,22.2,Riesgo medio,22.2,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19821,Toribío,2009,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19821,Toribío,2010,15.8,Riesgo medio,6.6,Riesgo bajo,54.7,Riesgo alto,Riesgo medio,True,True,48.1,False
+19,Cauca,19821,Toribío,2011,16.6,Riesgo medio,8.2,Riesgo bajo,64.5,Riesgo alto,Riesgo medio,True,True,56.3,False
+19,Cauca,19821,Toribío,2012,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19821,Toribío,2013,2.3,Sin riesgo,2.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19821,Toribío,2014,5.6,Riesgo bajo,5.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2015,7.7,Riesgo bajo,7.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2016,5.1,Riesgo bajo,5.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2017,9.6,Riesgo bajo,9.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2018,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2019,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19821,Toribío,2020,5.0,Sin riesgo,5.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19821,Toribío,2021,5.8,Riesgo bajo,5.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2022,5.6,Riesgo bajo,5.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2023,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19821,Toribío,2024,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19821,Toribío,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2007,20.2,Riesgo medio,20.2,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19824,Totoró,2008,7.6,Riesgo bajo,7.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19824,Totoró,2009,28.8,Riesgo medio,28.8,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19824,Totoró,2010,17.1,Riesgo medio,17.1,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19824,Totoró,2011,2.2,Sin riesgo,2.2,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2012,16.0,Riesgo medio,6.5,Riesgo bajo,92.1,Inviable sanitariamente,Riesgo medio,True,True,85.6,False
+19,Cauca,19824,Totoró,2013,16.4,Riesgo medio,16.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19824,Totoró,2014,9.4,Riesgo bajo,9.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19824,Totoró,2015,38.2,Riesgo alto,38.2,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19824,Totoró,2016,9.2,Riesgo bajo,9.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19824,Totoró,2017,11.2,Riesgo bajo,11.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19824,Totoró,2018,5.7,Riesgo bajo,5.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19824,Totoró,2019,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2020,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2021,3.5,Sin riesgo,3.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2022,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2023,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2024,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2025,7.8,Riesgo bajo,7.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19845,Villa Rica,2007,43.7,Riesgo alto,43.7,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19845,Villa Rica,2008,80.5,Inviable sanitariamente,80.5,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+19,Cauca,19845,Villa Rica,2009,70.1,Riesgo alto,70.1,Riesgo alto,70.1,Riesgo alto,Riesgo alto,True,True,0.0,False
+19,Cauca,19845,Villa Rica,2010,26.9,Riesgo medio,23.0,Riesgo medio,33.9,Riesgo medio,Riesgo medio,True,True,10.899999999999999,False
+19,Cauca,19845,Villa Rica,2011,19.9,Riesgo medio,16.9,Riesgo medio,34.4,Riesgo medio,Riesgo medio,True,True,17.5,False
+19,Cauca,19845,Villa Rica,2012,2.6,Sin riesgo,2.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19845,Villa Rica,2013,34.2,Riesgo medio,34.2,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19845,Villa Rica,2014,37.3,Riesgo alto,37.3,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19845,Villa Rica,2015,28.1,Riesgo medio,28.1,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19845,Villa Rica,2016,61.7,Riesgo alto,61.7,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19845,Villa Rica,2017,18.8,Riesgo medio,18.8,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19845,Villa Rica,2018,19.4,Riesgo medio,19.4,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19845,Villa Rica,2019,11.2,Riesgo bajo,11.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19845,Villa Rica,2020,12.6,Riesgo bajo,12.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19845,Villa Rica,2021,16.1,Riesgo medio,16.7,Riesgo medio,14.9,Riesgo medio,Riesgo medio,True,True,-1.799999999999999,False
+19,Cauca,19845,Villa Rica,2022,10.6,Riesgo bajo,6.0,Riesgo bajo,18.4,Riesgo medio,Riesgo bajo,True,True,12.399999999999999,False
+19,Cauca,19845,Villa Rica,2023,14.6,Riesgo medio,20.1,Riesgo medio,9.1,Riesgo bajo,Riesgo medio,True,True,-11.000000000000002,False
+19,Cauca,19845,Villa Rica,2024,0.3,Sin riesgo,0.0,Sin riesgo,0.4,Sin riesgo,Sin riesgo,True,True,0.4,False
+19,Cauca,19845,Villa Rica,2025,19.1,Riesgo medio,19.1,Riesgo medio,,,Riesgo medio,True,False,,False

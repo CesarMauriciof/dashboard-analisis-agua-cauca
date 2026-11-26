@@ -1,0 +1,1020 @@
+﻿codigo_departamento,departamento,codigo_municipio,municipio,anio,irca,nivel_riesgo,irca_urbano,nivel_riesgo_urbano,irca_rural,nivel_riesgo_rural,categoria_calculada,coincide_categoria,tiene_dato_rural,brecha_rural_urbano,es_agregado
+91,Amazonas,91001,Leticia,2025,12.4,Riesgo bajo,12.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+91,Amazonas,91540,Puerto Nariño,2025,19.4,Riesgo medio,16.8,Riesgo medio,29.1,Riesgo medio,Riesgo medio,True,True,12.3,False
+05,Antioquia,05002,Abejorral,2025,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05004,Abriaquí,2025,5.0,Sin riesgo,5.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05021,Alejandría,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05030,Amagá,2025,31.3,Riesgo medio,0.6,Sin riesgo,55.9,Riesgo alto,Riesgo medio,True,True,55.3,False
+05,Antioquia,05031,Amalfi,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05034,Andes,2025,2.1,Sin riesgo,0.2,Sin riesgo,9.8,Riesgo bajo,Sin riesgo,True,True,9.600000000000001,False
+05,Antioquia,05036,Angelópolis,2025,19.3,Riesgo medio,0.8,Sin riesgo,58.6,Riesgo alto,Riesgo medio,True,True,57.800000000000004,False
+05,Antioquia,05038,Angostura,2025,11.0,Riesgo bajo,4.4,Sin riesgo,21.6,Riesgo medio,Riesgo bajo,True,True,17.200000000000003,False
+05,Antioquia,05040,Anorí,2025,0.2,Sin riesgo,0.1,Sin riesgo,0.3,Sin riesgo,Sin riesgo,True,True,0.19999999999999998,False
+05,Antioquia,05044,Anzá,2025,22.9,Riesgo medio,0.5,Sin riesgo,96.0,Inviable sanitariamente,Riesgo medio,True,True,95.5,False
+05,Antioquia,05045,Apartadó,2025,4.5,Sin riesgo,0.6,Sin riesgo,29.3,Riesgo medio,Sin riesgo,True,True,28.7,False
+05,Antioquia,05051,Arboletes,2025,0.8,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05055,Argelia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05059,Armenia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05079,Barbosa,2025,10.8,Riesgo bajo,0.1,Sin riesgo,56.0,Riesgo alto,Riesgo bajo,True,True,55.9,False
+05,Antioquia,05088,Bello,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05086,Belmira,2025,4.7,Sin riesgo,2.5,Sin riesgo,24.0,Riesgo medio,Sin riesgo,True,True,21.5,False
+05,Antioquia,05091,Betania,2025,9.0,Riesgo bajo,0.0,Sin riesgo,22.9,Riesgo medio,Riesgo bajo,True,True,22.9,False
+05,Antioquia,05093,Betulia,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+05,Antioquia,05107,Briceño,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05113,Buriticá,2025,2.8,Sin riesgo,2.8,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05125,Caicedo,2025,12.5,Riesgo bajo,12.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+05,Antioquia,05129,Caldas,2025,14.5,Riesgo medio,1.8,Sin riesgo,34.3,Riesgo medio,Riesgo medio,True,True,32.5,False
+05,Antioquia,05134,Campamento,2025,1.5,Sin riesgo,1.5,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05142,Caracolí,2025,0.1,Sin riesgo,0.1,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05145,Caramanta,2025,6.3,Riesgo bajo,1.1,Sin riesgo,97.0,Inviable sanitariamente,Riesgo bajo,True,True,95.9,False
+05,Antioquia,05147,Carepa,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+05,Antioquia,05150,Carolina,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05154,Caucasia,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05138,Cañasgordas,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05172,Chigorodó,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05190,Cisneros,2025,46.5,Riesgo alto,46.5,Riesgo alto,,,Riesgo alto,True,False,,False
+05,Antioquia,05101,Ciudad Bolívar,2025,3.5,Sin riesgo,1.6,Sin riesgo,52.8,Riesgo alto,Sin riesgo,True,True,51.199999999999996,False
+05,Antioquia,05197,Cocorná,2025,16.2,Riesgo medio,3.2,Sin riesgo,28.0,Riesgo medio,Riesgo medio,True,True,24.8,False
+05,Antioquia,05206,Concepción,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05209,Concordia,2025,1.1,Sin riesgo,1.1,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05212,Copacabana,2025,5.6,Riesgo bajo,0.6,Sin riesgo,18.4,Riesgo medio,Riesgo bajo,True,True,17.799999999999997,False
+05,Antioquia,05120,Cáceres,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05234,Dabeiba,2025,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05237,Donmatías,2025,6.2,Riesgo bajo,1.3,Sin riesgo,97.5,Inviable sanitariamente,Riesgo bajo,True,True,96.2,False
+05,Antioquia,05240,Ebéjico,2025,7.8,Riesgo bajo,0.5,Sin riesgo,22.1,Riesgo medio,Riesgo bajo,True,True,21.6,False
+05,Antioquia,05250,El Bagre,2025,3.1,Sin riesgo,2.1,Sin riesgo,96.0,Inviable sanitariamente,Sin riesgo,True,True,93.9,False
+05,Antioquia,05148,El Carmen de Viboral,2025,6.5,Riesgo bajo,0.2,Sin riesgo,12.0,Riesgo bajo,Riesgo bajo,True,True,11.8,False
+05,Antioquia,05697,El Santuario,2025,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05264,Entrerríos,2025,19.2,Riesgo medio,16.4,Riesgo medio,35.3,Riesgo alto,Riesgo medio,True,True,18.9,False
+05,Antioquia,05266,Envigado,2025,3.0,Sin riesgo,0.9,Sin riesgo,5.4,Riesgo bajo,Sin riesgo,True,True,4.5,False
+05,Antioquia,05282,Fredonia,2025,2.3,Sin riesgo,0.7,Sin riesgo,9.1,Riesgo bajo,Sin riesgo,True,True,8.4,False
+05,Antioquia,05284,Frontino,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05306,Giraldo,2025,11.9,Riesgo bajo,4.1,Sin riesgo,94.7,Inviable sanitariamente,Riesgo bajo,True,True,90.60000000000001,False
+05,Antioquia,05308,Girardota,2025,19.2,Riesgo medio,0.0,Sin riesgo,28.3,Riesgo medio,Riesgo medio,True,True,28.3,False
+05,Antioquia,05313,Granada,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05315,Guadalupe,2025,1.8,Sin riesgo,1.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.9,False
+05,Antioquia,05318,Guarne,2025,9.4,Riesgo bajo,0.4,Sin riesgo,10.9,Riesgo bajo,Riesgo bajo,True,True,10.5,False
+05,Antioquia,05321,Guatapé,2025,1.7,Sin riesgo,1.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.8,False
+05,Antioquia,05310,Gómez Plata,2025,11.3,Riesgo bajo,11.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+05,Antioquia,05347,Heliconia,2025,7.5,Riesgo bajo,2.6,Sin riesgo,64.7,Riesgo alto,Riesgo bajo,True,True,62.1,False
+05,Antioquia,05353,Hispania,2025,5.7,Riesgo bajo,1.3,Sin riesgo,21.8,Riesgo medio,Riesgo bajo,True,True,20.5,False
+05,Antioquia,05360,Itagüí,2025,0.8,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05361,Ituango,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05364,Jardín,2025,0.4,Sin riesgo,0.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.6,False
+05,Antioquia,05368,Jericó,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+05,Antioquia,05376,La Ceja,2025,13.0,Riesgo bajo,0.0,Sin riesgo,60.1,Riesgo alto,Riesgo bajo,True,True,60.1,False
+05,Antioquia,05380,La Estrella,2025,4.2,Sin riesgo,4.2,Sin riesgo,4.2,Sin riesgo,Sin riesgo,True,True,0.0,False
+05,Antioquia,05390,La Pintada,2025,1.0,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05400,La Unión,2025,9.7,Riesgo bajo,1.4,Sin riesgo,22.9,Riesgo medio,Riesgo bajo,True,True,21.5,False
+05,Antioquia,05411,Liborina,2025,17.2,Riesgo medio,0.5,Sin riesgo,58.7,Riesgo alto,Riesgo medio,True,True,58.2,False
+05,Antioquia,05425,Maceo,2025,9.2,Riesgo bajo,3.5,Sin riesgo,43.3,Riesgo alto,Riesgo bajo,True,True,39.8,False
+05,Antioquia,05440,Marinilla,2025,1.9,Sin riesgo,0.8,Sin riesgo,3.9,Sin riesgo,Sin riesgo,True,True,3.0999999999999996,False
+05,Antioquia,05001,Medellín,2025,1.7,Sin riesgo,0.8,Sin riesgo,4.8,Sin riesgo,Sin riesgo,True,True,4.0,False
+05,Antioquia,05467,Montebello,2025,11.9,Riesgo bajo,11.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+05,Antioquia,05480,Mutatá,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05483,Nariño,2025,4.2,Sin riesgo,4.2,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05495,Nechí,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05490,Necoclí,2025,2.7,Sin riesgo,3.4,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.4,False
+05,Antioquia,05501,Olaya,2025,0.8,Sin riesgo,0.0,Sin riesgo,1.9,Sin riesgo,Sin riesgo,True,True,1.9,False
+05,Antioquia,05543,Peque,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05541,Peñol,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05576,Pueblorrico,2025,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05579,Puerto Berrío,2025,0.1,Sin riesgo,0.1,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05585,Puerto Nare,2025,8.6,Riesgo bajo,9.9,Riesgo bajo,4.4,Sin riesgo,Riesgo bajo,True,True,-5.5,False
+05,Antioquia,05591,Puerto Triunfo,2025,5.1,Riesgo bajo,0.7,Sin riesgo,12.2,Riesgo bajo,Riesgo bajo,True,True,11.5,False
+05,Antioquia,05604,Remedios,2025,1.6,Sin riesgo,5.4,Riesgo bajo,0.0,Sin riesgo,Sin riesgo,True,True,-5.4,False
+05,Antioquia,05607,Retiro,2025,11.8,Riesgo bajo,0.2,Sin riesgo,19.4,Riesgo medio,Riesgo bajo,True,True,19.2,False
+05,Antioquia,05615,Rionegro,2025,6.7,Riesgo bajo,0.0,Sin riesgo,7.2,Riesgo bajo,Riesgo bajo,True,True,7.2,False
+05,Antioquia,05628,Sabanalarga,2025,1.1,Sin riesgo,1.1,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05631,Sabaneta,2025,1.6,Sin riesgo,0.2,Sin riesgo,4.3,Sin riesgo,Sin riesgo,True,True,4.1,False
+05,Antioquia,05642,Salgar,2025,1.8,Sin riesgo,1.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.9,False
+05,Antioquia,05647,San Andrés de Cuerquía,2025,5.8,Riesgo bajo,5.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+05,Antioquia,05649,San Carlos,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05652,San Francisco,2025,0.1,Sin riesgo,0.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.1,False
+05,Antioquia,05656,San Jerónimo,2025,11.8,Riesgo bajo,1.5,Sin riesgo,57.0,Riesgo alto,Riesgo bajo,True,True,55.5,False
+05,Antioquia,05658,San José de La Montaña,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05659,San Juan de Urabá,2025,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05660,San Luis,2025,4.1,Sin riesgo,2.3,Sin riesgo,64.0,Riesgo alto,Sin riesgo,True,True,61.7,False
+05,Antioquia,05664,San Pedro de Los Milagros,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05665,San Pedro de Urabá,2025,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05667,San Rafael,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05670,San Roque,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05674,San Vicente Ferrer,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+05,Antioquia,05679,Santa Bárbara,2025,10.3,Riesgo bajo,0.2,Sin riesgo,94.7,Inviable sanitariamente,Riesgo bajo,True,True,94.5,False
+05,Antioquia,05042,Santa Fé de Antioquia,2025,4.7,Sin riesgo,0.4,Sin riesgo,19.4,Riesgo medio,Sin riesgo,True,True,19.0,False
+05,Antioquia,05686,Santa Rosa de Osos,2025,1.2,Sin riesgo,0.0,Sin riesgo,5.0,Sin riesgo,Sin riesgo,True,True,5.0,False
+05,Antioquia,05690,Santo Domingo,2025,2.3,Sin riesgo,2.3,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05736,Segovia,2025,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05756,Sonsón,2025,1.5,Sin riesgo,0.0,Sin riesgo,20.0,Riesgo medio,Sin riesgo,True,True,20.0,False
+05,Antioquia,05761,Sopetrán,2025,1.5,Sin riesgo,2.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.1,False
+05,Antioquia,05790,Tarazá,2025,0.2,Sin riesgo,0.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.2,False
+05,Antioquia,05792,Tarso,2025,1.5,Sin riesgo,2.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.0,False
+05,Antioquia,05809,Titiribí,2025,49.4,Riesgo alto,0.5,Sin riesgo,87.5,Inviable sanitariamente,Riesgo alto,True,True,87.0,False
+05,Antioquia,05819,Toledo,2025,7.5,Riesgo bajo,7.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+05,Antioquia,05837,Turbo,2025,0.3,Sin riesgo,0.3,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.3,False
+05,Antioquia,05789,Támesis,2025,24.1,Riesgo medio,3.8,Sin riesgo,64.6,Riesgo alto,Riesgo medio,True,True,60.8,False
+05,Antioquia,05842,Uramita,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05847,Urrao,2025,97.0,Inviable sanitariamente,,,97.0,Inviable sanitariamente,Inviable sanitariamente,True,True,,False
+05,Antioquia,05854,Valdivia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05856,Valparaíso,2025,0.7,Sin riesgo,0.7,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05858,Vegachí,2025,1.9,Sin riesgo,0.0,Sin riesgo,35.5,Riesgo alto,Sin riesgo,True,True,35.5,False
+05,Antioquia,05861,Venecia,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+05,Antioquia,05885,Yalí,2025,3.7,Sin riesgo,3.7,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05887,Yarumal,2025,4.4,Sin riesgo,0.2,Sin riesgo,30.6,Riesgo medio,Sin riesgo,True,True,30.400000000000002,False
+05,Antioquia,05890,Yolombó,2025,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05893,Yondó,2025,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+05,Antioquia,05895,Zaragoza,2025,63.7,Riesgo alto,63.7,Riesgo alto,,,Riesgo alto,True,False,,False
+81,Arauca,81001,Arauca,2025,2.5,Sin riesgo,2.1,Sin riesgo,24.0,Riesgo medio,Sin riesgo,True,True,21.9,False
+81,Arauca,81065,Arauquita,2025,13.7,Riesgo bajo,0.7,Sin riesgo,28.7,Riesgo medio,Riesgo bajo,True,True,28.0,False
+81,Arauca,81220,Cravo Norte,2025,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+81,Arauca,81300,Fortul,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+81,Arauca,81591,Puerto Rondón,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+81,Arauca,81736,Saravena,2025,17.4,Riesgo medio,0.0,Sin riesgo,50.0,Riesgo alto,Riesgo medio,True,True,50.0,False
+81,Arauca,81794,Tame,2025,1.9,Sin riesgo,1.9,Sin riesgo,,,Sin riesgo,True,False,,False
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",88564,Providencia,2025,4.8,Sin riesgo,,,4.8,Sin riesgo,Sin riesgo,True,True,,False
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",88001,San Andrés,2025,1.8,Sin riesgo,0.5,Sin riesgo,5.6,Riesgo bajo,Sin riesgo,True,True,5.1,False
+08,Atlántico,08078,Baranoa,2025,10.8,Riesgo bajo,0.0,Sin riesgo,38.3,Riesgo alto,Riesgo bajo,True,True,38.3,False
+08,Atlántico,08001,Barranquilla,2025,0.1,Sin riesgo,0.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.1,False
+08,Atlántico,08137,Campo de La Cruz,2025,1.6,Sin riesgo,1.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.8,False
+08,Atlántico,08141,Candelaria,2025,1.4,Sin riesgo,0.0,Sin riesgo,3.8,Sin riesgo,Sin riesgo,True,True,3.8,False
+08,Atlántico,08296,Galapa,2025,2.0,Sin riesgo,2.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.1,False
+08,Atlántico,08372,Juan de Acosta,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+08,Atlántico,08421,Luruaco,2025,2.7,Sin riesgo,2.2,Sin riesgo,3.2,Sin riesgo,Sin riesgo,True,True,1.0,False
+08,Atlántico,08433,Malambo,2025,6.2,Riesgo bajo,1.1,Sin riesgo,31.2,Riesgo medio,Riesgo bajo,True,True,30.099999999999998,False
+08,Atlántico,08436,Manatí,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+08,Atlántico,08520,Palmar de Varela,2025,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+08,Atlántico,08549,Piojó,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+08,Atlántico,08558,Polonuevo,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+08,Atlántico,08560,Ponedera,2025,5.7,Riesgo bajo,0.0,Sin riesgo,14.9,Riesgo medio,Riesgo bajo,True,True,14.9,False
+08,Atlántico,08573,Puerto Colombia,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+08,Atlántico,08606,Repelón,2025,3.6,Sin riesgo,0.0,Sin riesgo,8.0,Riesgo bajo,Sin riesgo,True,True,8.0,False
+08,Atlántico,08634,Sabanagrande,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+08,Atlántico,08638,Sabanalarga,2025,4.7,Sin riesgo,0.0,Sin riesgo,9.4,Riesgo bajo,Sin riesgo,True,True,9.4,False
+08,Atlántico,08675,Santa Lucía,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+08,Atlántico,08685,Santo Tomás,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+08,Atlántico,08758,Soledad,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+08,Atlántico,08770,Suan,2025,7.4,Riesgo bajo,7.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+08,Atlántico,08832,Tubará,2025,8.3,Riesgo bajo,0.0,Sin riesgo,15.8,Riesgo medio,Riesgo bajo,True,True,15.8,False
+08,Atlántico,08849,Usiacurí,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+11,"Bogotá, D.C.",11001,"Bogotá, D.C.",2025,3.9,Sin riesgo,0.8,Sin riesgo,18.5,Riesgo medio,Sin riesgo,True,True,17.7,False
+13,Bolívar,13006,Achí,2025,16.8,Riesgo medio,16.8,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13030,Altos del Rosario,2025,44.8,Riesgo alto,43.3,Riesgo alto,55.2,Riesgo alto,Riesgo alto,True,True,11.900000000000006,False
+13,Bolívar,13042,Arenal,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13052,Arjona,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13062,Arroyohondo,2025,18.5,Riesgo medio,15.8,Riesgo medio,20.6,Riesgo medio,Riesgo medio,True,True,4.800000000000001,False
+13,Bolívar,13074,Barranco de Loba,2025,17.8,Riesgo medio,17.8,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13140,Calamar,2025,1.9,Sin riesgo,1.9,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13160,Cantagallo,2025,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13001,Cartagena de Indias,2025,1.0,Sin riesgo,0.6,Sin riesgo,1.8,Sin riesgo,Sin riesgo,True,True,1.2000000000000002,False
+13,Bolívar,13188,Cicuco,2025,1.9,Sin riesgo,1.9,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13222,Clemencia,2025,20.1,Riesgo medio,20.1,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13212,Córdoba,2025,11.3,Riesgo bajo,11.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13244,El Carmen de Bolívar,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13248,El Guamo,2025,32.0,Riesgo medio,30.7,Riesgo medio,33.9,Riesgo medio,Riesgo medio,True,True,3.1999999999999993,False
+13,Bolívar,13268,El Peñón,2025,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13300,Hatillo de Loba,2025,78.8,Riesgo alto,81.3,Inviable sanitariamente,75.2,Riesgo alto,Riesgo alto,True,True,-6.099999999999994,False
+13,Bolívar,13430,Magangué,2025,10.1,Riesgo bajo,0.0,Sin riesgo,32.7,Riesgo medio,Riesgo bajo,True,True,32.7,False
+13,Bolívar,13433,Mahates,2025,8.1,Riesgo bajo,10.9,Riesgo bajo,4.3,Sin riesgo,Riesgo bajo,True,True,-6.6000000000000005,False
+13,Bolívar,13440,Margarita,2025,85.2,Inviable sanitariamente,85.2,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+13,Bolívar,13442,María La Baja,2025,8.2,Riesgo bajo,6.9,Riesgo bajo,9.4,Riesgo bajo,Riesgo bajo,True,True,2.5,False
+13,Bolívar,13458,Montecristo,2025,6.6,Riesgo bajo,6.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13473,Morales,2025,12.5,Riesgo bajo,12.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13490,Norosí,2025,14.7,Riesgo medio,14.7,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13549,Pinillos,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13580,Regidor,2025,11.4,Riesgo bajo,11.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13600,Río Viejo,2025,14.6,Riesgo medio,14.6,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13620,San Cristóbal,2025,9.5,Riesgo bajo,9.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13647,San Estanislao,2025,7.6,Riesgo bajo,8.3,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-8.3,False
+13,Bolívar,13650,San Fernando,2025,28.0,Riesgo medio,26.1,Riesgo medio,100.0,Inviable sanitariamente,Riesgo medio,True,True,73.9,False
+13,Bolívar,13655,San Jacinto del Cauca,2025,33.4,Riesgo medio,33.4,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13657,San Juan Nepomuceno,2025,16.7,Riesgo medio,,,16.7,Riesgo medio,Riesgo medio,True,True,,False
+13,Bolívar,13667,San Martín de Loba,2025,25.6,Riesgo medio,25.6,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13670,San Pablo,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13673,Santa Catalina,2025,26.5,Riesgo medio,26.5,Riesgo medio,,,Riesgo medio,True,False,,False
+13,Bolívar,13468,Santa Cruz de Mompox,2025,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13683,Santa Rosa,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13688,Santa Rosa del Sur,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13744,Simití,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13760,Soplaviento,2025,10.2,Riesgo bajo,10.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13780,Talaigua Nuevo,2025,7.7,Riesgo bajo,7.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+13,Bolívar,13810,Tiquisio,2025,53.1,Riesgo alto,53.1,Riesgo alto,,,Riesgo alto,True,False,,False
+13,Bolívar,13836,Turbaco,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+13,Bolívar,13838,Turbana,2025,17.8,Riesgo medio,14.7,Riesgo medio,19.5,Riesgo medio,Riesgo medio,True,True,4.800000000000001,False
+13,Bolívar,13873,Villanueva,2025,18.1,Riesgo medio,25.0,Riesgo medio,11.3,Riesgo bajo,Riesgo medio,True,True,-13.7,False
+13,Bolívar,13894,Zambrano,2025,11.1,Riesgo bajo,12.5,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-12.5,False
+15,Boyacá,15022,Almeida,2025,39.5,Riesgo alto,10.7,Riesgo bajo,73.0,Riesgo alto,Riesgo alto,True,True,62.3,False
+15,Boyacá,15047,Aquitania,2025,1.4,Sin riesgo,1.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.9,False
+15,Boyacá,15051,Arcabuco,2025,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15087,Belén,2025,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15090,Berbeo,2025,33.8,Riesgo medio,16.3,Riesgo medio,80.7,Inviable sanitariamente,Riesgo medio,True,True,64.4,False
+15,Boyacá,15092,Betéitiva,2025,26.2,Riesgo medio,17.6,Riesgo medio,69.0,Riesgo alto,Riesgo medio,True,True,51.4,False
+15,Boyacá,15097,Boavita,2025,1.5,Sin riesgo,1.5,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15104,Boyacá,2025,9.1,Riesgo bajo,9.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15106,Briceño,2025,35.8,Riesgo alto,18.0,Riesgo medio,75.8,Riesgo alto,Riesgo alto,True,True,57.8,False
+15,Boyacá,15109,Buenavista,2025,0.1,Sin riesgo,0.1,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15114,Busbanzá,2025,15.3,Riesgo medio,15.3,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15131,Caldas,2025,44.3,Riesgo alto,26.7,Riesgo medio,97.0,Inviable sanitariamente,Riesgo alto,True,True,70.3,False
+15,Boyacá,15135,Campohermoso,2025,15.2,Riesgo medio,17.3,Riesgo medio,11.0,Riesgo bajo,Riesgo medio,True,True,-6.300000000000001,False
+15,Boyacá,15162,Cerinza,2025,2.5,Sin riesgo,2.5,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15172,Chinavita,2025,8.7,Riesgo bajo,8.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15176,Chiquinquirá,2025,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15180,Chiscas,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15183,Chita,2025,5.3,Riesgo bajo,2.3,Sin riesgo,9.2,Riesgo bajo,Riesgo bajo,True,True,6.8999999999999995,False
+15,Boyacá,15185,Chitaraque,2025,9.9,Riesgo bajo,0.9,Sin riesgo,31.0,Riesgo medio,Riesgo bajo,True,True,30.1,False
+15,Boyacá,15187,Chivatá,2025,6.9,Riesgo bajo,6.8,Riesgo bajo,7.0,Riesgo bajo,Riesgo bajo,True,True,0.20000000000000018,False
+15,Boyacá,15236,Chivor,2025,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15232,Chíquiza,2025,3.8,Sin riesgo,,,3.8,Sin riesgo,Sin riesgo,True,True,,False
+15,Boyacá,15189,Ciénega,2025,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15212,Coper,2025,16.9,Riesgo medio,5.4,Riesgo bajo,57.0,Riesgo alto,Riesgo medio,True,True,51.6,False
+15,Boyacá,15215,Corrales,2025,29.4,Riesgo medio,19.1,Riesgo medio,50.2,Riesgo alto,Riesgo medio,True,True,31.1,False
+15,Boyacá,15218,Covarachía,2025,9.4,Riesgo bajo,9.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15223,Cubará,2025,27.6,Riesgo medio,0.0,Sin riesgo,57.7,Riesgo alto,Riesgo medio,True,True,57.7,False
+15,Boyacá,15224,Cucaita,2025,13.9,Riesgo bajo,5.2,Riesgo bajo,49.0,Riesgo alto,Riesgo bajo,True,True,43.8,False
+15,Boyacá,15226,Cuítiva,2025,2.1,Sin riesgo,3.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.6,False
+15,Boyacá,15204,Cómbita,2025,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15238,Duitama,2025,0.7,Sin riesgo,0.7,Sin riesgo,1.0,Sin riesgo,Sin riesgo,True,True,0.30000000000000004,False
+15,Boyacá,15244,El Cocuy,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15248,El Espino,2025,2.0,Sin riesgo,2.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15272,Firavitoba,2025,4.6,Sin riesgo,4.6,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15276,Floresta,2025,10.0,Riesgo bajo,6.0,Riesgo bajo,24.0,Riesgo medio,Riesgo bajo,True,True,18.0,False
+15,Boyacá,15293,Gachantivá,2025,4.3,Sin riesgo,4.3,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15299,Garagoa,2025,1.5,Sin riesgo,1.7,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.7,False
+15,Boyacá,15317,Guacamayas,2025,3.3,Sin riesgo,3.3,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15322,Guateque,2025,9.6,Riesgo bajo,9.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15325,Guayatá,2025,19.3,Riesgo medio,18.4,Riesgo medio,23.0,Riesgo medio,Riesgo medio,True,True,4.600000000000001,False
+15,Boyacá,15296,Gámeza,2025,19.8,Riesgo medio,19.8,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15332,Güicán de La Sierra,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15362,Iza,2025,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15367,Jenesano,2025,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15368,Jericó,2025,7.7,Riesgo bajo,0.0,Sin riesgo,69.0,Riesgo alto,Riesgo bajo,True,True,69.0,False
+15,Boyacá,15380,La Capilla,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15403,La Uvita,2025,41.3,Riesgo alto,41.3,Riesgo alto,,,Riesgo alto,True,False,,False
+15,Boyacá,15401,La Victoria,2025,7.7,Riesgo bajo,7.3,Riesgo bajo,8.5,Riesgo bajo,Riesgo bajo,True,True,1.2000000000000002,False
+15,Boyacá,15377,Labranzagrande,2025,32.8,Riesgo medio,0.0,Sin riesgo,69.6,Riesgo alto,Riesgo medio,True,True,69.6,False
+15,Boyacá,15425,Macanal,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15442,Maripí,2025,0.6,Sin riesgo,1.0,Sin riesgo,0.2,Sin riesgo,Sin riesgo,True,True,-0.8,False
+15,Boyacá,15455,Miraflores,2025,6.4,Riesgo bajo,6.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15464,Mongua,2025,19.6,Riesgo medio,19.6,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15466,Monguí,2025,27.2,Riesgo medio,27.2,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15469,Moniquirá,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15476,Motavita,2025,14.9,Riesgo medio,16.2,Riesgo medio,12.3,Riesgo bajo,Riesgo medio,True,True,-3.8999999999999986,False
+15,Boyacá,15480,Muzo,2025,29.5,Riesgo medio,18.1,Riesgo medio,49.0,Riesgo alto,Riesgo medio,True,True,30.9,False
+15,Boyacá,15491,Nobsa,2025,0.1,Sin riesgo,0.0,Sin riesgo,0.2,Sin riesgo,Sin riesgo,True,True,0.2,False
+15,Boyacá,15494,Nuevo Colón,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15500,Oicatá,2025,4.5,Sin riesgo,0.0,Sin riesgo,9.8,Riesgo bajo,Sin riesgo,True,True,9.8,False
+15,Boyacá,15507,Otanche,2025,15.0,Riesgo medio,15.0,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15511,Pachavita,2025,30.6,Riesgo medio,12.3,Riesgo bajo,94.5,Inviable sanitariamente,Riesgo medio,True,True,82.2,False
+15,Boyacá,15516,Paipa,2025,1.4,Sin riesgo,0.3,Sin riesgo,7.8,Riesgo bajo,Sin riesgo,True,True,7.5,False
+15,Boyacá,15518,Pajarito,2025,0.4,Sin riesgo,0.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.8,False
+15,Boyacá,15522,Panqueba,2025,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15531,Pauna,2025,37.8,Riesgo alto,9.5,Riesgo bajo,83.6,Inviable sanitariamente,Riesgo alto,True,True,74.1,False
+15,Boyacá,15533,Paya,2025,4.7,Sin riesgo,5.3,Riesgo bajo,4.1,Sin riesgo,Sin riesgo,True,True,-1.2000000000000002,False
+15,Boyacá,15537,Paz de Río,2025,9.6,Riesgo bajo,9.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15542,Pesca,2025,25.9,Riesgo medio,25.9,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15550,Pisba,2025,13.3,Riesgo bajo,8.3,Riesgo bajo,17.6,Riesgo medio,Riesgo bajo,True,True,9.3,False
+15,Boyacá,15572,Puerto Boyacá,2025,4.3,Sin riesgo,4.3,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15514,Páez,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15580,Quípama,2025,12.9,Riesgo bajo,18.4,Riesgo medio,0.0,Sin riesgo,Riesgo bajo,True,True,-18.4,False
+15,Boyacá,15599,Ramiriquí,2025,0.5,Sin riesgo,0.4,Sin riesgo,1.0,Sin riesgo,Sin riesgo,True,True,0.6,False
+15,Boyacá,15621,Rondón,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+15,Boyacá,15600,Ráquira,2025,15.4,Riesgo medio,16.4,Riesgo medio,14.7,Riesgo medio,Riesgo medio,True,True,-1.6999999999999993,False
+15,Boyacá,15632,Saboyá,2025,17.8,Riesgo medio,17.8,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15646,Samacá,2025,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15660,San Eduardo,2025,40.4,Riesgo alto,0.1,Sin riesgo,80.6,Inviable sanitariamente,Riesgo alto,True,True,80.5,False
+15,Boyacá,15664,San José de Pare,2025,13.1,Riesgo bajo,13.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15667,San Luis de Gaceno,2025,7.5,Riesgo bajo,7.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15673,San Mateo,2025,26.1,Riesgo medio,26.1,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15676,San Miguel de Sema,2025,9.0,Riesgo bajo,12.4,Riesgo bajo,2.3,Sin riesgo,Riesgo bajo,True,True,-10.100000000000001,False
+15,Boyacá,15681,San Pablo de Borbur,2025,13.9,Riesgo bajo,4.6,Sin riesgo,28.8,Riesgo medio,Riesgo bajo,True,True,24.200000000000003,False
+15,Boyacá,15690,Santa María,2025,1.1,Sin riesgo,0.0,Sin riesgo,3.6,Sin riesgo,Sin riesgo,True,True,3.6,False
+15,Boyacá,15693,Santa Rosa de Viterbo,2025,1.5,Sin riesgo,0.1,Sin riesgo,4.0,Sin riesgo,Sin riesgo,True,True,3.9,False
+15,Boyacá,15696,Santa Sofía,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15686,Santana,2025,2.2,Sin riesgo,2.2,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15720,Sativanorte,2025,1.0,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15723,Sativasur,2025,10.6,Riesgo bajo,18.6,Riesgo medio,2.7,Sin riesgo,Riesgo bajo,True,True,-15.900000000000002,False
+15,Boyacá,15740,Siachoque,2025,29.3,Riesgo medio,7.7,Riesgo bajo,67.0,Riesgo alto,Riesgo medio,True,True,59.3,False
+15,Boyacá,15753,Soatá,2025,3.8,Sin riesgo,3.8,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15757,Socha,2025,16.1,Riesgo medio,16.1,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15755,Socotá,2025,0.3,Sin riesgo,0.3,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15759,Sogamoso,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+15,Boyacá,15761,Somondoco,2025,6.9,Riesgo bajo,6.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15762,Sora,2025,13.8,Riesgo bajo,2.0,Sin riesgo,25.6,Riesgo medio,Riesgo bajo,True,True,23.6,False
+15,Boyacá,15764,Soracá,2025,16.3,Riesgo medio,3.5,Sin riesgo,54.5,Riesgo alto,Riesgo medio,True,True,51.0,False
+15,Boyacá,15763,Sotaquirá,2025,2.0,Sin riesgo,2.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15774,Susacón,2025,20.9,Riesgo medio,20.9,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15776,Sutamarchán,2025,17.1,Riesgo medio,0.3,Sin riesgo,76.0,Riesgo alto,Riesgo medio,True,True,75.7,False
+15,Boyacá,15778,Sutatenza,2025,10.1,Riesgo bajo,5.0,Sin riesgo,25.3,Riesgo medio,Riesgo bajo,True,True,20.3,False
+15,Boyacá,15638,Sáchica,2025,9.8,Riesgo bajo,9.2,Riesgo bajo,14.0,Riesgo bajo,Riesgo bajo,True,True,4.800000000000001,False
+15,Boyacá,15790,Tasco,2025,20.1,Riesgo medio,20.1,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15798,Tenza,2025,15.7,Riesgo medio,15.7,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15806,Tibasosa,2025,6.2,Riesgo bajo,6.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15810,Tipacoque,2025,20.6,Riesgo medio,7.4,Riesgo bajo,51.3,Riesgo alto,Riesgo medio,True,True,43.9,False
+15,Boyacá,15814,Toca,2025,14.1,Riesgo medio,14.1,Riesgo medio,,,Riesgo medio,True,False,,False
+15,Boyacá,15816,Togüí,2025,12.2,Riesgo bajo,12.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15822,Tota,2025,14.0,Riesgo bajo,4.8,Sin riesgo,38.7,Riesgo alto,Riesgo bajo,True,True,33.900000000000006,False
+15,Boyacá,15001,Tunja,2025,1.2,Sin riesgo,0.1,Sin riesgo,5.1,Riesgo bajo,Sin riesgo,True,True,5.0,False
+15,Boyacá,15832,Tununguá,2025,11.0,Riesgo bajo,11.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+15,Boyacá,15837,Tuta,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15839,Tutazá,2025,15.6,Riesgo medio,7.1,Riesgo bajo,25.1,Riesgo medio,Riesgo medio,True,True,18.0,False
+15,Boyacá,15820,Tópaga,2025,20.3,Riesgo medio,6.5,Riesgo bajo,61.5,Riesgo alto,Riesgo medio,True,True,55.0,False
+15,Boyacá,15861,Ventaquemada,2025,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+15,Boyacá,15407,Villa de Leyva,2025,2.2,Sin riesgo,1.1,Sin riesgo,4.5,Sin riesgo,Sin riesgo,True,True,3.4,False
+15,Boyacá,15879,Viracachá,2025,48.6,Riesgo alto,36.7,Riesgo alto,69.5,Riesgo alto,Riesgo alto,True,True,32.8,False
+15,Boyacá,15897,Zetaquira,2025,22.9,Riesgo medio,22.9,Riesgo medio,,,Riesgo medio,True,False,,False
+17,Caldas,17013,Aguadas,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17042,Anserma,2025,2.2,Sin riesgo,1.7,Sin riesgo,17.0,Riesgo medio,Sin riesgo,True,True,15.3,False
+17,Caldas,17050,Aranzazu,2025,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17088,Belalcázar,2025,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17174,Chinchiná,2025,1.3,Sin riesgo,0.3,Sin riesgo,31.5,Riesgo medio,Sin riesgo,True,True,31.2,False
+17,Caldas,17272,Filadelfia,2025,0.7,Sin riesgo,0.7,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.7,False
+17,Caldas,17380,La Dorada,2025,4.1,Sin riesgo,3.6,Sin riesgo,8.6,Riesgo bajo,Sin riesgo,True,True,5.0,False
+17,Caldas,17388,La Merced,2025,18.9,Riesgo medio,13.6,Riesgo bajo,87.0,Inviable sanitariamente,Riesgo medio,True,True,73.4,False
+17,Caldas,17001,Manizales,2025,2.2,Sin riesgo,0.0,Sin riesgo,29.0,Riesgo medio,Sin riesgo,True,True,29.0,False
+17,Caldas,17433,Manzanares,2025,2.6,Sin riesgo,0.0,Sin riesgo,68.0,Riesgo alto,Sin riesgo,True,True,68.0,False
+17,Caldas,17442,Marmato,2025,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17444,Marquetalia,2025,0.7,Sin riesgo,0.7,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17446,Marulanda,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17486,Neira,2025,1.4,Sin riesgo,0.0,Sin riesgo,4.4,Sin riesgo,Sin riesgo,True,True,4.4,False
+17,Caldas,17495,Norcasia,2025,3.9,Sin riesgo,3.9,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17524,Palestina,2025,6.4,Riesgo bajo,0.8,Sin riesgo,18.2,Riesgo medio,Riesgo bajo,True,True,17.4,False
+17,Caldas,17541,Pensilvania,2025,2.6,Sin riesgo,1.5,Sin riesgo,34.0,Riesgo medio,Sin riesgo,True,True,32.5,False
+17,Caldas,17513,Pácora,2025,9.3,Riesgo bajo,4.7,Sin riesgo,68.0,Riesgo alto,Riesgo bajo,True,True,63.3,False
+17,Caldas,17614,Riosucio,2025,1.1,Sin riesgo,0.0,Sin riesgo,34.0,Riesgo medio,Sin riesgo,True,True,34.0,False
+17,Caldas,17616,Risaralda,2025,7.4,Riesgo bajo,2.5,Sin riesgo,68.0,Riesgo alto,Riesgo bajo,True,True,65.5,False
+17,Caldas,17653,Salamina,2025,1.1,Sin riesgo,0.0,Sin riesgo,34.0,Riesgo medio,Sin riesgo,True,True,34.0,False
+17,Caldas,17662,Samaná,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+17,Caldas,17665,San José,2025,17.8,Riesgo medio,1.3,Sin riesgo,89.3,Inviable sanitariamente,Riesgo medio,True,True,88.0,False
+17,Caldas,17777,Supía,2025,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+17,Caldas,17867,Victoria,2025,3.9,Sin riesgo,0.0,Sin riesgo,7.3,Riesgo bajo,Sin riesgo,True,True,7.3,False
+17,Caldas,17873,Villamaría,2025,4.7,Sin riesgo,1.0,Sin riesgo,19.5,Riesgo medio,Sin riesgo,True,True,18.5,False
+17,Caldas,17877,Viterbo,2025,8.6,Riesgo bajo,2.5,Sin riesgo,85.0,Inviable sanitariamente,Riesgo bajo,True,True,82.5,False
+18,Caquetá,18029,Albania,2025,12.1,Riesgo bajo,12.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+18,Caquetá,18094,Belén de Los Andaquíes,2025,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18150,Cartagena del Chairá,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18205,Curillo,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+18,Caquetá,18247,El Doncello,2025,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18256,El Paujíl,2025,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18001,Florencia,2025,0.1,Sin riesgo,0.1,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18410,La Montañita,2025,4.9,Sin riesgo,4.9,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18460,Milán,2025,6.2,Riesgo bajo,6.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+18,Caquetá,18479,Morelia,2025,67.7,Riesgo alto,67.7,Riesgo alto,,,Riesgo alto,True,False,,False
+18,Caquetá,18592,Puerto Rico,2025,4.7,Sin riesgo,4.7,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18610,San José del Fragua,2025,2.9,Sin riesgo,2.9,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18753,San Vicente del Caguán,2025,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18756,Solano,2025,4.6,Sin riesgo,4.6,Sin riesgo,,,Sin riesgo,True,False,,False
+18,Caquetá,18785,Solita,2025,22.0,Riesgo medio,22.0,Riesgo medio,,,Riesgo medio,True,False,,False
+18,Caquetá,18860,Valparaíso,2025,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+85,Casanare,85015,Chámeza,2025,16.7,Riesgo medio,16.7,Riesgo medio,,,Riesgo medio,True,False,,False
+85,Casanare,85125,Hato Corozal,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85136,La Salina,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85139,Maní,2025,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85162,Monterrey,2025,3.5,Sin riesgo,3.5,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85225,Nunchía,2025,4.4,Sin riesgo,4.4,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85230,Orocué,2025,5.5,Riesgo bajo,5.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+85,Casanare,85250,Paz de Ariporo,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85263,Pore,2025,0.7,Sin riesgo,0.7,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85300,Sabanalarga,2025,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85325,San Luis de Palenque,2025,8.0,Riesgo bajo,8.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+85,Casanare,85315,Sácama,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85410,Tauramena,2025,3.6,Sin riesgo,3.6,Sin riesgo,1.0,Sin riesgo,Sin riesgo,True,True,-2.6,False
+85,Casanare,85430,Trinidad,2025,4.0,Sin riesgo,4.0,Sin riesgo,,,Sin riesgo,True,False,,False
+85,Casanare,85400,Támara,2025,7.6,Riesgo bajo,7.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+85,Casanare,85440,Villanueva,2025,3.1,Sin riesgo,3.1,Sin riesgo,2.0,Sin riesgo,Sin riesgo,True,True,-1.1,False
+85,Casanare,85001,Yopal,2025,0.7,Sin riesgo,0.3,Sin riesgo,2.1,Sin riesgo,Sin riesgo,True,True,1.8,False
+19,Cauca,19022,Almaguer,2025,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19050,Argelia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19100,Bolívar,2025,1.6,Sin riesgo,0.0,Sin riesgo,19.0,Riesgo medio,Sin riesgo,True,True,19.0,False
+19,Cauca,19110,Buenos Aires,2025,7.6,Riesgo bajo,7.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19130,Cajibío,2025,11.1,Riesgo bajo,18.8,Riesgo medio,5.1,Riesgo bajo,Riesgo bajo,True,True,-13.700000000000001,False
+19,Cauca,19137,Caldono,2025,36.6,Riesgo alto,18.8,Riesgo medio,67.8,Riesgo alto,Riesgo alto,True,True,49.0,False
+19,Cauca,19142,Caloto,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19212,Corinto,2025,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19256,El Tambo,2025,3.0,Sin riesgo,3.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.8,False
+19,Cauca,19300,Guachené,2025,9.5,Riesgo bajo,9.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19318,Guapi,2025,32.0,Riesgo medio,32.0,Riesgo medio,,,Riesgo medio,True,False,,False
+19,Cauca,19355,Inzá,2025,8.4,Riesgo bajo,8.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19364,Jambaló,2025,12.5,Riesgo bajo,12.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19392,La Sierra,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19397,La Vega,2025,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19450,Mercaderes,2025,12.4,Riesgo bajo,12.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19455,Miranda,2025,1.3,Sin riesgo,1.3,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19473,Morales,2025,1.5,Sin riesgo,1.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19513,Padilla,2025,12.6,Riesgo bajo,12.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19532,Patía,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19533,Piamonte,2025,11.4,Riesgo bajo,11.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19548,Piendamó - Tunía,2025,1.5,Sin riesgo,1.5,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19573,Puerto Tejada,2025,8.6,Riesgo bajo,10.5,Riesgo bajo,5.4,Riesgo bajo,Riesgo bajo,True,True,-5.1,False
+19,Cauca,19585,Puracé,2025,6.0,Riesgo bajo,0.0,Sin riesgo,13.2,Riesgo bajo,Riesgo bajo,True,True,13.2,False
+19,Cauca,19517,Páez,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19622,Rosas,2025,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19693,San Sebastián,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19701,Santa Rosa,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19698,Santander de Quilichao,2025,6.2,Riesgo bajo,2.1,Sin riesgo,8.4,Riesgo bajo,Riesgo bajo,True,True,6.300000000000001,False
+19,Cauca,19743,Silvia,2025,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19760,Sotará Paispamba,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19785,Sucre,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19780,Suárez,2025,11.5,Riesgo bajo,11.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19809,Timbiquí,2025,37.0,Riesgo alto,37.0,Riesgo alto,,,Riesgo alto,True,False,,False
+19,Cauca,19807,Timbío,2025,2.6,Sin riesgo,1.0,Sin riesgo,3.2,Sin riesgo,Sin riesgo,True,True,2.2,False
+19,Cauca,19821,Toribío,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+19,Cauca,19824,Totoró,2025,7.8,Riesgo bajo,7.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+19,Cauca,19845,Villa Rica,2025,19.1,Riesgo medio,19.1,Riesgo medio,,,Riesgo medio,True,False,,False
+20,Cesar,20011,Aguachica,2025,9.6,Riesgo bajo,9.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20013,Agustín Codazzi,2025,1.0,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+20,Cesar,20032,Astrea,2025,50.5,Riesgo alto,50.5,Riesgo alto,,,Riesgo alto,True,False,,False
+20,Cesar,20045,Becerril,2025,11.9,Riesgo bajo,14.4,Riesgo medio,3.1,Sin riesgo,Riesgo bajo,True,True,-11.3,False
+20,Cesar,20060,Bosconia,2025,82.6,Inviable sanitariamente,82.6,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+20,Cesar,20175,Chimichagua,2025,26.7,Riesgo medio,26.7,Riesgo medio,,,Riesgo medio,True,False,,False
+20,Cesar,20178,Chiriguaná,2025,58.1,Riesgo alto,58.1,Riesgo alto,,,Riesgo alto,True,False,,False
+20,Cesar,20228,Curumaní,2025,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+20,Cesar,20238,El Copey,2025,6.8,Riesgo bajo,6.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20295,Gamarra,2025,14.2,Riesgo medio,13.0,Riesgo bajo,22.0,Riesgo medio,Riesgo medio,True,True,9.0,False
+20,Cesar,20310,González,2025,5.5,Riesgo bajo,5.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20383,La Gloria,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+20,Cesar,20400,La Jagua de Ibirico,2025,5.3,Riesgo bajo,5.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20621,La Paz,2025,9.9,Riesgo bajo,9.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20443,Manaure Balcón del Cesar,2025,6.7,Riesgo bajo,6.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20517,Pailitas,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20550,Pelaya,2025,2.8,Sin riesgo,2.8,Sin riesgo,,,Sin riesgo,True,False,,False
+20,Cesar,20570,Pueblo Bello,2025,15.4,Riesgo medio,15.4,Riesgo medio,,,Riesgo medio,True,False,,False
+20,Cesar,20614,Río de Oro,2025,2.9,Sin riesgo,2.9,Sin riesgo,,,Sin riesgo,True,False,,False
+20,Cesar,20710,San Alberto,2025,6.8,Riesgo bajo,6.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20750,San Diego,2025,8.8,Riesgo bajo,8.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+20,Cesar,20770,San Martín,2025,1.2,Sin riesgo,1.2,Sin riesgo,,,Sin riesgo,True,False,,False
+20,Cesar,20787,Tamalameque,2025,4.9,Sin riesgo,4.9,Sin riesgo,,,Sin riesgo,True,False,,False
+20,Cesar,20001,Valledupar,2025,1.4,Sin riesgo,1.4,Sin riesgo,,,Sin riesgo,True,False,,False
+27,Chocó,27050,Atrato,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+27,Chocó,27205,Condoto,2025,51.5,Riesgo alto,51.5,Riesgo alto,,,Riesgo alto,True,False,,False
+27,Chocó,27372,Juradó,2025,76.5,Riesgo alto,76.5,Riesgo alto,,,Riesgo alto,True,False,,False
+27,Chocó,27787,Tadó,2025,40.0,Riesgo alto,40.0,Riesgo alto,,,Riesgo alto,True,False,,False
+25,Cundinamarca,25001,Agua de Dios,2025,3.3,Sin riesgo,4.2,Sin riesgo,2.0,Sin riesgo,Sin riesgo,True,True,-2.2,False
+25,Cundinamarca,25019,Albán,2025,6.0,Riesgo bajo,5.7,Riesgo bajo,6.7,Riesgo bajo,Riesgo bajo,True,True,1.0,False
+25,Cundinamarca,25035,Anapoima,2025,1.9,Sin riesgo,0.5,Sin riesgo,3.2,Sin riesgo,Sin riesgo,True,True,2.7,False
+25,Cundinamarca,25040,Anolaima,2025,18.9,Riesgo medio,2.8,Sin riesgo,31.9,Riesgo medio,Riesgo medio,True,True,29.099999999999998,False
+25,Cundinamarca,25599,Apulo,2025,27.4,Riesgo medio,27.4,Riesgo medio,,,Riesgo medio,True,False,,False
+25,Cundinamarca,25053,Arbeláez,2025,11.1,Riesgo bajo,9.7,Riesgo bajo,16.0,Riesgo medio,Riesgo bajo,True,True,6.300000000000001,False
+25,Cundinamarca,25086,Beltrán,2025,14.2,Riesgo medio,15.3,Riesgo medio,11.4,Riesgo bajo,Riesgo medio,True,True,-3.9000000000000004,False
+25,Cundinamarca,25095,Bituima,2025,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25099,Bojacá,2025,2.2,Sin riesgo,2.2,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25120,Cabrera,2025,16.8,Riesgo medio,16.8,Riesgo medio,,,Riesgo medio,True,False,,False
+25,Cundinamarca,25123,Cachipay,2025,15.9,Riesgo medio,,,15.9,Riesgo medio,Riesgo medio,True,True,,False
+25,Cundinamarca,25126,Cajicá,2025,1.9,Sin riesgo,1.8,Sin riesgo,2.0,Sin riesgo,Sin riesgo,True,True,0.19999999999999996,False
+25,Cundinamarca,25148,Caparrapí,2025,11.2,Riesgo bajo,11.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25154,Carmen de Carupa,2025,4.3,Sin riesgo,4.3,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25168,Chaguaní,2025,18.4,Riesgo medio,18.4,Riesgo medio,,,Riesgo medio,True,False,,False
+25,Cundinamarca,25178,Chipaque,2025,13.5,Riesgo bajo,4.8,Sin riesgo,41.5,Riesgo alto,Riesgo bajo,True,True,36.7,False
+25,Cundinamarca,25181,Choachí,2025,1.4,Sin riesgo,1.4,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25183,Chocontá,2025,0.8,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25175,Chía,2025,2.6,Sin riesgo,1.5,Sin riesgo,3.0,Sin riesgo,Sin riesgo,True,True,1.5,False
+25,Cundinamarca,25200,Cogua,2025,3.2,Sin riesgo,1.6,Sin riesgo,8.3,Riesgo bajo,Sin riesgo,True,True,6.700000000000001,False
+25,Cundinamarca,25214,Cota,2025,4.0,Sin riesgo,2.0,Sin riesgo,7.0,Riesgo bajo,Sin riesgo,True,True,5.0,False
+25,Cundinamarca,25224,Cucunubá,2025,13.8,Riesgo bajo,21.1,Riesgo medio,8.5,Riesgo bajo,Riesgo bajo,True,True,-12.600000000000001,False
+25,Cundinamarca,25151,Cáqueza,2025,5.1,Riesgo bajo,5.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25245,El Colegio,2025,3.5,Sin riesgo,1.6,Sin riesgo,7.6,Riesgo bajo,Sin riesgo,True,True,6.0,False
+25,Cundinamarca,25258,El Peñón,2025,9.8,Riesgo bajo,10.7,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-10.7,False
+25,Cundinamarca,25260,El Rosal,2025,0.2,Sin riesgo,0.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.2,False
+25,Cundinamarca,25269,Facatativá,2025,0.9,Sin riesgo,1.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.0,False
+25,Cundinamarca,25286,Funza,2025,1.1,Sin riesgo,1.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.8,False
+25,Cundinamarca,25290,Fusagasugá,2025,0.5,Sin riesgo,0.4,Sin riesgo,1.4,Sin riesgo,Sin riesgo,True,True,0.9999999999999999,False
+25,Cundinamarca,25293,Gachalá,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25295,Gachancipá,2025,3.2,Sin riesgo,1.3,Sin riesgo,11.0,Riesgo bajo,Sin riesgo,True,True,9.7,False
+25,Cundinamarca,25297,Gachetá,2025,7.7,Riesgo bajo,7.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25299,Gama,2025,2.5,Sin riesgo,2.5,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25307,Girardot,2025,4.1,Sin riesgo,4.3,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.3,False
+25,Cundinamarca,25312,Granada,2025,2.4,Sin riesgo,0.0,Sin riesgo,3.4,Sin riesgo,Sin riesgo,True,True,3.4,False
+25,Cundinamarca,25317,Guachetá,2025,3.2,Sin riesgo,3.2,Sin riesgo,3.1,Sin riesgo,Sin riesgo,True,True,-0.10000000000000009,False
+25,Cundinamarca,25320,Guaduas,2025,1.7,Sin riesgo,1.6,Sin riesgo,2.1,Sin riesgo,Sin riesgo,True,True,0.5,False
+25,Cundinamarca,25322,Guasca,2025,10.6,Riesgo bajo,8.8,Riesgo bajo,11.7,Riesgo bajo,Riesgo bajo,True,True,2.8999999999999986,False
+25,Cundinamarca,25324,Guataquí,2025,4.8,Sin riesgo,3.8,Sin riesgo,5.9,Riesgo bajo,Sin riesgo,True,True,2.1000000000000005,False
+25,Cundinamarca,25326,Guatavita,2025,3.9,Sin riesgo,3.9,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25328,Guayabal de Síquima,2025,4.2,Sin riesgo,4.5,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.5,False
+25,Cundinamarca,25335,Guayabetal,2025,5.7,Riesgo bajo,6.2,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-6.2,False
+25,Cundinamarca,25339,Gutiérrez,2025,6.6,Riesgo bajo,6.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25368,Jerusalén,2025,8.3,Riesgo bajo,12.8,Riesgo bajo,3.1,Sin riesgo,Riesgo bajo,True,True,-9.700000000000001,False
+25,Cundinamarca,25372,Junín,2025,5.4,Riesgo bajo,7.8,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-7.8,False
+25,Cundinamarca,25377,La Calera,2025,5.7,Riesgo bajo,2.0,Sin riesgo,10.3,Riesgo bajo,Riesgo bajo,True,True,8.3,False
+25,Cundinamarca,25386,La Mesa,2025,7.3,Riesgo bajo,4.0,Sin riesgo,12.6,Riesgo bajo,Riesgo bajo,True,True,8.6,False
+25,Cundinamarca,25394,La Palma,2025,13.5,Riesgo bajo,13.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25398,La Peña,2025,1.4,Sin riesgo,1.4,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25402,La Vega,2025,10.1,Riesgo bajo,2.9,Sin riesgo,18.8,Riesgo medio,Riesgo bajo,True,True,15.9,False
+25,Cundinamarca,25407,Lenguazaque,2025,28.3,Riesgo medio,20.7,Riesgo medio,51.2,Riesgo alto,Riesgo medio,True,True,30.500000000000004,False
+25,Cundinamarca,25426,Machetá,2025,14.8,Riesgo medio,14.0,Riesgo bajo,19.5,Riesgo medio,Riesgo medio,True,True,5.5,False
+25,Cundinamarca,25430,Madrid,2025,0.7,Sin riesgo,0.5,Sin riesgo,1.5,Sin riesgo,Sin riesgo,True,True,1.0,False
+25,Cundinamarca,25436,Manta,2025,11.9,Riesgo bajo,11.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25438,Medina,2025,33.4,Riesgo medio,33.4,Riesgo medio,,,Riesgo medio,True,False,,False
+25,Cundinamarca,25473,Mosquera,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25483,Nariño,2025,1.4,Sin riesgo,1.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.6,False
+25,Cundinamarca,25486,Nemocón,2025,1.4,Sin riesgo,1.7,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.7,False
+25,Cundinamarca,25488,Nilo,2025,5.8,Riesgo bajo,4.0,Sin riesgo,14.0,Riesgo bajo,Riesgo bajo,True,True,10.0,False
+25,Cundinamarca,25489,Nimaima,2025,4.2,Sin riesgo,3.3,Sin riesgo,10.0,Riesgo bajo,Sin riesgo,True,True,6.7,False
+25,Cundinamarca,25491,Nocaima,2025,2.9,Sin riesgo,1.8,Sin riesgo,9.0,Riesgo bajo,Sin riesgo,True,True,7.2,False
+25,Cundinamarca,25513,Pacho,2025,1.2,Sin riesgo,1.0,Sin riesgo,1.9,Sin riesgo,Sin riesgo,True,True,0.8999999999999999,False
+25,Cundinamarca,25518,Paime,2025,3.0,Sin riesgo,3.0,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25524,Pandi,2025,0.1,Sin riesgo,0.3,Sin riesgo,0.1,Sin riesgo,Sin riesgo,True,True,-0.19999999999999998,False
+25,Cundinamarca,25530,Paratebueno,2025,16.2,Riesgo medio,16.2,Riesgo medio,,,Riesgo medio,True,False,,False
+25,Cundinamarca,25535,Pasca,2025,4.0,Sin riesgo,2.4,Sin riesgo,18.0,Riesgo medio,Sin riesgo,True,True,15.6,False
+25,Cundinamarca,25572,Puerto Salgar,2025,2.9,Sin riesgo,2.9,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25580,Pulí,2025,9.3,Riesgo bajo,9.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25592,Quebradanegra,2025,8.1,Riesgo bajo,9.2,Riesgo bajo,6.0,Riesgo bajo,Riesgo bajo,True,True,-3.1999999999999993,False
+25,Cundinamarca,25594,Quetame,2025,12.2,Riesgo bajo,12.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25596,Quipile,2025,22.3,Riesgo medio,22.3,Riesgo medio,,,Riesgo medio,True,False,,False
+25,Cundinamarca,25612,Ricaurte,2025,0.8,Sin riesgo,0.8,Sin riesgo,0.6,Sin riesgo,Sin riesgo,True,True,-0.20000000000000007,False
+25,Cundinamarca,25645,San Antonio del Tequendama,2025,2.6,Sin riesgo,0.3,Sin riesgo,6.6,Riesgo bajo,Sin riesgo,True,True,6.3,False
+25,Cundinamarca,25649,San Bernardo,2025,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25653,San Cayetano,2025,2.0,Sin riesgo,2.0,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25658,San Francisco,2025,0.6,Sin riesgo,0.5,Sin riesgo,0.8,Sin riesgo,Sin riesgo,True,True,0.30000000000000004,False
+25,Cundinamarca,25662,San Juan de Rioseco,2025,10.5,Riesgo bajo,6.4,Riesgo bajo,19.1,Riesgo medio,Riesgo bajo,True,True,12.700000000000001,False
+25,Cundinamarca,25718,Sasaima,2025,1.2,Sin riesgo,1.3,Sin riesgo,1.2,Sin riesgo,Sin riesgo,True,True,-0.10000000000000009,False
+25,Cundinamarca,25736,Sesquilé,2025,7.6,Riesgo bajo,3.0,Sin riesgo,16.8,Riesgo medio,Riesgo bajo,True,True,13.8,False
+25,Cundinamarca,25740,Sibaté,2025,4.1,Sin riesgo,0.8,Sin riesgo,16.4,Riesgo medio,Sin riesgo,True,True,15.599999999999998,False
+25,Cundinamarca,25743,Silvania,2025,13.0,Riesgo bajo,1.8,Sin riesgo,53.1,Riesgo alto,Riesgo bajo,True,True,51.300000000000004,False
+25,Cundinamarca,25745,Simijaca,2025,12.7,Riesgo bajo,10.5,Riesgo bajo,23.0,Riesgo medio,Riesgo bajo,True,True,12.5,False
+25,Cundinamarca,25754,Soacha,2025,1.1,Sin riesgo,1.0,Sin riesgo,2.1,Sin riesgo,Sin riesgo,True,True,1.1,False
+25,Cundinamarca,25758,Sopó,2025,3.8,Sin riesgo,1.2,Sin riesgo,5.5,Riesgo bajo,Sin riesgo,True,True,4.3,False
+25,Cundinamarca,25769,Subachoque,2025,4.6,Sin riesgo,2.2,Sin riesgo,5.9,Riesgo bajo,Sin riesgo,True,True,3.7,False
+25,Cundinamarca,25772,Suesca,2025,9.0,Riesgo bajo,6.0,Riesgo bajo,9.6,Riesgo bajo,Riesgo bajo,True,True,3.5999999999999996,False
+25,Cundinamarca,25777,Supatá,2025,3.4,Sin riesgo,0.1,Sin riesgo,8.0,Riesgo bajo,Sin riesgo,True,True,7.9,False
+25,Cundinamarca,25779,Susa,2025,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25781,Sutatausa,2025,2.2,Sin riesgo,2.0,Sin riesgo,2.4,Sin riesgo,Sin riesgo,True,True,0.3999999999999999,False
+25,Cundinamarca,25785,Tabio,2025,2.1,Sin riesgo,1.6,Sin riesgo,2.4,Sin riesgo,Sin riesgo,True,True,0.7999999999999998,False
+25,Cundinamarca,25793,Tausa,2025,5.7,Riesgo bajo,6.8,Riesgo bajo,3.6,Sin riesgo,Riesgo bajo,True,True,-3.1999999999999997,False
+25,Cundinamarca,25797,Tena,2025,8.3,Riesgo bajo,5.0,Sin riesgo,11.6,Riesgo bajo,Riesgo bajo,True,True,6.6,False
+25,Cundinamarca,25799,Tenjo,2025,4.1,Sin riesgo,2.7,Sin riesgo,6.5,Riesgo bajo,Sin riesgo,True,True,3.8,False
+25,Cundinamarca,25805,Tibacuy,2025,1.1,Sin riesgo,3.2,Sin riesgo,0.1,Sin riesgo,Sin riesgo,True,True,-3.1,False
+25,Cundinamarca,25807,Tibirita,2025,6.5,Riesgo bajo,7.0,Riesgo bajo,5.6,Riesgo bajo,Riesgo bajo,True,True,-1.4000000000000004,False
+25,Cundinamarca,25815,Tocaima,2025,1.1,Sin riesgo,1.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.1,False
+25,Cundinamarca,25817,Tocancipá,2025,0.9,Sin riesgo,5.2,Riesgo bajo,0.2,Sin riesgo,Sin riesgo,True,True,-5.0,False
+25,Cundinamarca,25823,Topaipí,2025,10.8,Riesgo bajo,10.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25839,Ubalá,2025,8.1,Riesgo bajo,8.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25841,Ubaque,2025,6.8,Riesgo bajo,3.5,Sin riesgo,15.2,Riesgo medio,Riesgo bajo,True,True,11.7,False
+25,Cundinamarca,25845,Une,2025,9.4,Riesgo bajo,5.6,Riesgo bajo,34.0,Riesgo medio,Riesgo bajo,True,True,28.4,False
+25,Cundinamarca,25506,Venecia,2025,14.3,Riesgo medio,14.3,Riesgo medio,,,Riesgo medio,True,False,,False
+25,Cundinamarca,25862,Vergara,2025,6.5,Riesgo bajo,7.0,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-7.0,False
+25,Cundinamarca,25867,Vianí,2025,11.1,Riesgo bajo,11.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25843,Villa de San Diego de Ubaté,2025,1.2,Sin riesgo,0.0,Sin riesgo,6.0,Riesgo bajo,Sin riesgo,True,True,6.0,False
+25,Cundinamarca,25871,Villagómez,2025,3.9,Sin riesgo,3.9,Sin riesgo,,,Sin riesgo,True,False,,False
+25,Cundinamarca,25873,Villapinzón,2025,4.7,Sin riesgo,5.2,Riesgo bajo,3.8,Sin riesgo,Sin riesgo,True,True,-1.4000000000000004,False
+25,Cundinamarca,25875,Villeta,2025,2.3,Sin riesgo,2.2,Sin riesgo,4.5,Sin riesgo,Sin riesgo,True,True,2.3,False
+25,Cundinamarca,25878,Viotá,2025,9.4,Riesgo bajo,9.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+25,Cundinamarca,25885,Yacopí,2025,20.1,Riesgo medio,16.9,Riesgo medio,61.0,Riesgo alto,Riesgo medio,True,True,44.1,False
+25,Cundinamarca,25898,Zipacón,2025,29.5,Riesgo medio,26.0,Riesgo medio,46.0,Riesgo alto,Riesgo medio,True,True,20.0,False
+25,Cundinamarca,25899,Zipaquirá,2025,0.6,Sin riesgo,0.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.6,False
+25,Cundinamarca,25851,Útica,2025,2.8,Sin riesgo,2.8,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23068,Ayapel,2025,12.3,Riesgo bajo,12.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+23,Córdoba,23162,Cereté,2025,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23168,Chimá,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+23,Córdoba,23182,Chinú,2025,0.1,Sin riesgo,0.1,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23189,Ciénaga de Oro,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23350,La Apartada,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+23,Córdoba,23417,Lorica,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23419,Los Córdobas,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+23,Córdoba,23464,Momil,2025,5.5,Riesgo bajo,5.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+23,Córdoba,23466,Montelíbano,2025,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23500,Moñitos,2025,42.0,Riesgo alto,42.0,Riesgo alto,,,Riesgo alto,True,False,,False
+23,Córdoba,23555,Planeta Rica,2025,9.4,Riesgo bajo,10.4,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-10.4,False
+23,Córdoba,23570,Pueblo Nuevo,2025,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23574,Puerto Escondido,2025,51.0,Riesgo alto,51.0,Riesgo alto,,,Riesgo alto,True,False,,False
+23,Córdoba,23580,Puerto Libertador,2025,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23586,Purísima de La Concepción,2025,10.0,Riesgo bajo,10.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+23,Córdoba,23660,Sahagún,2025,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23670,San Andrés de Sotavento,2025,22.0,Riesgo medio,22.0,Riesgo medio,,,Riesgo medio,True,False,,False
+23,Córdoba,23672,San Antero,2025,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23675,San Bernardo del Viento,2025,18.5,Riesgo medio,24.7,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-24.7,False
+23,Córdoba,23678,San Carlos,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23682,San José de Uré,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+23,Córdoba,23686,San Pelayo,2025,17.0,Riesgo medio,17.0,Riesgo medio,,,Riesgo medio,True,False,,False
+23,Córdoba,23807,Tierralta,2025,58.6,Riesgo alto,58.6,Riesgo alto,,,Riesgo alto,True,False,,False
+23,Córdoba,23815,Tuchín,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+23,Córdoba,23855,Valencia,2025,36.0,Riesgo alto,36.0,Riesgo alto,36.0,Riesgo alto,Riesgo alto,True,True,0.0,False
+94,Guainía,94001,Inírida,2025,26.9,Riesgo medio,26.9,Riesgo medio,,,Riesgo medio,True,False,,False
+95,Guaviare,95015,Calamar,2025,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+95,Guaviare,95025,El Retorno,2025,6.9,Riesgo bajo,1.6,Sin riesgo,14.8,Riesgo medio,Riesgo bajo,True,True,13.200000000000001,False
+95,Guaviare,95200,Miraflores,2025,11.1,Riesgo bajo,11.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+95,Guaviare,95001,San José del Guaviare,2025,1.0,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41006,Acevedo,2025,16.6,Riesgo medio,16.6,Riesgo medio,,,Riesgo medio,True,False,,False
+41,Huila,41013,Agrado,2025,11.8,Riesgo bajo,11.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+41,Huila,41016,Aipe,2025,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41020,Algeciras,2025,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41026,Altamira,2025,5.2,Riesgo bajo,2.7,Sin riesgo,11.0,Riesgo bajo,Riesgo bajo,True,True,8.3,False
+41,Huila,41078,Baraya,2025,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41132,Campoalegre,2025,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41206,Colombia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41244,Elías,2025,31.0,Riesgo medio,31.0,Riesgo medio,,,Riesgo medio,True,False,,False
+41,Huila,41298,Garzón,2025,2.5,Sin riesgo,2.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.8,False
+41,Huila,41306,Gigante,2025,0.7,Sin riesgo,0.7,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41319,Guadalupe,2025,6.0,Riesgo bajo,6.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+41,Huila,41349,Hobo,2025,7.5,Riesgo bajo,7.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+41,Huila,41378,La Argentina,2025,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41396,La Plata,2025,2.2,Sin riesgo,2.2,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41001,Neiva,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41483,Nátaga,2025,2.5,Sin riesgo,2.5,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41503,Oporapa,2025,15.2,Riesgo medio,15.2,Riesgo medio,,,Riesgo medio,True,False,,False
+41,Huila,41518,Paicol,2025,5.6,Riesgo bajo,5.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+41,Huila,41524,Palermo,2025,4.7,Sin riesgo,4.1,Sin riesgo,6.0,Riesgo bajo,Sin riesgo,True,True,1.9000000000000004,False
+41,Huila,41530,Palestina,2025,5.1,Riesgo bajo,5.6,Riesgo bajo,2.0,Sin riesgo,Riesgo bajo,True,True,-3.5999999999999996,False
+41,Huila,41548,Pital,2025,14.1,Riesgo medio,14.1,Riesgo medio,,,Riesgo medio,True,False,,False
+41,Huila,41551,Pitalito,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41615,Rivera,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+41,Huila,41660,Saladoblanco,2025,9.5,Riesgo bajo,14.5,Riesgo medio,4.5,Sin riesgo,Riesgo bajo,True,True,-10.0,False
+41,Huila,41668,San Agustín,2025,4.8,Sin riesgo,4.8,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41676,Santa María,2025,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41770,Suaza,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+41,Huila,41791,Tarqui,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41799,Tello,2025,5.4,Riesgo bajo,5.9,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-5.9,False
+41,Huila,41801,Teruel,2025,7.7,Riesgo bajo,7.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+41,Huila,41797,Tesalia,2025,3.8,Sin riesgo,3.8,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41807,Timaná,2025,3.8,Sin riesgo,3.8,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41872,Villavieja,2025,3.3,Sin riesgo,3.3,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41885,Yaguará,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+41,Huila,41357,Íquira,2025,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+44,La Guajira,44035,Albania,2025,20.5,Riesgo medio,14.3,Riesgo medio,32.8,Riesgo medio,Riesgo medio,True,True,18.499999999999996,False
+44,La Guajira,44078,Barrancas,2025,1.9,Sin riesgo,1.9,Sin riesgo,,,Sin riesgo,True,False,,False
+44,La Guajira,44090,Dibulla,2025,31.5,Riesgo medio,28.1,Riesgo medio,35.9,Riesgo alto,Riesgo medio,True,True,7.799999999999997,False
+44,La Guajira,44098,Distracción,2025,1.3,Sin riesgo,1.3,Sin riesgo,,,Sin riesgo,True,False,,False
+44,La Guajira,44110,El Molino,2025,7.5,Riesgo bajo,7.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+44,La Guajira,44279,Fonseca,2025,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+44,La Guajira,44378,Hatonuevo,2025,6.5,Riesgo bajo,6.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+44,La Guajira,44420,La Jagua del Pilar,2025,5.4,Riesgo bajo,5.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+44,La Guajira,44430,Maicao,2025,6.6,Riesgo bajo,6.6,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-6.6,False
+44,La Guajira,44560,Manaure,2025,3.3,Sin riesgo,1.3,Sin riesgo,24.0,Riesgo medio,Sin riesgo,True,True,22.7,False
+44,La Guajira,44001,Riohacha,2025,2.8,Sin riesgo,2.8,Sin riesgo,0.5,Sin riesgo,Sin riesgo,True,True,-2.3,False
+44,La Guajira,44650,San Juan del Cesar,2025,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+44,La Guajira,44847,Uribia,2025,3.6,Sin riesgo,0.1,Sin riesgo,32.2,Riesgo medio,Sin riesgo,True,True,32.1,False
+44,La Guajira,44855,Urumita,2025,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+44,La Guajira,44874,Villanueva,2025,4.6,Sin riesgo,4.6,Sin riesgo,,,Sin riesgo,True,False,,False
+47,Magdalena,47170,Chivolo,2025,6.0,Riesgo bajo,6.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+47,Magdalena,47189,Ciénaga,2025,8.1,Riesgo bajo,8.8,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-8.8,False
+47,Magdalena,47205,Concordia,2025,45.2,Riesgo alto,45.2,Riesgo alto,,,Riesgo alto,True,False,,False
+47,Magdalena,47245,El Banco,2025,8.8,Riesgo bajo,8.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+47,Magdalena,47258,El Piñón,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+47,Magdalena,47268,El Retén,2025,2.9,Sin riesgo,2.9,Sin riesgo,,,Sin riesgo,True,False,,False
+47,Magdalena,47288,Fundación,2025,1.4,Sin riesgo,2.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.2,False
+47,Magdalena,47460,Nueva Granada,2025,11.1,Riesgo bajo,0.0,Sin riesgo,16.7,Riesgo medio,Riesgo bajo,True,True,16.7,False
+47,Magdalena,47541,Pedraza,2025,25.1,Riesgo medio,25.1,Riesgo medio,,,Riesgo medio,True,False,,False
+47,Magdalena,47551,Pivijay,2025,13.9,Riesgo bajo,13.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+47,Magdalena,47555,Plato,2025,12.7,Riesgo bajo,12.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+47,Magdalena,47570,Puebloviejo,2025,33.4,Riesgo medio,47.5,Riesgo alto,14.7,Riesgo medio,Riesgo medio,True,True,-32.8,False
+47,Magdalena,47660,Sabanas de San Ángel,2025,43.3,Riesgo alto,43.3,Riesgo alto,,,Riesgo alto,True,False,,False
+47,Magdalena,47675,Salamina,2025,4.2,Sin riesgo,4.2,Sin riesgo,,,Sin riesgo,True,False,,False
+47,Magdalena,47692,San Sebastián de Buenavista,2025,7.6,Riesgo bajo,0.0,Sin riesgo,38.0,Riesgo alto,Riesgo bajo,True,True,38.0,False
+47,Magdalena,47707,Santa Ana,2025,18.3,Riesgo medio,3.5,Sin riesgo,100.0,Inviable sanitariamente,Riesgo medio,True,True,96.5,False
+47,Magdalena,47720,Santa Bárbara de Pinto,2025,26.3,Riesgo medio,26.3,Riesgo medio,,,Riesgo medio,True,False,,False
+47,Magdalena,47001,Santa Marta,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+47,Magdalena,47745,Sitionuevo,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+47,Magdalena,47798,Tenerife,2025,5.4,Riesgo bajo,5.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+47,Magdalena,47960,Zapayán,2025,13.9,Riesgo bajo,11.3,Riesgo bajo,19.8,Riesgo medio,Riesgo bajo,True,True,8.5,False
+47,Magdalena,47980,Zona Bananera,2025,3.4,Sin riesgo,2.7,Sin riesgo,3.8,Sin riesgo,Sin riesgo,True,True,1.0999999999999996,False
+50,Meta,50006,Acacías,2025,2.0,Sin riesgo,0.1,Sin riesgo,7.9,Riesgo bajo,Sin riesgo,True,True,7.800000000000001,False
+50,Meta,50110,Barranca de Upía,2025,4.8,Sin riesgo,5.3,Riesgo bajo,0.0,Sin riesgo,Sin riesgo,True,True,-5.3,False
+50,Meta,50124,Cabuyaro,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+50,Meta,50150,Castilla La Nueva,2025,10.7,Riesgo bajo,3.0,Sin riesgo,19.4,Riesgo medio,Riesgo bajo,True,True,16.4,False
+50,Meta,50223,Cubarral,2025,73.0,Riesgo alto,81.1,Inviable sanitariamente,0.0,Sin riesgo,Riesgo alto,True,True,-81.1,False
+50,Meta,50226,Cumaral,2025,20.7,Riesgo medio,20.7,Riesgo medio,,,Riesgo medio,True,False,,False
+50,Meta,50245,El Calvario,2025,17.9,Riesgo medio,19.4,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-19.4,False
+50,Meta,50251,El Castillo,2025,1.1,Sin riesgo,1.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.2,False
+50,Meta,50270,El Dorado,2025,2.8,Sin riesgo,3.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.1,False
+50,Meta,50287,Fuente de Oro,2025,6.1,Riesgo bajo,6.7,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-6.7,False
+50,Meta,50313,Granada,2025,28.7,Riesgo medio,28.7,Riesgo medio,,,Riesgo medio,True,False,,False
+50,Meta,50318,Guamal,2025,22.7,Riesgo medio,23.9,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-23.9,False
+50,Meta,50350,La Macarena,2025,4.4,Sin riesgo,4.4,Sin riesgo,,,Sin riesgo,True,False,,False
+50,Meta,50400,Lejanías,2025,10.8,Riesgo bajo,11.7,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-11.7,False
+50,Meta,50325,Mapiripán,2025,16.7,Riesgo medio,18.2,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-18.2,False
+50,Meta,50450,Puerto Concordia,2025,1.8,Sin riesgo,1.8,Sin riesgo,,,Sin riesgo,True,False,,False
+50,Meta,50568,Puerto Gaitán,2025,1.6,Sin riesgo,1.6,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.6,False
+50,Meta,50577,Puerto Lleras,2025,2.3,Sin riesgo,2.3,Sin riesgo,,,Sin riesgo,True,False,,False
+50,Meta,50573,Puerto López,2025,52.1,Riesgo alto,52.1,Riesgo alto,,,Riesgo alto,True,False,,False
+50,Meta,50590,Puerto Rico,2025,4.7,Sin riesgo,4.7,Sin riesgo,,,Sin riesgo,True,False,,False
+50,Meta,50606,Restrepo,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+50,Meta,50680,San Carlos de Guaroa,2025,11.1,Riesgo bajo,11.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+50,Meta,50683,San Juan de Arama,2025,26.6,Riesgo medio,29.9,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-29.9,False
+50,Meta,50686,San Juanito,2025,20.6,Riesgo medio,22.5,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-22.5,False
+50,Meta,50689,San Martín,2025,27.5,Riesgo medio,27.5,Riesgo medio,,,Riesgo medio,True,False,,False
+50,Meta,50370,Uribe,2025,8.7,Riesgo bajo,9.8,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-9.8,False
+50,Meta,50001,Villavicencio,2025,7.5,Riesgo bajo,7.6,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-7.6,False
+52,Nariño,52022,Aldana,2025,19.7,Riesgo medio,18.2,Riesgo medio,21.0,Riesgo medio,Riesgo medio,True,True,2.8000000000000007,False
+52,Nariño,52036,Ancuya,2025,50.2,Riesgo alto,38.1,Riesgo alto,64.7,Riesgo alto,Riesgo alto,True,True,26.6,False
+52,Nariño,52051,Arboleda,2025,70.8,Riesgo alto,50.7,Riesgo alto,85.9,Inviable sanitariamente,Riesgo alto,True,True,35.2,False
+52,Nariño,52240,Chachagüí,2025,24.5,Riesgo medio,12.0,Riesgo bajo,31.4,Riesgo medio,Riesgo medio,True,True,19.4,False
+52,Nariño,52207,Consacá,2025,3.2,Sin riesgo,3.2,Sin riesgo,,,Sin riesgo,True,False,,False
+52,Nariño,52210,Contadero,2025,17.4,Riesgo medio,17.4,Riesgo medio,,,Riesgo medio,True,False,,False
+52,Nariño,52227,Cumbal,2025,6.9,Riesgo bajo,8.6,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-8.6,False
+52,Nariño,52233,Cumbitara,2025,15.0,Riesgo medio,14.2,Riesgo medio,19.0,Riesgo medio,Riesgo medio,True,True,4.800000000000001,False
+52,Nariño,52215,Córdoba,2025,23.5,Riesgo medio,20.6,Riesgo medio,25.6,Riesgo medio,Riesgo medio,True,True,5.0,False
+52,Nariño,52254,El Peñol,2025,50.5,Riesgo alto,48.7,Riesgo alto,63.0,Riesgo alto,Riesgo alto,True,True,14.299999999999997,False
+52,Nariño,52258,El Tablón de Gómez,2025,28.5,Riesgo medio,28.5,Riesgo medio,,,Riesgo medio,True,False,,False
+52,Nariño,52287,Funes,2025,5.5,Riesgo bajo,5.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+52,Nariño,52317,Guachucal,2025,7.4,Riesgo bajo,7.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+52,Nariño,52320,Guaitarilla,2025,39.0,Riesgo alto,31.0,Riesgo medio,45.2,Riesgo alto,Riesgo alto,True,True,14.200000000000003,False
+52,Nariño,52323,Gualmatán,2025,15.4,Riesgo medio,16.1,Riesgo medio,14.4,Riesgo medio,Riesgo medio,True,True,-1.700000000000001,False
+52,Nariño,52354,Imués,2025,3.2,Sin riesgo,3.2,Sin riesgo,,,Sin riesgo,True,False,,False
+52,Nariño,52356,Ipiales,2025,20.1,Riesgo medio,8.2,Riesgo bajo,48.9,Riesgo alto,Riesgo medio,True,True,40.7,False
+52,Nariño,52381,La Florida,2025,3.6,Sin riesgo,4.2,Sin riesgo,1.0,Sin riesgo,Sin riesgo,True,True,-3.2,False
+52,Nariño,52385,La Llanada,2025,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+52,Nariño,52399,La Unión,2025,31.6,Riesgo medio,21.8,Riesgo medio,80.7,Inviable sanitariamente,Riesgo medio,True,True,58.900000000000006,False
+52,Nariño,52405,Leiva,2025,54.6,Riesgo alto,54.6,Riesgo alto,,,Riesgo alto,True,False,,False
+52,Nariño,52411,Linares,2025,72.5,Riesgo alto,,,72.5,Riesgo alto,Riesgo alto,True,True,,False
+52,Nariño,52418,Los Andes,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,6.3,Riesgo bajo,Riesgo bajo,True,True,0.0,False
+52,Nariño,52427,Magüí,2025,36.1,Riesgo alto,36.1,Riesgo alto,,,Riesgo alto,True,False,,False
+52,Nariño,52435,Mallama,2025,31.6,Riesgo medio,,,31.6,Riesgo medio,Riesgo medio,True,True,,False
+52,Nariño,52480,Nariño,2025,12.8,Riesgo bajo,12.0,Riesgo bajo,13.9,Riesgo bajo,Riesgo bajo,True,True,1.9000000000000004,False
+52,Nariño,52001,Pasto,2025,1.1,Sin riesgo,1.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.1,False
+52,Nariño,52540,Policarpa,2025,40.8,Riesgo alto,40.8,Riesgo alto,,,Riesgo alto,True,False,,False
+52,Nariño,52560,Potosí,2025,13.7,Riesgo bajo,13.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+52,Nariño,52565,Providencia,2025,7.7,Riesgo bajo,7.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+52,Nariño,52585,Pupiales,2025,3.3,Sin riesgo,2.1,Sin riesgo,9.5,Riesgo bajo,Sin riesgo,True,True,7.4,False
+52,Nariño,52612,Ricaurte,2025,25.7,Riesgo medio,27.2,Riesgo medio,25.0,Riesgo medio,Riesgo medio,True,True,-2.1999999999999993,False
+52,Nariño,52621,Roberto Payán,2025,70.8,Riesgo alto,70.8,Riesgo alto,,,Riesgo alto,True,False,,False
+52,Nariño,52678,Samaniego,2025,64.4,Riesgo alto,45.1,Riesgo alto,70.7,Riesgo alto,Riesgo alto,True,True,25.6,False
+52,Nariño,52835,San Andrés de Tumaco,2025,16.3,Riesgo medio,18.6,Riesgo medio,11.3,Riesgo bajo,Riesgo medio,True,True,-7.300000000000001,False
+52,Nariño,52685,San Bernardo,2025,15.8,Riesgo medio,15.8,Riesgo medio,,,Riesgo medio,True,False,,False
+52,Nariño,52687,San Lorenzo,2025,11.5,Riesgo bajo,11.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+52,Nariño,52694,San Pedro de Cartago,2025,18.0,Riesgo medio,17.9,Riesgo medio,19.0,Riesgo medio,Riesgo medio,True,True,1.1000000000000014,False
+52,Nariño,52683,Sandoná,2025,3.1,Sin riesgo,0.9,Sin riesgo,7.6,Riesgo bajo,Sin riesgo,True,True,6.699999999999999,False
+52,Nariño,52696,Santa Bárbara,2025,28.7,Riesgo medio,20.2,Riesgo medio,63.0,Riesgo alto,Riesgo medio,True,True,42.8,False
+52,Nariño,52699,Santacruz,2025,54.7,Riesgo alto,54.7,Riesgo alto,,,Riesgo alto,True,False,,False
+52,Nariño,52720,Sapuyes,2025,21.9,Riesgo medio,21.9,Riesgo medio,,,Riesgo medio,True,False,,False
+52,Nariño,52788,Tangua,2025,43.5,Riesgo alto,26.9,Riesgo medio,62.4,Riesgo alto,Riesgo alto,True,True,35.5,False
+52,Nariño,52838,Túquerres,2025,0.6,Sin riesgo,0.6,Sin riesgo,,,Sin riesgo,True,False,,False
+52,Nariño,52885,Yacuanquer,2025,20.9,Riesgo medio,22.7,Riesgo medio,0.0,Sin riesgo,Riesgo medio,True,True,-22.7,False
+54,Norte de Santander,54051,Arboledas,2025,13.0,Riesgo bajo,13.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54099,Bochalema,2025,6.1,Riesgo bajo,6.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54109,Bucarasica,2025,12.1,Riesgo bajo,0.0,Sin riesgo,85.0,Inviable sanitariamente,Riesgo bajo,True,True,85.0,False
+54,Norte de Santander,54172,Chinácota,2025,6.1,Riesgo bajo,1.1,Sin riesgo,85.0,Inviable sanitariamente,Riesgo bajo,True,True,83.9,False
+54,Norte de Santander,54174,Chitagá,2025,3.0,Sin riesgo,3.0,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54206,Convención,2025,3.9,Sin riesgo,3.9,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54223,Cucutilla,2025,10.7,Riesgo bajo,10.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54128,Cáchira,2025,24.0,Riesgo medio,18.3,Riesgo medio,58.0,Riesgo alto,Riesgo medio,True,True,39.7,False
+54,Norte de Santander,54125,Cácota,2025,16.7,Riesgo medio,16.7,Riesgo medio,,,Riesgo medio,True,False,,False
+54,Norte de Santander,54239,Durania,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54245,El Carmen,2025,4.9,Sin riesgo,5.5,Riesgo bajo,0.0,Sin riesgo,Sin riesgo,True,True,-5.5,False
+54,Norte de Santander,54250,El Tarra,2025,6.6,Riesgo bajo,6.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54261,El Zulia,2025,0.9,Sin riesgo,0.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.9,False
+54,Norte de Santander,54313,Gramalote,2025,2.0,Sin riesgo,2.0,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54344,Hacarí,2025,7.2,Riesgo bajo,7.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54347,Herrán,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54385,La Esperanza,2025,26.1,Riesgo medio,25.5,Riesgo medio,28.0,Riesgo medio,Riesgo medio,True,True,2.5,False
+54,Norte de Santander,54398,La Playa,2025,1.3,Sin riesgo,1.3,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54377,Labateca,2025,3.2,Sin riesgo,3.2,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54405,Los Patios,2025,1.6,Sin riesgo,1.6,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54418,Lourdes,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54480,Mutiscua,2025,49.8,Riesgo alto,49.8,Riesgo alto,,,Riesgo alto,True,False,,False
+54,Norte de Santander,54498,Ocaña,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54518,Pamplona,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54520,Pamplonita,2025,19.3,Riesgo medio,7.7,Riesgo bajo,89.0,Inviable sanitariamente,Riesgo medio,True,True,81.3,False
+54,Norte de Santander,54553,Puerto Santander,2025,3.6,Sin riesgo,3.6,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54599,Ragonvalia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54660,Salazar,2025,27.9,Riesgo medio,27.9,Riesgo medio,,,Riesgo medio,True,False,,False
+54,Norte de Santander,54670,San Calixto,2025,12.6,Riesgo bajo,12.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54673,San Cayetano,2025,3.5,Sin riesgo,4.5,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.5,False
+54,Norte de Santander,54001,San José de Cúcuta,2025,0.3,Sin riesgo,0.3,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.3,False
+54,Norte de Santander,54680,Santiago,2025,15.0,Riesgo medio,15.0,Riesgo medio,,,Riesgo medio,True,False,,False
+54,Norte de Santander,54720,Sardinata,2025,10.4,Riesgo bajo,10.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54743,Silos,2025,14.5,Riesgo medio,14.5,Riesgo medio,,,Riesgo medio,True,False,,False
+54,Norte de Santander,54800,Teorama,2025,3.9,Sin riesgo,3.9,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54810,Tibú,2025,2.4,Sin riesgo,2.4,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54820,Toledo,2025,8.1,Riesgo bajo,7.0,Riesgo bajo,19.0,Riesgo medio,Riesgo bajo,True,True,12.0,False
+54,Norte de Santander,54871,Villa Caro,2025,7.7,Riesgo bajo,7.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+54,Norte de Santander,54874,Villa del Rosario,2025,0.8,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+54,Norte de Santander,54003,Ábrego,2025,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+86,Putumayo,86219,Colón,2025,0.8,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+86,Putumayo,86001,Mocoa,2025,3.0,Sin riesgo,3.0,Sin riesgo,,,Sin riesgo,True,False,,False
+86,Putumayo,86320,Orito,2025,48.8,Riesgo alto,48.8,Riesgo alto,,,Riesgo alto,True,False,,False
+86,Putumayo,86568,Puerto Asís,2025,15.5,Riesgo medio,15.5,Riesgo medio,,,Riesgo medio,True,False,,False
+86,Putumayo,86569,Puerto Caicedo,2025,15.8,Riesgo medio,15.8,Riesgo medio,,,Riesgo medio,True,False,,False
+86,Putumayo,86571,Puerto Guzmán,2025,49.4,Riesgo alto,49.4,Riesgo alto,,,Riesgo alto,True,False,,False
+86,Putumayo,86573,Puerto Leguízamo,2025,24.6,Riesgo medio,24.6,Riesgo medio,,,Riesgo medio,True,False,,False
+86,Putumayo,86755,San Francisco,2025,18.0,Riesgo medio,18.0,Riesgo medio,,,Riesgo medio,True,False,,False
+86,Putumayo,86760,Santiago,2025,11.4,Riesgo bajo,11.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+86,Putumayo,86749,Sibundoy,2025,30.4,Riesgo medio,30.4,Riesgo medio,,,Riesgo medio,True,False,,False
+86,Putumayo,86865,Valle del Guamuez,2025,20.4,Riesgo medio,20.4,Riesgo medio,,,Riesgo medio,True,False,,False
+86,Putumayo,86885,Villagarzón,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+63,Quindío,63001,Armenia,2025,1.0,Sin riesgo,0.8,Sin riesgo,2.3,Sin riesgo,Sin riesgo,True,True,1.4999999999999998,False
+63,Quindío,63111,Buenavista,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63130,Calarcá,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+63,Quindío,63190,Circasia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63212,Córdoba,2025,0.5,Sin riesgo,0.5,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63272,Filandia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63302,Génova,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63401,La Tebaida,2025,0.8,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63470,Montenegro,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63548,Pijao,2025,1.0,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63594,Quimbaya,2025,0.9,Sin riesgo,0.9,Sin riesgo,,,Sin riesgo,True,False,,False
+63,Quindío,63690,Salento,2025,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+66,Risaralda,66045,Apía,2025,13.3,Riesgo bajo,10.4,Riesgo bajo,86.0,Inviable sanitariamente,Riesgo bajo,True,True,75.6,False
+66,Risaralda,66075,Balboa,2025,7.3,Riesgo bajo,1.8,Sin riesgo,67.0,Riesgo alto,Riesgo bajo,True,True,65.2,False
+66,Risaralda,66088,Belén de Umbría,2025,6.9,Riesgo bajo,0.0,Sin riesgo,20.8,Riesgo medio,Riesgo bajo,True,True,20.8,False
+66,Risaralda,66170,Dosquebradas,2025,7.0,Riesgo bajo,6.7,Riesgo bajo,93.0,Inviable sanitariamente,Riesgo bajo,True,True,86.3,False
+66,Risaralda,66318,Guática,2025,48.0,Riesgo alto,,,48.0,Riesgo alto,Riesgo alto,True,True,,False
+66,Risaralda,66383,La Celia,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+66,Risaralda,66400,La Virginia,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+66,Risaralda,66440,Marsella,2025,8.9,Riesgo bajo,10.8,Riesgo bajo,7.3,Riesgo bajo,Riesgo bajo,True,True,-3.500000000000001,False
+66,Risaralda,66456,Mistrató,2025,4.7,Sin riesgo,1.5,Sin riesgo,7.4,Riesgo bajo,Sin riesgo,True,True,5.9,False
+66,Risaralda,66001,Pereira,2025,6.3,Riesgo bajo,0.0,Sin riesgo,31.4,Riesgo medio,Riesgo bajo,True,True,31.4,False
+66,Risaralda,66572,Pueblo Rico,2025,4.0,Sin riesgo,4.0,Sin riesgo,,,Sin riesgo,True,False,,False
+66,Risaralda,66594,Quinchía,2025,11.3,Riesgo bajo,0.0,Sin riesgo,50.1,Riesgo alto,Riesgo bajo,True,True,50.1,False
+66,Risaralda,66682,Santa Rosa de Cabal,2025,7.2,Riesgo bajo,4.7,Sin riesgo,17.2,Riesgo medio,Riesgo bajo,True,True,12.5,False
+66,Risaralda,66687,Santuario,2025,13.3,Riesgo bajo,0.3,Sin riesgo,65.2,Riesgo alto,Riesgo bajo,True,True,64.9,False
+68,Santander,68013,Aguada,2025,57.8,Riesgo alto,57.8,Riesgo alto,,,Riesgo alto,True,False,,False
+68,Santander,68020,Albania,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68051,Aratoca,2025,7.2,Riesgo bajo,7.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68077,Barbosa,2025,14.7,Riesgo medio,13.8,Riesgo bajo,25.0,Riesgo medio,Riesgo medio,True,True,11.2,False
+68,Santander,68079,Barichara,2025,49.6,Riesgo alto,22.1,Riesgo medio,99.2,Inviable sanitariamente,Riesgo alto,True,True,77.1,False
+68,Santander,68081,Barrancabermeja,2025,0.8,Sin riesgo,0.8,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68092,Betulia,2025,14.4,Riesgo medio,12.1,Riesgo bajo,20.3,Riesgo medio,Riesgo medio,True,True,8.200000000000001,False
+68,Santander,68101,Bolívar,2025,10.8,Riesgo bajo,10.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68001,Bucaramanga,2025,0.2,Sin riesgo,0.2,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68121,Cabrera,2025,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68132,California,2025,23.0,Riesgo medio,23.0,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68147,Capitanejo,2025,11.3,Riesgo bajo,11.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68152,Carcasí,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68160,Cepitá,2025,7.3,Riesgo bajo,7.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68162,Cerrito,2025,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68167,Charalá,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68169,Charta,2025,11.0,Riesgo bajo,11.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68176,Chima,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68179,Chipatá,2025,7.0,Riesgo bajo,7.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68190,Cimitarra,2025,3.5,Sin riesgo,4.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-4.2,False
+68,Santander,68207,Concepción,2025,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68209,Confines,2025,16.2,Riesgo medio,16.2,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68211,Contratación,2025,12.2,Riesgo bajo,12.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68217,Coromoro,2025,5.8,Riesgo bajo,5.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68229,Curití,2025,1.5,Sin riesgo,2.0,Sin riesgo,0.5,Sin riesgo,Sin riesgo,True,True,-1.5,False
+68,Santander,68235,El Carmen de Chucurí,2025,6.7,Riesgo bajo,3.8,Sin riesgo,15.3,Riesgo medio,Riesgo bajo,True,True,11.5,False
+68,Santander,68245,El Guacamayo,2025,22.3,Riesgo medio,22.3,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68250,El Peñón,2025,17.8,Riesgo medio,17.8,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68255,El Playón,2025,13.4,Riesgo bajo,13.4,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68264,Encino,2025,20.0,Riesgo medio,20.0,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68266,Enciso,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+68,Santander,68271,Florián,2025,28.0,Riesgo medio,28.0,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68296,Galán,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68307,Girón,2025,0.7,Sin riesgo,0.4,Sin riesgo,1.8,Sin riesgo,Sin riesgo,True,True,1.4,False
+68,Santander,68318,Guaca,2025,44.1,Riesgo alto,44.1,Riesgo alto,,,Riesgo alto,True,False,,False
+68,Santander,68320,Guadalupe,2025,8.7,Riesgo bajo,8.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68322,Guapotá,2025,17.0,Riesgo medio,17.0,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68324,Guavatá,2025,3.2,Sin riesgo,3.2,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68298,Gámbita,2025,10.8,Riesgo bajo,10.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68327,Güepsa,2025,6.2,Riesgo bajo,6.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68344,Hato,2025,18.4,Riesgo medio,18.4,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68368,Jesús María,2025,27.2,Riesgo medio,27.2,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68370,Jordán,2025,24.3,Riesgo medio,24.3,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68377,La Belleza,2025,23.7,Riesgo medio,23.7,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68397,La Paz,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68385,Landázuri,2025,9.8,Riesgo bajo,9.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68406,Lebrija,2025,3.4,Sin riesgo,1.1,Sin riesgo,28.7,Riesgo medio,Sin riesgo,True,True,27.599999999999998,False
+68,Santander,68418,Los Santos,2025,8.9,Riesgo bajo,8.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68425,Macaravita,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68444,Matanza,2025,11.3,Riesgo bajo,11.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68464,Mogotes,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68468,Molagavita,2025,19.3,Riesgo medio,19.3,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68432,Málaga,2025,2.1,Sin riesgo,2.1,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68498,Ocamonte,2025,1.0,Sin riesgo,1.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68500,Oiba,2025,5.8,Riesgo bajo,5.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68502,Onzaga,2025,10.8,Riesgo bajo,10.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68522,Palmar,2025,21.6,Riesgo medio,21.6,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68524,Palmas del Socorro,2025,11.7,Riesgo bajo,5.4,Riesgo bajo,14.0,Riesgo bajo,Riesgo bajo,True,True,8.6,False
+68,Santander,68547,Piedecuesta,2025,1.7,Sin riesgo,2.2,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.2,False
+68,Santander,68549,Pinchote,2025,12.6,Riesgo bajo,12.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68572,Puente Nacional,2025,0.3,Sin riesgo,0.4,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.4,False
+68,Santander,68573,Puerto Parra,2025,9.2,Riesgo bajo,1.7,Sin riesgo,19.5,Riesgo medio,Riesgo bajo,True,True,17.8,False
+68,Santander,68575,Puerto Wilches,2025,22.7,Riesgo medio,22.7,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68533,Páramo,2025,23.2,Riesgo medio,23.2,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68615,Rionegro,2025,15.3,Riesgo medio,8.9,Riesgo bajo,79.0,Riesgo alto,Riesgo medio,True,True,70.1,False
+68,Santander,68655,Sabana de Torres,2025,0.7,Sin riesgo,0.8,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-0.8,False
+68,Santander,68669,San Andrés,2025,15.9,Riesgo medio,15.9,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68673,San Benito,2025,75.0,Riesgo alto,75.0,Riesgo alto,,,Riesgo alto,True,False,,False
+68,Santander,68679,San Gil,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68682,San Joaquín,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68684,San José de Miranda,2025,22.0,Riesgo medio,22.0,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68686,San Miguel,2025,19.3,Riesgo medio,19.3,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68689,San Vicente de Chucurí,2025,15.6,Riesgo medio,17.7,Riesgo medio,11.5,Riesgo bajo,Riesgo medio,True,True,-6.199999999999999,False
+68,Santander,68705,Santa Bárbara,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68720,Santa Helena del Opón,2025,21.6,Riesgo medio,21.6,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68745,Simacota,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68755,Socorro,2025,2.7,Sin riesgo,2.7,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68770,Suaita,2025,24.8,Riesgo medio,20.9,Riesgo medio,29.3,Riesgo medio,Riesgo medio,True,True,8.400000000000002,False
+68,Santander,68773,Sucre,2025,31.8,Riesgo medio,31.8,Riesgo medio,,,Riesgo medio,True,False,,False
+68,Santander,68780,Suratá,2025,11.5,Riesgo bajo,11.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68820,Tona,2025,30.0,Riesgo medio,5.7,Riesgo bajo,54.3,Riesgo alto,Riesgo medio,True,True,48.599999999999994,False
+68,Santander,68855,Valle de San José,2025,9.0,Riesgo bajo,9.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+68,Santander,68867,Vetas,2025,50.7,Riesgo alto,50.7,Riesgo alto,,,Riesgo alto,True,False,,False
+68,Santander,68872,Villanueva,2025,19.6,Riesgo medio,10.1,Riesgo bajo,62.5,Riesgo alto,Riesgo medio,True,True,52.4,False
+68,Santander,68861,Vélez,2025,4.6,Sin riesgo,4.6,Sin riesgo,,,Sin riesgo,True,False,,False
+68,Santander,68895,Zapatoca,2025,12.9,Riesgo bajo,11.6,Riesgo bajo,22.3,Riesgo medio,Riesgo bajo,True,True,10.700000000000001,False
+70,Sucre,70110,Buenavista,2025,10.1,Riesgo bajo,9.7,Riesgo bajo,19.0,Riesgo medio,Riesgo bajo,True,True,9.3,False
+70,Sucre,70124,Caimito,2025,15.0,Riesgo medio,15.0,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70230,Chalán,2025,20.2,Riesgo medio,20.2,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70204,Colosó,2025,50.5,Riesgo alto,50.5,Riesgo alto,,,Riesgo alto,True,False,,False
+70,Sucre,70215,Corozal,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+70,Sucre,70221,Coveñas,2025,14.8,Riesgo medio,14.8,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70233,El Roble,2025,1.2,Sin riesgo,1.2,Sin riesgo,,,Sin riesgo,True,False,,False
+70,Sucre,70235,Galeras,2025,11.1,Riesgo bajo,11.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+70,Sucre,70265,Guaranda,2025,14.4,Riesgo medio,14.4,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70400,La Unión,2025,40.3,Riesgo alto,40.3,Riesgo alto,,,Riesgo alto,True,False,,False
+70,Sucre,70418,Los Palmitos,2025,9.5,Riesgo bajo,9.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+70,Sucre,70429,Majagual,2025,12.9,Riesgo bajo,12.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+70,Sucre,70473,Morroa,2025,41.4,Riesgo alto,41.4,Riesgo alto,,,Riesgo alto,True,False,,False
+70,Sucre,70508,Ovejas,2025,16.5,Riesgo medio,16.5,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70523,Palmito,2025,21.4,Riesgo medio,21.4,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70670,Sampués,2025,7.3,Riesgo bajo,7.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+70,Sucre,70823,San José de Toluviejo,2025,34.9,Riesgo medio,34.9,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70702,San Juan de Betulia,2025,36.6,Riesgo alto,36.6,Riesgo alto,,,Riesgo alto,True,False,,False
+70,Sucre,70742,San Luis de Sincé,2025,4.6,Sin riesgo,4.6,Sin riesgo,,,Sin riesgo,True,False,,False
+70,Sucre,70708,San Marcos,2025,4.1,Sin riesgo,4.1,Sin riesgo,,,Sin riesgo,True,False,,False
+70,Sucre,70713,San Onofre,2025,23.8,Riesgo medio,23.8,Riesgo medio,,,Riesgo medio,True,False,,False
+70,Sucre,70717,San Pedro,2025,8.6,Riesgo bajo,8.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+70,Sucre,70820,Santiago de Tolú,2025,12.6,Riesgo bajo,11.4,Riesgo bajo,27.6,Riesgo medio,Riesgo bajo,True,True,16.200000000000003,False
+70,Sucre,70001,Sincelejo,2025,3.5,Sin riesgo,3.5,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.5,False
+73,Tolima,73024,Alpujarra,2025,4.5,Sin riesgo,4.5,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73026,Alvarado,2025,6.5,Riesgo bajo,6.5,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73030,Ambalema,2025,20.0,Riesgo medio,20.0,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73043,Anzoátegui,2025,5.7,Riesgo bajo,5.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73055,Armero,2025,15.7,Riesgo medio,15.7,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73067,Ataco,2025,84.2,Inviable sanitariamente,84.2,Inviable sanitariamente,,,Inviable sanitariamente,True,False,,False
+73,Tolima,73124,Cajamarca,2025,14.8,Riesgo medio,14.8,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73148,Carmen de Apicalá,2025,6.3,Riesgo bajo,6.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73152,Casabianca,2025,8.3,Riesgo bajo,8.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73168,Chaparral,2025,9.3,Riesgo bajo,9.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73200,Coello,2025,41.4,Riesgo alto,41.4,Riesgo alto,,,Riesgo alto,True,False,,False
+73,Tolima,73217,Coyaima,2025,7.9,Riesgo bajo,7.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73226,Cunday,2025,46.5,Riesgo alto,46.5,Riesgo alto,,,Riesgo alto,True,False,,False
+73,Tolima,73236,Dolores,2025,13.6,Riesgo bajo,13.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73268,Espinal,2025,3.6,Sin riesgo,3.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.9,False
+73,Tolima,73270,Falan,2025,5.2,Riesgo bajo,5.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73275,Flandes,2025,5.2,Riesgo bajo,5.2,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73283,Fresno,2025,8.1,Riesgo bajo,8.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73319,Guamo,2025,2.6,Sin riesgo,2.6,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73347,Herveo,2025,6.6,Riesgo bajo,6.8,Riesgo bajo,0.0,Sin riesgo,Riesgo bajo,True,True,-6.8,False
+73,Tolima,73349,Honda,2025,2.0,Sin riesgo,2.0,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73001,Ibagué,2025,17.4,Riesgo medio,15.5,Riesgo medio,39.0,Riesgo alto,Riesgo medio,True,True,23.5,False
+73,Tolima,73352,Icononzo,2025,26.0,Riesgo medio,26.0,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73408,Lérida,2025,11.3,Riesgo bajo,11.3,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73411,Líbano,2025,0.4,Sin riesgo,0.4,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73449,Melgar,2025,8.7,Riesgo bajo,8.4,Riesgo bajo,18.0,Riesgo medio,Riesgo bajo,True,True,9.6,False
+73,Tolima,73461,Murillo,2025,8.8,Riesgo bajo,8.8,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73483,Natagaima,2025,16.4,Riesgo medio,16.4,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73504,Ortega,2025,6.0,Riesgo bajo,6.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73520,Palocabildo,2025,3.7,Sin riesgo,3.7,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73547,Piedras,2025,30.0,Riesgo medio,30.0,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73555,Planadas,2025,8.0,Riesgo bajo,8.0,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73563,Prado,2025,3.1,Sin riesgo,3.1,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73585,Purificación,2025,9.6,Riesgo bajo,9.6,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73616,Rioblanco,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73622,Roncesvalles,2025,69.3,Riesgo alto,69.3,Riesgo alto,,,Riesgo alto,True,False,,False
+73,Tolima,73624,Rovira,2025,4.3,Sin riesgo,4.3,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73671,Saldaña,2025,3.9,Sin riesgo,3.9,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73675,San Antonio,2025,11.7,Riesgo bajo,11.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73678,San Luis,2025,1.3,Sin riesgo,0.7,Sin riesgo,17.0,Riesgo medio,Sin riesgo,True,True,16.3,False
+73,Tolima,73443,San Sebastián de Mariquita,2025,1.7,Sin riesgo,1.7,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73686,Santa Isabel,2025,15.7,Riesgo medio,15.7,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73770,Suárez,2025,51.0,Riesgo alto,51.0,Riesgo alto,,,Riesgo alto,True,False,,False
+73,Tolima,73854,Valle de San Juan,2025,27.2,Riesgo medio,27.2,Riesgo medio,,,Riesgo medio,True,False,,False
+73,Tolima,73861,Venadillo,2025,5.9,Riesgo bajo,5.9,Riesgo bajo,,,Riesgo bajo,True,False,,False
+73,Tolima,73870,Villahermosa,2025,2.0,Sin riesgo,2.0,Sin riesgo,,,Sin riesgo,True,False,,False
+73,Tolima,73873,Villarrica,2025,30.2,Riesgo medio,30.2,Riesgo medio,,,Riesgo medio,True,False,,False
+76,Valle del Cauca,76020,Alcalá,2025,14.7,Riesgo medio,0.9,Sin riesgo,23.6,Riesgo medio,Riesgo medio,True,True,22.700000000000003,False
+76,Valle del Cauca,76036,Andalucía,2025,0.7,Sin riesgo,1.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.0,False
+76,Valle del Cauca,76041,Ansermanuevo,2025,11.8,Riesgo bajo,0.4,Sin riesgo,19.2,Riesgo medio,Riesgo bajo,True,True,18.8,False
+76,Valle del Cauca,76054,Argelia,2025,37.2,Riesgo alto,0.0,Sin riesgo,65.1,Riesgo alto,Riesgo alto,True,True,65.1,False
+76,Valle del Cauca,76100,Bolívar,2025,32.4,Riesgo medio,0.0,Sin riesgo,56.2,Riesgo alto,Riesgo medio,True,True,56.2,False
+76,Valle del Cauca,76109,Buenaventura,2025,3.0,Sin riesgo,3.9,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-3.9,False
+76,Valle del Cauca,76113,Bugalagrande,2025,5.6,Riesgo bajo,0.0,Sin riesgo,10.9,Riesgo bajo,Riesgo bajo,True,True,10.9,False
+76,Valle del Cauca,76122,Caicedonia,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+76,Valle del Cauca,76126,Calima,2025,55.6,Riesgo alto,,,55.6,Riesgo alto,Riesgo alto,True,True,,False
+76,Valle del Cauca,76130,Candelaria,2025,1.4,Sin riesgo,0.5,Sin riesgo,5.9,Riesgo bajo,Sin riesgo,True,True,5.4,False
+76,Valle del Cauca,76233,Dagua,2025,12.1,Riesgo bajo,0.0,Sin riesgo,19.4,Riesgo medio,Riesgo bajo,True,True,19.4,False
+76,Valle del Cauca,76246,El Cairo,2025,0.7,Sin riesgo,0.7,Sin riesgo,,,Sin riesgo,True,False,,False
+76,Valle del Cauca,76248,El Cerrito,2025,0.4,Sin riesgo,0.0,Sin riesgo,1.5,Sin riesgo,Sin riesgo,True,True,1.5,False
+76,Valle del Cauca,76250,El Dovio,2025,5.3,Riesgo bajo,6.2,Riesgo bajo,1.0,Sin riesgo,Riesgo bajo,True,True,-5.2,False
+76,Valle del Cauca,76243,El Águila,2025,8.9,Riesgo bajo,0.7,Sin riesgo,19.3,Riesgo medio,Riesgo bajo,True,True,18.6,False
+76,Valle del Cauca,76275,Florida,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+76,Valle del Cauca,76306,Ginebra,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.1,Sin riesgo,Sin riesgo,True,True,0.1,False
+76,Valle del Cauca,76318,Guacarí,2025,3.5,Sin riesgo,0.0,Sin riesgo,45.2,Riesgo alto,Sin riesgo,True,True,45.2,False
+76,Valle del Cauca,76111,Guadalajara de Buga,2025,0.0,Sin riesgo,0.0,Sin riesgo,,,Sin riesgo,True,False,,False
+76,Valle del Cauca,76364,Jamundí,2025,0.9,Sin riesgo,0.4,Sin riesgo,2.8,Sin riesgo,Sin riesgo,True,True,2.4,False
+76,Valle del Cauca,76377,La Cumbre,2025,4.8,Sin riesgo,0.0,Sin riesgo,5.8,Riesgo bajo,Sin riesgo,True,True,5.8,False
+76,Valle del Cauca,76400,La Unión,2025,6.4,Riesgo bajo,2.4,Sin riesgo,19.8,Riesgo medio,Riesgo bajo,True,True,17.400000000000002,False
+76,Valle del Cauca,76403,La Victoria,2025,0.8,Sin riesgo,1.1,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-1.1,False
+76,Valle del Cauca,76497,Obando,2025,9.2,Riesgo bajo,0.9,Sin riesgo,31.1,Riesgo medio,Riesgo bajo,True,True,30.200000000000003,False
+76,Valle del Cauca,76520,Palmira,2025,0.3,Sin riesgo,0.0,Sin riesgo,0.5,Sin riesgo,Sin riesgo,True,True,0.5,False
+76,Valle del Cauca,76563,Pradera,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+76,Valle del Cauca,76606,Restrepo,2025,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,0.0,False
+76,Valle del Cauca,76616,Riofrío,2025,12.3,Riesgo bajo,0.0,Sin riesgo,33.4,Riesgo medio,Riesgo bajo,True,True,33.4,False
+76,Valle del Cauca,76622,Roldanillo,2025,1.9,Sin riesgo,1.7,Sin riesgo,2.4,Sin riesgo,Sin riesgo,True,True,0.7,False
+76,Valle del Cauca,76670,San Pedro,2025,0.5,Sin riesgo,0.0,Sin riesgo,0.9,Sin riesgo,Sin riesgo,True,True,0.9,False
+76,Valle del Cauca,76001,Santiago de Cali,2025,7.1,Riesgo bajo,0.4,Sin riesgo,19.3,Riesgo medio,Riesgo bajo,True,True,18.900000000000002,False
+76,Valle del Cauca,76736,Sevilla,2025,4.0,Sin riesgo,0.0,Sin riesgo,21.1,Riesgo medio,Sin riesgo,True,True,21.1,False
+76,Valle del Cauca,76823,Toro,2025,17.4,Riesgo medio,3.2,Sin riesgo,27.4,Riesgo medio,Riesgo medio,True,True,24.2,False
+76,Valle del Cauca,76828,Trujillo,2025,0.9,Sin riesgo,0.0,Sin riesgo,12.0,Riesgo bajo,Sin riesgo,True,True,12.0,False
+76,Valle del Cauca,76834,Tuluá,2025,3.3,Sin riesgo,0.5,Sin riesgo,10.3,Riesgo bajo,Sin riesgo,True,True,9.8,False
+76,Valle del Cauca,76845,Ulloa,2025,13.0,Riesgo bajo,3.7,Sin riesgo,41.0,Riesgo alto,Riesgo bajo,True,True,37.3,False
+76,Valle del Cauca,76863,Versalles,2025,24.5,Riesgo medio,2.4,Sin riesgo,44.1,Riesgo alto,Riesgo medio,True,True,41.7,False
+76,Valle del Cauca,76869,Vijes,2025,2.6,Sin riesgo,2.7,Sin riesgo,0.0,Sin riesgo,Sin riesgo,True,True,-2.7,False
+76,Valle del Cauca,76890,Yotoco,2025,11.0,Riesgo bajo,0.0,Sin riesgo,50.4,Riesgo alto,Riesgo bajo,True,True,50.4,False
+76,Valle del Cauca,76892,Yumbo,2025,7.0,Riesgo bajo,8.0,Riesgo bajo,5.0,Sin riesgo,Riesgo bajo,True,True,-3.0,False
+76,Valle del Cauca,76895,Zarzal,2025,1.9,Sin riesgo,0.2,Sin riesgo,4.9,Sin riesgo,Sin riesgo,True,True,4.7,False
+97,Vaupés,97161,Carurú,2025,22.9,Riesgo medio,22.9,Riesgo medio,,,Riesgo medio,True,False,,False
+97,Vaupés,97001,Mitú,2025,14.2,Riesgo medio,14.2,Riesgo medio,,,Riesgo medio,True,False,,False
+97,Vaupés,97666,Taraira,2025,3.0,Sin riesgo,3.0,Sin riesgo,,,Sin riesgo,True,False,,False
+99,Vichada,99773,Cumaribo,2025,8.1,Riesgo bajo,8.1,Riesgo bajo,,,Riesgo bajo,True,False,,False
+99,Vichada,99524,La Primavera,2025,19.0,Riesgo medio,19.0,Riesgo medio,,,Riesgo medio,True,False,,False
+99,Vichada,99624,Santa Rosalía,2025,8.7,Riesgo bajo,8.7,Riesgo bajo,,,Riesgo bajo,True,False,,False
